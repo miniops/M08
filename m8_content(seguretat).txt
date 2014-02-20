@@ -1,23 +1,15 @@
-# Pas 1
+## Pas 1
 
-# Seguretat a la xarxa 
-*“Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.”* Curtis J. Bonk, *The World is Open. How Web Technology is Revolutionizing Education*
+# Gestió de la identitat a la Xarxa 
 
-Vivim un moment clau en l’evolució de la humanitat. Internet connecta les vides singulars d’arreu del planeta Terra, els dóna veu i protagonisme a través d’un mitjà d’efectes immediats i globals. Davant d’aquest context, té sentit fer servir les lleis antigues per tancar espais de bits, oberts i sense fronteres traçades? 
-
-La informació no ha canviat, ha canviat la manera com la movem i la fem circular. Aquí us proposem un recorregut per reflexionar sobre: Quina informació volem deixar al domini públic per fer créixer les oportunitats de les persones? Quina informació volem preservar del domini públic per continuar gaudint d’espais propis, lliures de mirades no desitjades?
-
-
+Portada: Paràgraf introductori que anunciï tema i intencionalitat del miniop.
+Proposta: nternet com a espai relacional, que brinda oportunitats però també pot ser problemàtic. (enfocament positiu, no maniqueu ni dogmàtic
 
 ## Síl·labus 
  * L'empremta digital
-Coneix com els sistemes informàtics i Internet capten la informació que hi emetem.
+ * El dret a l'autodeterminació informativa: factors interns i externs
+*  Delictes i faltes
 * Contractació de serveis
-Valora com els serveis 2.0 tracten la informació que hi dipositem sent-ne conscients o no.
- * El dret a l'autodeterminació informativa
-Coneix com la Unió Europea ha configurat aquest dret com a fonamental i per què.
-* Delictes i faltes
-Analitza si la irrupció d’Internet ha generat nous delictes, identifica’ls i valora’n possibles intervencions a fi d’evitar-los.
 
 
 ## Prerequisits del curs
@@ -30,389 +22,112 @@ Cercar a Internet &gt; Participar a la xarxa
 10 hores
 
 ## Elaborat per
-Laia Martín, Institut de Seguretat Pública de Catalunya
+Institut de Seguretat Pública de Catalunya
+Institut Obert de Catalunya
 
-# Pas 2. L’empremta digital: què poden arribar a saber els altres de mi?
-Ja no som només el que mostrem físicament sinó el que hem mostrat a través de les xarxes. 
+## (Pas 2)
+### Falta títol
+
+Idea: no som només el que mostrem físicament sinó el que hem mostrat a través de les xarxes. 
 
 En aquest vídeo s’hi fa un experiment. Mira-te’l:
 
-[Vídeo de Jack Vale](http://www.youtube.com/watch?v=5P_0s1TYpJU#t=161)
+[Vídeo Jack Vale sobre els efectes de la informació que transmeten via xarxes socials](http://www.youtube.com/watch?v=5P_0s1TYpJU#t=161)
 
-Peu: La informació que mostrem a les xarxes socials té efectes (Font: [Jack Vale Films](https://www.youtube.com/user/jackvalefilms)
+Malgrat el que sovint pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que les engrunes al bosc d’en Polzet ;-) i no sempre tenim a les nostres mans saber on s’emmagazetma ni què se n’està fent.
 
-Malgrat el que sovint pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que el d’un tatuatge i no sempre tenim a les nostres mans saber on s’emmagazetma ni què se n’està fent.
+Tres exemples: 
 
-Fixa’t en aquests casos: 
+[Els Mossos imputen dos joves al Vallès Oriental per coaccionar una menor a través de les xarxes socials](http://www.ara.cat/societat/Mossos-imputen-Valles-Oriental-coaccionar_0_1059494171.html)
 
----
+Futbolista Barça (Ara-Twitter)
 
-WEB: Proposem que hi hagi tres imatges que apuntin als enllaços de les notícies. És una qüestió complicada ja que els enllaços remeten a textos que no són visualment atractius. Alguna proposta?
-
----
-
-
-1. [La (falsa) frase de Toure Yaya: el gol d’un tuitaire](https://dl.dropboxusercontent.com/u/6810751/La%20%28falsa%29%20frase%20de%20Tour%C3%A9%20Yaya%3A%20el%20gol%20d%E2%80%99un%20tuitaire%20%28%C3%80lex%20Guti%C3%A9rrez%29.pd)
-2. [Alerta dels Mossos d’Esquadra per grooming a través de facebook](http://www.escolamasboadella.com/docs/mossos1.pdf)
-3. [Els Mossos imputen dos joves al Vallès Oriental per coaccionar una menor a través de les xarxes socials](http://www.ara.cat/societat/Mossos-imputen-Valles-Oriental-coaccionar_0_1059494171.html)
+Buscar un exemple que sigui curiós - anecdòtic.
 
 **Atura’t i comparteix**
-Cerca notícies d’actualitat relacionades amb usos no desitjats o fins i tot il·lícits de la nostra empremta digital. Aporta els resultats de la teva cerca al fòrum amb una frase que resumeixi el contingut de la notícia,  en forma d’enllaços.
-Et proposem que els comparteixis també a Twitter, si en tens un compte, amb l’etiqueta #miniop8.
+Cerca notícies d’actualitat relacionades amb usos no desitjats o fins i tot il·lícits de la nostra emprenta digital. Aporta els resultats de la teva cerca al fòrum amb una frase que resumeixi el contingut de la notícia,  en forma d’enllaços o a Twitter, si en tens un compte amb l’etiqueta #miniop8.
 
-___
+## Pas 3 
+### Hi falta títol: La teranyina ens enganxa/atrapa...
 
-WEB: en el cos del text del fòrum on diu “també a Twitter” s’hi podria posar l’etiqueta amb fons vermell i el logo de twitter que apareix en el fil de fòrum 5 del miniop Participar a la xarxa. (a diferència del miniop de participació, l’etiqueta ha d’anar al cos del text, no a l’etiqueta que anuncia l’aturat i comparteix)
-
-___
-
-
-# Pas 3. Intimitat i espai públic
-“**Perquè Internet ens vigila, ha arribat l’hora que nosaltres vigilem els qui ens vigilen**” Gary Kovacs
+ “Perquè Internet ens vigila, ha arribat l’hora que nosaltres vigilem els qui ens vigilen” Gary Kovacs
 
 Mira’t aquest vídeo:
-[Gary Kovacs. Tracking our online trackers](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html)
 
-Peu: La informació de navegació és rastrejada per altres - Font [Gary Kovacs. Tracking our online trackers - TED Talks](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers)
+Vídeo: [Gary Kovacs. Tracking our online trackers](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html)
 
-Així doncs, ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. Malgrat no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins quin punt la nostra informació es demandada per diferents empreses d’internet. Aquí en tens un altre exemple:
-
-[Lightbeam for Firefox](https://www.youtube.com/watch?v=PvqGy9wz_wA)
-
-Peu: Lightbeam per a Firefox et mostra gràficament qui t’observa - Font: [Mozilla](http://www.mozilla.org/ca/lightbeam/) 
-
-Les dades poden ser recollides amb o sense consentiment explícit del navegant. Com que molt sovint no en som conscients, aquestes eines ens permetran visualitzar qui està prenent nota del nostre rastre digital. 
-
-Són molt útils, doncs:
-* per saber qui ens vigila
-* per poder bloquejar-ne l’accés a la navegació quan accedim a l’espai principal
-* per mostrar-nos les connexions amagades rere els llocs que voluntàriament i conscientment visites
-* per saber d’on surten les galetes (o *cookies*) i qui en rep la informació
-* per saber on estan localitzats geogràficament els servidors que emmagatzemen aquestes dades
-
-
+REDACTAR: ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. (? - decidir si hi posem captures aquí o en el fòrum  / o bé desenvolupar el contingut del pas)
 
 **Atura’t i practica**
 
-Fem una prova? Instal·la al teu navegador [Lightbeam per a Firefox](http://www.mozilla.org/ca/lightbeam/) o bé [Collusion per a Chrome](https://chrome.google.com/webstore/detail/collusion-for-chrome/ganlifbpkcplnldliibcbegplfmcfigp)
+Fem una prova! Instal·la al teu navegador [Lightbeam for Firefox](http://www.mozilla.org/ca/lightbeam/) o bé [Collusion for Chrome](https://chrome.google.com/webstore/detail/collusion-for-chrome/ganlifbpkcplnldliibcbegplfmcfigp)
 
-Analitza els teus moviments al cap d’un dia. 
+![Gràfica de connexions Collusion for Chrome](https://dl.dropboxusercontent.com/u/6810751/collusion.png)
 
-La gràfica mostra les galetes, és a dir, les dades que els llocs web capten i conserven per facilitar-te la navegació o per obtenir estadístiques dels teus hàbits de navegació i que s’instal·len al teu navegador.
-
-Interpreta la gràfica dels teus moviments:
-* Podries dir quina informació s’ha recollit sobre tu?  Qui l’ha recollida? Saps què se’n fa?
-* La informació recollida, pertany a l’àmbit d’allò més personal i que no voldries que el públic en general conegués?
-
-
-# Pas 4. Com ens venem l’ànima al diable 
-
-Entenem per **identitat** aquella parcel·la que cadascú, en exercici de la seva **llibertat** individual, reserva de la seva vida enfront de l’acció i el coneixement de les altres persones, siguin poders públics, entitats privades o particulars.
-
-Aquesta parcel·la té components personals, però també, socioculturals. 
-
-Per entendre aquesta dimensió, mira’t aquest vídeo:
-
-[sense cortines](http://www.tv3.cat/videos/4458455/Sense-cortines)
-
-Peu: Sense cortines, l’exposició de la intimitat - Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
-
-Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar les personalitats emergents en aquesta etapa vital. Els tatuatges avui dia, com a les tribus, i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries: el que hi marquem ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
-
-La construcció de la identitat digital és una responsabilitat social i una marca personal que perdurarà.
-
-Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra! Aquí en tens un exemple:
-
-Peu: Quan Facebook pot ser causa d’acomiadament [Font: La Vanguardia](http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html)
-
-
----
-
-WEB:  o bé posar l’enllaç a la notícia anterior directament o bé captura de la notícia amb l’enllaç. Valora-ho.
-
----
-
+Fes una captura de pantalla dels teus moviments al cap d’un dia. Interpreta’ls i comparteix-la en el fòrum.
+* Podries dir quina informació s’ha recollit teva? 
+* Podem parlar d’una xarxa de connexions amagades? 
+* Relata al fòrum la teva experiència de consulta de les dades que es van compilant quan utilitzes Internet.
 
 **Atura’t i reflexiona**
+ Amb l’anàlisi feta, què canviaries en els teus hàbits de navegació? Trobes que la informació recollida és rellevant? Afecta la teva privacitat? Afecta la teva intimitat? Saps què pots fer perquè s’esborri? 
 
-[Llegeix les condicions d’ús de [Facebook:](https://www.facebook.com/legal/terms)
+## Pas 4 
+### Hi falta títol: la contractació de serveis / Suggeriment: De com ens venem l’ànima al diable. 
 
-___
+Identitat/privacitat.
+Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social&gt; EXPLICAR, DESENVOLUPAR.  Problema: hem perdut control sobre allò que mostrem: Contractació de serveis
 
-(WEB: aquí hem de posar l’enllaç a la pàgina de Facebook de les condicions d’ús. Si creus que quedaria millor visualment posant l’enllaç a una imatge de la pàgina o se t’acudeix alguna altra solució s’accepten propostes. Havíem valorat la possibilitat de fer alguna cosa semblant a aquest model però no ens convenç perquè ens interessa que llegeixin tot el text dins del seu context: http://mashable.tumblr.com/post/74754045659/xraggedyman-i-swear-to-god-im-dying-over-here)
+[Per què, ara i aquí, parlem tant de protecció de dades personals](http://www.youtube.com/watch?v=pqBuX99W5o8)
 
-___
+Llegir condicions d’ús de facebook (https://www.facebook.com/legal/terms)
 
-
-Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 5 preguntes següents:
-1. En cas de conflicte, a quin tribunal hauries de recórrer?
-2. Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
-3. Per què es parla de privacitat i no pas d’intimitat? Creus que es pot establir una gradació públic / privat / íntim? 
-4. Podem dir que tota la informació que deixem a facebook s’elimina i que s’elimina quan volem?
-5. Havent respost les anteriors preguntes, com aconsellaries de configurar el perfil en una xarxa social per preservar al màxim la teva privacitat?
-
-# Pas 5. Com protegir la nostra identitat a la Xarxa?
-Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
-
-Els seus principals enemics són:
-* els poders públics que poden accedir i utilitzar les nostres dades sense permís i/o sense que en tinguem coneixement.
-* les empreses que volen fer negoci a partir de l’accés a les nostres dades.
-* nosaltres mateixos quan contractem serveis especialment de xarxes socials sense parar esment que establim un acord, és a dir, que fem un pacte de prestacions i contraprestacions.
-* terceres persones que poden 
-   * utilitzar de forma fraudulenta i de mala fe la nostra imatge. 
-   * fer servir la Xarxa com a mitjà de difamació.
-   * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol).
-
-La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia i amb l’objectiu de resoldre aquest problema s’està parlant molt del gir cap a les dades biomètriques a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
-
-Tanmateix, el mètode més segur per comprovar la identitat digital a Internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afectat hagi indicat.
-
-Aquí tens una relació de consells de seguretat:
-
----
-
-WEB: IMG - INFOGRAFIA (ENCÀRREC EN CURS)
-
-![model infografia](https://www.dropbox.com/s/lq44ovbgrv73rkg/mo8_infografia.jpeg)
-Text que conté la infografia:
-
-Endavant!
-
-* Activa una autenticació basada en dos factors sempre que l’ofereixin
-* Facilita respostes falses a les qüestions de seguretat que et demanen en obrir un compte
-* Elimina el teu rastre en línia amb aplicacions instal·lables als navegadors
-* Utilitza una única adreça electrònica i segura
-* Posa els cinc sentits a l’hora d’escollir contrasenyes
-* Aplica el màxim secret a les teves contrasenyes
-
-Alto! 
-
-* No utilitzis la mateixa contrasenya per a comptes diferents 
-* No utilitzis una paraula comuna del diccionari com a contrasenya
-* No apliquis substitucions numèriques sistemàtiques, com ara c0ntr5seny5
-* No utilitzis contrasenyes curtes per molt estranyes que ens puguin semblar
-* No facilitis a ningú una contrasenya teva
-* No deixis sessions obertes en aplicacions a Internet en dispositius que no siguin teus 
-
-
----
-
-Com pots eliminar el teu rastre en línia? Com pots reforçar la seguretat de les teves contrasenyes? Posa fil a l’agulla:
-
-Existeixen extensions instal·lables al teu navegador (com  [Disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o [Ghostery](https://www.ghostery.com/en/) que et permeten prendre decisions sobre què estàs disposat a mostrar i a qui. 
-
-Mira’t aquest vídeo i et sorprendràs:
-
-[ghostery](&lt;iframe width="560" height="315" src="//www.youtube.com/embed/EKzyifAvC_U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;)
-
-Peu: Podem prendre decisions informades sobre la nostra privacitat - Font: [Ghostery](https://www.ghostery.com/en/)
-
-Malgrat pot resultar de vegades una feina feixuga recordar-les totes, triar una contrasenya segura és fonamental. 
-
-Aquest vídeo et pot ajudar:
-
-[strong password](&lt;iframe width="560" height="315" src="//www.youtube.com/embed/0RCsHJfHL_4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;)
-
-Peu: Crear una contrasenya segura és important. Font [Google](https://www.youtube.com/watch?v=0RCsHJfHL_4)
-
-Hi ha, doncs, contresenyes dolentes perquè són previsibles pero també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
-[La llista de les pitjors contrasenyes](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html) i [Com crear-ne de bones](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
-
-
-# Pas 6. El dret a l’autodeterminació informativa
-
-[Us adoneu que, potencialment, vivim en cases de vidre?](http://youtu.be/PD5uoTEbSbo)
-
-La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què i per a què. 
-
-No s’ha de confondre amb el dret a la intimitat. El dret a l’autodeterminació informativa apareix com a tal en el moment en què la informàtica es desenvolupa i amenaça la vida privada de les persones. Per què? Doncs perquè les seves dades poden ser vigilades, analitzades i tractades tant pels poders públics (estats) com pels privats (empreses).
-
-La Constitució espanyola de 1978 va ser, després de la portuguesa, de les primeres a reconèixer aquest dret. No és estrany: tant Espanya com Portugal acabaven de sortir de dos règims dictatorials i iniciaven un llarg camí cap a la democràcia. En aquest context, pensar que els poders públics podien ser amos i senyors de les dades personals dels ciutadans provocava un recel més que justificat.
-
-Aquest dret està reconegut per la legislació europea com a dret fonamental mentre que als EUA només s’ha legislat des de diferents sectors però no pas en la columna vertebral del sistema legislatiu, la Constitució. Aquest fet explica que la [National Security Agency](http://www.nsa.gov) (NSA) es dediqués a aplegar i explotar dades dels ciutadans accedint als servidors de les principals empreses d’Internet, ja que per al poble americà preval la llibertat d’expressió sobre la intimitat, tal com estableix la cèlebre Primera Esmena de la Declaració de Drets que acompanya la Constitució: “El Congrés no podrà elaborar cap llei quant a l'establiment d'una religió, ni prohibir-ne el lliure acompliment de ritus; ni reduir la llibertat d'expressió o de premsa; ni privar el poble del dret de reunió pacífica, ni del dret de petició a fi de demanar reparacions al Govern.”
+On són els servidors, fet que marca la jurisdicció (Comtat de Sant Mateu, EUA!); què fan amb les nostres dades, quines autoritzacions ens demanen i per a què... DONAR UN EXEMPLE. SUGGERIMENT: Imatge d’un data center / mostrar un exemple de les condicions d’ús on es parli d’on és el servidor destacat (tipus ex. Tumblr Mashable)
 
 **Atura’t i reflexiona**
+Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Copia/enganxa. DESENVOLUPAR LES PREGUNTES. Explica-ho en el fòrum.
 
-Mira’t aquest vídeo:
 
-[Missatge de Nadal de l’Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI) 
-[missatge Snowden sense comentaris comentaris](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
 
-Peu: Al nadal de 2013 Edward Snowden va enviar un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
+### 5 Com protegir la nostra identitat a la Xarxa?
+AQUEST ÉS UN PAS DE TIPS/CONSELLS
+POSSIBILITAT DE MOSTRAR LA INFORMACIÓ GRÀFICAMENT.
+Introduir la llista de consells:
 
+1. Llegint bé les condicions dels serveis on ens subscrivim
+2. Netejant el rastre que deixem en xarxes socials amb aplicacions instal·lables als navegadors com [disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o Ghostery
+3. Posant els cinc sentits a l’hora d’escollir contrasenyes
+[Contrasenyes segures](https://www.youtube.com/watch?v=0RCsHJfHL_4)
+[Notícia vilaweb sobre contrasenyes segures](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
 
-A partir de les afirmacions contingudes al vídeo d’Snowden i del text següent, debateu sobre quina relació hi ha entre el tractament informàtic de dades privades i la llibertat personal enfront dels poders públics.  Per què s’afirma que el control de les dades personals converteix els ciutadans en clients? Quines repercussions té aquest fet?
+[Notícia vilaweb sobre com crear una bona contrasenya](http://www.vilaweb.cat/noticia/4138812/20130814/crear-bona-contrasenya.html)
 
-*L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies d ela informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.*
-*Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats seguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.*
 
-Font: [Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
+PROPOSTA DE RECOLLIR DO’s DON’Ts en una il·lustració, gràfic, etc.
+Laia: redactar-los.
 
+[Bona infografia sobre autenticació](http://www.edtechmagazine.com/higher/article/2013/02/passwords-security-and-future-authentication-infographic)
 
+Activitat una consulta sobre grau de seguretat de les contrasenyes
 
-# Pas 7. Lleis velles per a un món nou?
-Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta.
+http://owncloud.org/
 
-Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.boe.es/boe/dias/2010/09/17/pdfs/BOE-A-2010-14221.pdf)
+[11Febrer: afer Internet Day](http://www.diainternetsegura.es/)
+[#SID2014](https://twitter.com/search?q=%23SID2014) 
 
-![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
- 
-Com veiem en aquest document que intenta establir unes bases de col·laboració entre estats, s’apunta a un compromís basat en la idea de territori geogràfic. Però... no és possible controlar Internet amb barreres i criteris territorials!
 
-Cal, doncs, un dret de consens, codis deontològics i acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet.
+### 6 El dret a l’autodeterminació informativa
 
-La Xarxa / Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura és. La ICANN coneix millor que ningú el funcionament de la Xarxa. La ICANN ja fa anys que ha adoptat el que ha anomenat [Política de # Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
-Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament/no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
+[Missatge de Nadal de l’Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI)
 
-Vegem-ne dos exemples: 
+Vídeo de protecció de dades (per re-situar)
 
-El cas de Xavi Hernàndez. A qui pertany i per què el domini &lt;xavihernandez.com&gt;? (http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)
+### 7 Lleis velles per a un món nou?
 
-En anglès, el cas, que va perdre, Bruce Springsteen (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html) perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini &lt;brucespringsteen.com&gt; estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First arived, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
+### 8 Delictes i faltes. 
+Línia vermella: la invasió de la intimitat
 
-# Pas 8. Delictes i faltes
-Rumiem una mica. Internet no ha generat gaires nous delictes, és a dir, delictes derivats d’aquest mitjà tecnològic.
 
-Si pensem en assetjament, sigui escolar o laboral, el delicte ja està tipificat com a dany a la integritat moral o física de les persones.
-
-Si pensem en pornografia infantil, s’està atemptant contra el dret a la pròpia imatge del menor i tant se val el mitjà. El mitjà Internet magnifica l’impacte, el fa més gran, però el valor que s’ha desprotegit és el mateix que quan es comet delicte en l’àmbit estrictament espacial.
-
-Si pensem en invasió de la vida privada, aquí sí que s’ha produït un canvi en l’essència que ja hem anat analitzant i que afecta les conductes individuals, que s’autoexposen al perill, els models socioeconòmics, que se senten temptats a posseir la informació que fins ara sabien privada, i l’àmbit jurídic.
-
-Què ha fet Internet? Ampliar l’escenari dels delictes que ja existien i elevar exponencialment la probabilitat d’agrupar-se en xarxes, de trobar-se persones que comparteixen els mateixos interessos.
-
-
-**Atura’t i comparteix** 
-
-Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüència d’usos indesitjats d’Internet. Aporta-hi noves notícies i classifica-les segons el tipus de delicte: 
-* invasió de la intimitat
-* estafes
-* integritat moral (injúries, calúmnies, ciberassetjament)
-* integritat física (ciberasstejament o ciberassetjament a menors -*grooming*-)
-* apropiació d’obres d’altres persones
-
-I si trobes algun altre tipus de delicte, comparteix-lo.
-
-
-# Pas 9. Com ha de ser el dret d’Internet?
-Què ha fet el dret davant del canvi social, econòmic i cultural que el desplegament de les Tecnologies de la Informació i la comunicació ha comportat? 
-
-Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, (WEB: POSAR ENLLAÇ AL PAS 7 EN EL TEXT SEGÜENT: com el Conveni de Budapest sobre cibercriminalitat) però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret. 
-
-Però, les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
-
-Cal apuntar cap a un dret del pacte, del consens i de la coresponsabilitat entre els ports a la manera del que van construir els mercaders del Mediterrani a l’edat mitjana i que s’ha recollit al *Consolat de Mar* .
-
-El Consolat de Mar establia un codi basat en l’autoregulació dels mercaders pel Mediterrani amb l’objectiu de garantir la seguretat les principals vies comercials i la col·laboració i el suport entre eles agents.
-
-Les normes es basaven en els costums consolidats i en les resolucions (jurisprudència) que anaven trobant els diferents consols de mar.
-
-No és debades que també naveguem per Internet ;-). 
-![Mapa del comerç català medieval](http://lh6.ggpht.com/_KKTCT60suEU/TE_rfSxpOJI/AAAAAAAAA94/TkBf3a498Hc/comercio_catalan.gif?imgmax=640)
-
-![LLibre de consolat de Mar](http://www.lluisvives.com/servlet/SirveObras/09255007699869439647857/4864_0074.jpg)
-Aquí i allà l’autoritat es guanya per coneixement del mitjà i per solidaritat i col·laboració entre els agents de l’intercanvi.
-
-El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són els que el dret constitucional anomena **drets fonamentals**. Entre ells, a vegades, topen i cal decidir en cada circumstància concreta quin fem prevaler. En veurem un cas tot seguit.
-
-Així doncs, la consolidació d’un món interconnectat ens fa posar **en peu d’alerta**: cal vetllar per deixar a la Xarxa i en obert tot allò que sigui d’interès públic i, alhora, barrar l’accés a la intimitat.
-
-Però no podem aplicar les mesures tradicionals (barreres, càstigs...) per fer-lo complir: ens cal acordar i pactar entre les parts (interessos privats, interessos d’empreses, interessos d’estats).
-
-Trobem un exemple recent en la sentència del Tribunal de Justícia de la Unió Europea en la qual se cita textualment per primer cop l’anomenat [dret a l’oblit](http://curia.europa.eu/juris/document/document.jsf?text=&amp;docid=152065&amp;pageIndex=0&amp;doclang=ES&amp;mode=req&amp;dir=&amp;occ=first&amp;part=1&amp;cid=245907http://sociedad.elpais.com/sociedad/2013/06/25/vidayartes/1372189102_695246.html):
-
-[Vídeo cas costejà en castella, del minut 10:31 al minut 13:36](http://www.rtve.es/alacarta/videos/documentos-tv/documentos-tv-ojo-tus-datos/2270048/)
-
-[o bé vídeo tv3, menys explicatiu](http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia)
-
-[apunt molt breu de Jaume Masdeu que ens pot ajudar a trobar el to per parlar de la sentència](http://blogs.324.cat/oheuropa.php?itemid=53643)
-
-### Exposició de fets de la sentència:
-14 El 5 de marzo de 2010, el Sr. Costeja González, de nacionalidad española y domiciliado en España, presentó ante la AEPD una reclamación contra La Vanguardia Ediciones, S.L., que publica un periódico de gran difusión, concretamente en Cataluña (en lo sucesivo, «La Vanguardia»), y contra Google Spain y Google Inc. Esta reclamación se basaba en que, cuando un internauta introducía el nombre del Sr. Costeja González en el motor de búsqueda de Google (en lo sucesivo, «Google Search»), obtenía como resultado vínculos hacia dos páginas del periódico La Vanguardia, del 19 de enero y del 9 de marzo de 1998, respectivamente, en las que figuraba un anuncio de una subasta de inmuebles relacionada con un embargo por deudas a la Seguridad Social, que mencionaba el nombre del Sr. Costeja González.
-
-15      Mediante esta reclamación, el Sr. Costeja González solicitaba, por un lado, que se exigiese a La Vanguardia eliminar o modificar la publicación para que no apareciesen sus datos personales, o utilizar las herramientas facilitadas por los motores de búsqueda para proteger estos datos. Por otro lado, solicitaba que se exigiese a Google Spain o a Google Inc. que eliminaran u ocultaran sus datos personales para que dejaran de incluirse en sus resultados de búsqueda y dejaran de estar ligados a los enlaces de La Vanguardia. En este marco, el Sr. Costeja González afirmaba que el embargo al que se vio sometido en su día estaba totalmente solucionado y resuelto desde hace años y carecía de relevancia actualmente.
-
-16      Mediante resolución de 30 de julio de 2010, la AEPD desestimó la reclamación en la medida en que se refería a La Vanguardia, al considerar que la publicación que ésta había llevado a cabo estaba legalmente justificada, dado que había tenido lugar por orden del Ministerio de Trabajo y Asuntos Sociales y tenía por objeto dar la máxima publicidad a la subasta para conseguir la mayor concurrencia de licitadores.
-
-17      En cambio, se estimó la misma reclamación en la medida en que se dirigía contra Google Spain y Google Inc. A este respecto, la AEPD consideró que quienes gestionan motores de búsqueda están sometidos a la normativa en materia de protección de datos, dado que llevan a cabo un tratamiento de datos del que son responsables y actúan como intermediarios de la sociedad de la información. La AEPD consideró que estaba facultada para ordenar la retirada e imposibilitar el acceso a determinados datos por parte de los gestores de motores de búsqueda cuando considere que su localización y difusión puede lesionar el derecho fundamental a la protección de datos y a la dignidad de la persona entendida en un sentido amplio, lo que incluye la mera voluntad del particular afectado cuando quiere que tales datos no sean conocidos por terceros. La AEPD estimó que este requerimiento puede dirigirse directamente a los explotadores de motores de búsqueda, sin suprimir los datos o la información de la página donde inicialmente está alojada e, incluso, cuando el mantenimiento de esta información en dicha página esté justificado por una norma legal.
-### Conclusions del TJUE:
-En virtud de todo lo expuesto, el Tribunal de Justicia (Gran Sala) declara:
-
-1)      El artículo 2, letras b) y d), de la Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, debe interpretarse en el sentido de que, por un lado, la actividad de un motor de búsqueda, que consiste en hallar información publicada o puesta en Internet por terceros, indexarla de manera automática, almacenarla temporalmente y, por último, ponerla a disposición de los internautas según un orden de preferencia determinado, debe calificarse de «tratamiento de datos personales», en el sentido de dicho artículo 2, letra b), cuando esa información contiene datos personales, y, por otro, el gestor de un motor de búsqueda debe considerarse «responsable» de dicho tratamiento, en el sentido del mencionado artículo 2, letra d).
-
-2)      El artículo 4, apartado 1, letra a), de la Directiva 95/46 debe interpretarse en el sentido de que se lleva a cabo un tratamiento de datos personales en el marco de las actividades de un establecimiento del responsable de dicho tratamiento en territorio de un Estado miembro, en el sentido de dicha disposición, cuando el gestor de un motor de búsqueda crea en el Estado miembro una sucursal o una filial destinada a garantizar la promoción y la venta de espacios publicitarios propuestos por el mencionado motor y cuya actividad se dirige a los habitantes de este Estado miembro.
-
-3)      Los artículos 12, letra b) y 14, párrafo primero, letra a), de la Directiva 95/46 deben interpretarse en el sentido de que, para respetar los derechos que establecen estas disposiciones, siempre que se cumplan realmente los requisitos establecidos en ellos, el gestor de un motor de búsqueda está obligado a eliminar de la lista de resultados obtenida tras una búsqueda efectuada a partir del nombre de una persona vínculos a páginas web, publicadas por terceros y que contienen información relativa a esta persona, también en el supuesto de que este nombre o esta información no se borren previa o simultáneamente de estas páginas web, y, en su caso, aunque la publicación en dichas páginas sea en sí misma lícita.
-
-4)      Los artículos 12, letra b), y 14, párrafo primero, letra a), de la Directiva 95/46 deben interpretarse en el sentido de que, al analizar los requisitos de aplicación de estas disposiciones, se tendrá que examinar, en particular, si el interesado tiene derecho a que la información en cuestión relativa a su persona ya no esté, en la situación actual, vinculada a su nombre por una lista de resultados obtenida tras una búsqueda efectuada a partir de su nombre, sin que la apreciación de la existencia de tal derecho presuponga que la inclusión de la información en cuestión en la lista de resultados cause un perjuicio al interesado. Puesto que éste puede, habida cuenta de los derechos que le reconocen los artículos 7 y 8 de la Carta, solicitar que la información de que se trate ya no se ponga a disposición del público en general mediante su inclusión en tal lista de resultados, estos derechos prevalecen, en principio, no sólo sobre el interés económico del gestor del motor de búsqueda, sino también sobre el interés de dicho público en acceder a la mencionada información en una búsqueda que verse sobre el nombre de esa persona. Sin embargo, tal no sería el caso si resultara, por razones concretas, como el papel desempeñado por el interesado en la vida pública, que la injerencia en sus derechos fundamentales está justificada por el interés preponderante de dicho público en tener, a raíz de esta inclusión, acceso a la información de que se trate.
-
-**Reflexió final: Pot portar aquesta sentència a una censura a Internet?**
-![Piulada sobre el dret a l’oblit](https://dl.dropboxusercontent.com/u/6810751/dret_oblit.png)
-
-Es produeix un conflicte entre dos drets fonamentals: la llibertat d’informació i l’autodeterminació informativa. Com suggereix la piulada de Javier de la Cueva, si s’esborra el rastre digital podem arribar a un punt en què s’estiguin malmetent dades que ens poden permetre escriure la història amb veracitat!
-
-**Atura’t i reflexiona**
-
-I tu, què hi dius? Estàs a favor del dret a l’oblit? Al cas plantejat pel Sr. Costeja, el fet és que va estar implicat en un procés judicial del qual a dreta llei formava part la publicació de l’embargament. Era aquesta realment una dada que afectés la seva vida íntima? Es pot obligar a esborrar dades que han estat producte d’un procés judicial? I si les dades haguessin estat realment privades, ¿veuríeu la situació diferent? 
-
-# Pas 10. Projecte
-
-### Projecte: Mira’t a tu mateix
-
-**A partir 2 recursos + l'anàlisi del seu propi rastre**:
-
-Projecte: Una representació gràfica (una infografia bàsica) acompayada d’un text personal sobre de la seva activitat a la xarxa. Es tracta de constatar l’activitat individual, saber amb quins serveis treballen a la xarxa, fer-ne l’anàlisi i reflexió sobre el grau al seu grau de “privacitat”, que pensin en quin serveis són més problemàtics i quins no ho són tant.
-
-**Enunciat**
-
-Punt de partida: 
-
-Mira’t aquest vídeo:
-
-vídeo de la campanya a KickStarter de [Federico Zannier](&lt;iframe width="480" height="360" src="https://www.kickstarter.com/projects/1461902402/a-bit-e-of-me/widget/video.html" frameborder="0" scrolling="no"&gt; &lt;/iframe&gt;)
-
-Escolta aquest podcast i llegeix-ne atentament la transcripció:
-
-Podcast de [Shawn Buckles](&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141809133&amp;color=ff5500"&gt;&lt;/iframe&gt;) 
-
-(notes per a nosaltres: La transcripció anirà sota el podcast. Del podcast, hi ha un aspecte molt interessant en un moment de la discussió amb el periodista: la meva privacitat implica també la des altres.)
-
-(notes per a nosaltres: Durant uns dies els alumnes han de fer extracció de dades d’ells mateixos per ser conscient d’allò que visiten: chat, gps, les pàgines que visito, les compres que faig, els meus wishlists, whatsapp, facebook, twitter, etc.)
-
- **El Mirall** Fer un representació gràfica d’ells mateixos i la seva activitat a la xarxa. 
-
-**Enunciat:** 
-
-Crea una infografia de tu mateix i la teva activitat a la xarxa per extreure’n els patrons de la teva vida a Internet. 
-
-Es tracta de constatar la teva activitat a Internet i fer-ne una representació gràfica senzilla per tal que comencis a reflexionar sobre els serveis que utilitzes i el grau de privacitat de cadascun. 
-
-(nota per a nosaltres: Aquí els donarem un exemple d’infografia i els serveis que poden utilitzar per fer-la.) GENIAL!!!!! (la pensada de la infografia) BRAVO!!!!
-
-
-NOTES PER A NOSALTRES: 
-
-Acabar de decidir el tipus d’infografia que demanarem: l’alumne al centre i al voltant tot el que ha avariguat respecte a la seva activitat a Internet. Pot ser:
-* quantificació en temps a cada servei 
-* mostrar temps de la jornada que passen a Internet i on: gmail, xats, compres, wishlists, les seves dades gps compartides, facebook, hi publico fotos, pensaments al mur, comentaris personals, twitter, google, etc). - EXEMPLE QUE NO TÉ RES A VEURE PERÒ QUE POT SER INSPIRADOR PER A NOSALTRES: [writers daily routines](http://www.fastcocreate.com/3028428/infographic-see-the-daily-routines-of-the-worlds-most-famous-creative-people#17)
-*   Important: no es tracta en cap cas de fer una infografia sofisticada, aquesta ha de ser un inici per pensar en un mateix, ja que l’important és la reflexió que han de fer a partir de la seva activitat a la xarxa.
-
-CONTINUACIÓ DE L’ENUNCIAT:
-
-Ara, llegeix aquest article del professor [Evgeny Morozov](http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html)
-Reflexiona a partir de les preguntes que et proposem:
-
-LAIA: bateria de preguntes.
-1. Quines dades privades no vendries mai de la vida? Per què?
-2. Explica amb paraules pròpies què vol dir convertir-se en una mena de “cartell publicitari interactiu”.
-3. Aporta casos en què t’has trobat que evidenciïn que empreses estan fent servir les teves dades de navegació per Internet per incloure publicitat ajustada a la teva personalitat als serveis que t’ofereixen, p.e. has buscat informació sobre París i t’envien a la teva bústia electrònica ofertes d’hotels en aquesta ciutat.
-4. Per qüestions d’ètica humanitària, ¿seria bo que dades clíniques de persones identificades se cedissin a universitats i hospitals amb finalitats de recerca científica? Veus problemes greus en aquesta cessió? Per què es pot fer amb persones difuntes i no pas amb les vives?
-5. Quins arguments es poden aportar per justificar/no que vendre’s l’ànima / intel·lecte és el mateix que vendre’s el cos?
-6. Quina opinió tens sobre el fet que les lleis puguin impedir aquesta venda? ¿Els estats han de regular aquesta part de la vida privada? ¿Es pot parlar d’un esclavatge de l’ànima que els estats haurien de prohibir?
-
-
-Publica la teva URL de la teva infografia. Recorda que la infografia ha d’anar acompanyada d’un text reflexiu en què facis fer una anàlisi crítica sobre la teva activitat a Internet: com protegeixes o no les teves dades? Cerca el serveis que utilitzes  i valora’n el nivell de privacitat, n’estàs realment informat?
-
-NOTA: AQUEST ENUNCIAT ÉS UN ESBORRANY. EDITEU-LO I MILLOREU-LO.
-
-altres notícies: http://elpais.com/elpais/2014/05/03/opinion/1399146252_528484.html
+### 9 Com ha de ser el dret d’Internet?
+Deixar a la Xarxa i en obert tot allò que sigui d’interès públic
+Barrar l’accés a la intimitat
