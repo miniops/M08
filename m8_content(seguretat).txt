@@ -40,7 +40,7 @@ Peu: La informació que mostrem a les xarxes socials té efectes (Font: [Jack Va
 
 Malgrat el que sovint pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que les engrunes al bosc d’en Polzet ;-) i no sempre tenim a les nostres mans saber on s’emmagazetma ni què se n’està fent.
 
-WEB: Proposo que hi hagis tres imatges que apuntin als enllaços de les notícies.
+WEB: Proposo que hi hagi tres imatges que apuntin als enllaços de les notícies.
 Tres exemples: 
 1. [La (falsa) frase de Toure Yaya: el gol d’un tuitaire](http://www.ara.cat/premium/falsa-frase-Toure-Yaya-tuitaire_0_1088291199.html)
 2. [Alerta dels Mossos d’Esquadra per grooming a través de facebook](http://www.escolamasboadella.com/docs/mossos1.pdf)
@@ -88,7 +88,11 @@ I poden contribuir a perdre-la!
 http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html
 
 **Atura’t i reflexiona**
-Llegir condicions d’ús de facebook (https://www.facebook.com/legal/terms) Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 4 preguntes següents:
+
+[Llegeix les condicions d’ús del Facebook:](https://www.facebook.com/legal/terms)
+(WEB: XAVIER, aquí hem de posar l’enllaç a la pàgina de Facebook de les condicions d’ús. Si creus que quedaria millor visualment posant l’enllaç a una imatge de la pàgina o se t’acudeix alguna altra solució s’accepten propostes. Havíem valorat la possibilitat de fer alguna cosa semblant a aquest model però no ens conveç perquè ens interessa que llegeixin tot el text dins del seu context: http://mashable.tumblr.com/post/74754045659/xraggedyman-i-swear-to-god-im-dying-over-here)
+
+Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 4 preguntes següents:
 1. En cas de conflicte, a quin tribunal hauries de recórrer?
 2. Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
 3. Per què es parla de privacitat i no pas d’intimitat? Busqueu els dos termes en diccionaris com ara el diec, el termcat, el de la RAE...
