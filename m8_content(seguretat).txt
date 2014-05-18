@@ -77,29 +77,23 @@ Entenem per **identitat** aquella parcel·la que cadascú, en exercici de la sev
 Aquesta parcel·la té components personals, però també, socioculturals. Per entendre mira’t aquest vídeo.
 Mira’t el vídeo següent:
 [Sense cortines](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
-Peu: ccvbnm
+Peu: ccvbnm Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
 
 Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar les personalitats emergents en aquesta etapa vital. Els tatuatges avui dia, com a les tribus, i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries: el que hi marquem ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
 
 La construcció de la identitat digital és una responsabilitat social i una marca personal que perdurarà.
-Un exemple: Les xarxes socials ajuden a trobar feina:
-http://youtu.be/70iSEMNVE_M
 
 I poden contribuir a perdre-la!
 http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html
 
-http://www.expertolaboralonline.com/index.php/me-han-despedido-estando-de-baja-por-unas-fotos-de-facebook-es-legal/?lang=ca
-
-Llegir condicions d’ús de facebook (https://www.facebook.com/legal/terms)
-
-On són els servidors, fet que marca la jurisdicció (Comtat de Sant Mateu, EUA!); què fan amb les nostres dades, quines autoritzacions ens demanen i per a què... DONAR UN EXEMPLE. SUGGERIMENT: Imatge d’un data center / mostrar un exemple de les condicions d’ús on es parli d’on és el servidor destacat (tipus ex. Tumblr Mashable)
-
 **Atura’t i reflexiona**
-Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 4 preguntes següents:
+Llegir condicions d’ús de facebook (https://www.facebook.com/legal/terms) Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 4 preguntes següents:
 1. En cas de conflicte, a quin tribunal hauries de recórrer?
 2. Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
 3. Per què es parla de privacitat i no pas d’intimitat?
 4. Podem dir que tota la informació que deixem a facebook s’elimina i que s’elimina quan volem?
+5. Havent respost les anteriors preguntes, com aconsella de configurara el vostre perfil en una xarxa socials per presercar al màxim la vostra privacitat?
+
 
 # Pas 5. Com protegir la nostra identitat a la Xarxa?
 Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
