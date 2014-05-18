@@ -105,7 +105,6 @@ Els seus principals enemics són
    * utilitzar de forma fraudulenta i de mala fe la nostra imatge 
    * fer servir la Xarxa com a mitjà de difamació
    * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol)
-
 La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia, s’està parlant molt del gir cap a les dades biomètriques a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector.: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
 Tanmateix, el mètode més segur per comprovar la identitat digital a Internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afectat hagi indicat.
