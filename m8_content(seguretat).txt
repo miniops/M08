@@ -177,7 +177,7 @@ Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.bo
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
 Vegeu títol 5 art. 20
 
-No és possible controlar Internet amb barreres i criteris territorials. Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals. 
+No és possible controlar Internet amb barreres i criteris territorials. Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals 
 
 Cal, doncs, un dret de consens, codis deontològics, acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet.
 
