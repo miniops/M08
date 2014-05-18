@@ -1,27 +1,23 @@
 # Pas 1. Gestió de la identitat a la Xarxa 
-Internet, escenari de les nostres vides
-*“Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.”* Curtis J. Bonk, *The World is Open. How Web Technology is Revolutionizing Education*
 
 Vivim un moment clau en l’evolució de la humanitat.
 
 Internet connecta les vides singulars d’arreu del planeta Terra, els dóna veu i protagonisme a través d’un mitjà d’efectes immediats i globals.
 
-Tanmateix, continuem volent fer servir claus per tancar espais de bits i volem aplicar lleis d’un vell món. Informació és poder, però ara s’ha fet líquida. La informació no ha canviat, ha canviat la manera com la movem i la fem circular.
+Tanmateix, continuem volent fer servir claus per tancar espais de bits i volem aplicar lleis d’un vell món.
+La informació no ha canviat, ha canviat la manera com la movem i la fem circular.
 
 Aquí us proposem un recorregut per reflexionar
 1. quina informació volem deixar al domini públic per fer créixer les oportunitats de les persones
 2. quina informació volem preservar del domini públic perquè el Gran Germà no esdevingui una realitat.
 
-Cal dir que on diem informació podem donar com a sinònim *dades*?
-
-Possible vídeo Unicef: [When you post on line, you post to the world](http://youtu.be/ZwOYD5Gj5H8)
+*“Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.”* Curtis J. Bonk, *The World is Open. How Web Technology is Revolutionizing Education*
 
 ## Síl·labus 
  * L'empremta digital
  * El dret a l'autodeterminació informativa: factors interns i externs
 * Delictes i faltes
 * Contractació de serveis
-
 
 ## Prerequisits del curs
 Cercar a Internet
