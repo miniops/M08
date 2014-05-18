@@ -8,9 +8,13 @@ La informació no ha canviat, ha canviat la manera com la movem i la fem circula
 
 ## Síl·labus 
  * L'empremta digital
- * El dret a l'autodeterminació informativa: factors interns i externs
-* Delictes i faltes
+Coneix com els sistemes informàtics i Internet capten la informació que hi emetem.
 * Contractació de serveis
+Valora com els serveis 2.0...
+ * El dret a l'autodeterminació informativa: factors interns i externs
+
+* Delictes i faltes
+
 
 ## Prerequisits del curs
 Cercar a Internet
@@ -30,10 +34,9 @@ Ja no som només el que mostrem físicament sinó el que hem mostrat a través d
 
 En aquest vídeo s’hi fa un experiment. Mira-te’l:
 
+[Vídeo de Jack Vale](http://www.youtube.com/watch?v=5P_0s1TYpJU#t=161)
+
 Peu: La informació que mostrem a les xarxes socials té efectes (Font: [Jack Vale Films](https://www.youtube.com/user/jackvalefilms)
-
-[Vídeo Jack Vale sobre els efectes de la informació que transmeten via xarxes socials](http://www.youtube.com/watch?v=5P_0s1TYpJU#t=161)
-
 
 Malgrat el que sovint pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que les engrunes al bosc d’en Polzet ;-) i no sempre tenim a les nostres mans saber on s’emmagazetma ni què se n’està fent.
 
