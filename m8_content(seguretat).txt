@@ -52,7 +52,7 @@ Cerca notícies d’actualitat relacionades amb usos no desitjats o fins i tot i
 # Pas 3. Intimitat i espai públic
 “**Perquè Internet ens vigila, ha arribat l’hora que nosaltres vigilem els qui ens vigilen**” Gary Kovacs
 
-Mira’t aquest vídeo:
+Amb aquesta :
 [Gary Kovacs. Tracking our online trackers](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html)
 
 REDACTAR: ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. (? - decidir si hi posem captures aquí o en el fòrum  / o bé desenvolupar el contingut del pas)
