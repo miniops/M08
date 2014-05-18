@@ -86,12 +86,15 @@ Què rastregen aquestes eines?
 
 **Atura’t i practica**
 
-Fem una prova! Instal·la al teu navegador [Lightbeam for Firefox](http://www.mozilla.org/ca/lightbeam/) o bé [Collusion for Chrome](https://chrome.google.com/webstore/detail/collusion-for-chrome/ganlifbpkcplnldliibcbegplfmcfigp)
+Fem una prova? Instal·la al teu navegador [Lightbeam for Firefox](http://www.mozilla.org/ca/lightbeam/) o bé [Collusion for Chrome](https://chrome.google.com/webstore/detail/collusion-for-chrome/ganlifbpkcplnldliibcbegplfmcfigp)
 
-Analitza els teus moviments al cap d’un dia. La gràfica mostra les galetes, dades que els llocs web capten i conserven per facilitar la navegació o per obtenir estadístiques de vistes, consum..., i que s’instal·len al teu navegador.
-Interpreta la gràfica dels teus moviments.
+Analitza els teus moviments al cap d’un dia. 
+
+La gràfica mostra les galetes (o *cookies*), és dir, les dades que els llocs web capten i conserven per facilitar-te la navegació o per obtenir estadístiques dels teus hàbits de navegació i que s’instal·len al teu navegador.
+
+Interpreta la gràfica dels teus moviments:
 * Podries dir quina informació s’ha recollit sobre tu?  Qui l’ha recollida? Saps què se’n fa?
-* La informació recollida ¿pertany a l’àmbit d’allò més personal i que no voldries que el públic en general conegués?
+* La informació recollida, pertany a l’àmbit d’allò més personal i que no voldries que el públic en general conegués?
 
 
 # Pas 4. Com ens venem l’ànima al diable 
