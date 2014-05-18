@@ -55,7 +55,7 @@ Cerca notícies d’actualitat relacionades amb usos no desitjats o fins i tot i
 Mira’t aquest vídeo:
 [Gary Kovacs. Tracking our online trackers](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html)
 
-REDACTAR: ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. (? - decidir si hi posem captures aquí o en el fòrum  / o bé desenvolupar el contingut del pas)
+REDACTAR:  Així doncs, ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. A banda de la que s’acaba de presentar, hi ha https://www.youtube.com/watch?v=PvqGy9wz_wA(? - decidir si hi posem captures aquí o en el fòrum  / o bé desenvolupar el contingut del pas)
 
 **Atura’t i practica**
 
@@ -64,7 +64,7 @@ Fem una prova! Instal·la al teu navegador [Lightbeam for Firefox](http://www.mo
 ![Gràfica de connexions Collusion for Chrome](https://dl.dropboxusercontent.com/u/6810751/collusion.png)
 
 Fes una captura de pantalla dels teus moviments al cap d’un dia. Interpreta’ls i comparteix-la en el fòrum.
-* Podries dir quina informació s’ha recollit teva? 
+* Podries dir quina informació s’ha recollit sobre tu? 
 * Podem parlar d’una xarxa de connexions amagades? 
 * Relata al fòrum la teva experiència de consulta de les dades que es van compilant quan utilitzes Internet.
 
@@ -73,14 +73,11 @@ Amb l’anàlisi feta, què canviaries en els teus hàbits de navegació? Trobes
 
 # Pas 4. Com ens venem l’ànima al diable. 
 
-Entenem per IDENTITAT aquella parcel·la que cadascú, en exercici de la seva LLIBERTAT individual, reserva de la seva vida enfront de l’acció i el coneixement de les altres persones, siguin poders públics, entitats privades o particulars.
-Aquesta parcel·la té components
-* socioculturals
-* personals
-
-
+Entenem per **identitat** aquella parcel·la que cadascú, en exercici de la seva **llibertat** individual, reserva de la seva vida enfront de l’acció i el coneixement de les altres persones, siguin poders públics, entitats privades o particulars.
+Aquesta parcel·la té components personals, però també, socioculturals. Per entendre mira’t aquest vídeo.
 Mira’t el vídeo següent:
 [Sense cortines](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
+Peu: 
 
 Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar les personalitats emergents en aquesta etapa vital. Els tatuatges avui dia, com a les tribus, i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries: el que hi marquem ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
 
