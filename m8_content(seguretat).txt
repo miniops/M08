@@ -224,3 +224,18 @@ Exemples de consells i decàlegs:
 [Decàlegs de seguretat de la UOC](http://informatica.blogs.uoc.edu/2014/02/23/security/#catala)
 
 http://www.internetsegura.cat/descargas/Us%20segur%20de%20xarxes%20socials.pdf
+
+3. Projecte (Catina): screencast / timelapse
+
+Aprofondir en l’anàlisi fan en el fil de fòrum del pas 2&gt; fer-ne una de molt acurada dels efectes que les seves cerces, mails, etc. Els podrien categortizar i fer una reflexió més aprofundida (que pot argumentar-se d'una manera rica gràcies als continguts "in crescendo" del miniop)
+A partir de què farien aquesta reflexió? 
+
+**A partir 2 recursos + l'anàlisi del seu propi rastre**:
+
+**Recurs 1:** Lectura d'aquest article d'Evgeny Morozov [ http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html](http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html)
+Hi apareixen aspectes que podríem fer destacar a partir d'una bateria de preguntes i que ells fessin una argumentació acompanyada de dades (tipus screencasting).
+
+**Recurs 2:** vídeo del Shawn Buckles i el seu negoci real de "vendre's l'ànima al diable" i les seves motivacions:
+mireu el vídeo i escolteu el podcast http://shawnbuckles.tumblr.com/dataforsale
+
+**Format**: fer screencast + timelapse 
