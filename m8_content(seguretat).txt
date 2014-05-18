@@ -175,7 +175,7 @@ Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.bo
 
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
  
-Com veiem en aquest document que intenta establir unes bases de col·laboració entre estats, s’intenta un compromís basat en la idea de territori geogràfic. Però... no és possible controlar Internet amb barreres i criteris territorials! Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta.
+Com veiem en aquest document que intenta establir unes bases de col·laboració entre estats, s’apunta a un compromís basat en la idea de territori geogràfic. Però... no és possible controlar Internet amb barreres i criteris territorials! Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta.
 
 Cal, doncs, un dret de consens, codis deontològics i acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet.
 
@@ -201,7 +201,9 @@ Què ha fet Internet? Ampliar l’escenari dels delictes que ja existien i eleva
 
 
 # Pas 9. Com ha de ser el dret d’Internet?
-Què ha fet el dret? Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, com veiem al pas 7 (Conveni de Budapest sobre cibercriminalitat) però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret. 
+Què ha fet el dret davant del canvi social, econòmic i cultural que el desplegament de les Tecnologies de la Informació i la comunicació ha comportat? 
+
+Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, com vèiem al pas 7 (Conveni de Budapest sobre cibercriminalitat) però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret. 
 
 Però, les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
 
@@ -209,9 +211,11 @@ Com hem vist, cal apuntar cap a un dret del pacte, del consens i de la corespons
 
 Aquí i allà l’autoritat es guanya per coneixement del mitjà i per solidaritat i col·laboració entre els agents de l’intercanvi.
 
-El dret ha de continuar protegint les línies vermelles que no es poden travessar: l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Per tant, cal vetllar per deixar a la Xarxa i en obert tot allò que sigui d’interès públic i, alhora, barrar l’accés a la intimitat.
+El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són els que el dret constitucional anomena **drets fonamentals**. Entre ells, a vegades, topen i cal decidir en cada circumstància concreta quin fem prevaler. En veurem un cas tot seguit.
 
-Però no podem aplicar les mesures tradicionals (barreres, càstigs...) per fer-lo complir: ens cal acordar i pactar entre les parts.
+Així doncs, la consolidació d’un món interconnectat ens fa posar **en peu d’alerta**: cal vetllar per deixar a la Xarxa i en obert tot allò que sigui d’interès públic i, alhora, barrar l’accés a la intimitat.
+
+Però no podem aplicar les mesures tradicionals (barreres, càstigs...) per fer-lo complir: ens cal acordar i pactar entre les parts (interessos privats, interessos d’empreses, interessos d’estats).
 
 Trobem un exemple recent en la sentència del Tribunal de Justícia de la Unió Europea en la qual se cita textualment per primer cop l’anomenat [dret a l’oblit](http://curia.europa.eu/juris/document/document.jsf?text=&amp;docid=152065&amp;pageIndex=0&amp;doclang=ES&amp;mode=req&amp;dir=&amp;occ=first&amp;part=1&amp;cid=245907http://sociedad.elpais.com/sociedad/2013/06/25/vidayartes/1372189102_695246.html):
 ### Exposició de fets de la sentència:
@@ -238,10 +242,7 @@ En virtud de todo lo expuesto, el Tribunal de Justicia (Gran Sala) declara:
 
 Es produeix un conflicte entre dos drets fonamentals: la llibertat d’informació i l’autodeterminació informativa. Com suggereix la piulada de Javier de la Cueva, si s’esborra el rastre digital podem arribar a un punt en què s’estiguin malmetent dades que ens poden permetre escriure la història amb veracitat!
 
-I tu, què hi dius? Estàs a favor del dret a l’oblit? Al cas que pnatejat pel Sr. Costeja, el fet és que va estar implicat en un procés judicial. Era aquesta realment una dada que afectés la seva vida íntima? Es pot obligar a esborrar dades que han estat producte d’un procés judicial?
-
-
-
+I tu, què hi dius? Estàs a favor del dret a l’oblit? Al cas plantejat pel Sr. Costeja, el fet és que va estar implicat en un procés judicial del qual a dreta llei formava part la publicació de l’embargament. Era aquesta realment una dada que afectés la seva vida íntima? Es pot obligar a esborrar dades que han estat producte d’un procés judicial? I si les dades haguessin estat realment privades, ¿veuríeu la situació diferent? 
 
 # Pas 10. Projecte
 
