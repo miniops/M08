@@ -1,7 +1,7 @@
 # Pas 1. Gestió de la identitat a la Xarxa 
 *“Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.”* Curtis J. Bonk, *The World is Open. How Web Technology is Revolutionizing Education*
 
-Vivim un moment clau en l’evolució de la humanitat.Internet connecta les vides singulars d’arreu del planeta Terra, els dóna veu i protagonisme a través d’un mitjà d’efectes immediats i globals. Tanmateix, continuem volent fer servir claus per tancar espais de bits i volem aplicar lleis d’un vell món.
+Vivim un moment clau en l’evolució de la humanitat. Internet connecta les vides singulars d’arreu del planeta Terra, els dóna veu i protagonisme a través d’un mitjà d’efectes immediats i globals. Tanmateix, continuem volent fer servir claus per tancar espais de bits i volem aplicar lleis d’un vell món.
 La informació no ha canviat, ha canviat la manera com la movem i la fem circular. Aquí us proposem un recorregut per reflexionar sobre: Quina informació volem deixar al domini públic per fer créixer les oportunitats de les persones? Quina informació volem preservar del domini públic perquè el Gran Germà no esdevingui una realitat?
 
 
@@ -63,8 +63,9 @@ Fem una prova! Instal·la al teu navegador [Lightbeam for Firefox](http://www.mo
 
 ![Gràfica de connexions Collusion for Chrome](https://dl.dropboxusercontent.com/u/6810751/collusion.png)
 
-Fes una captura de pantalla dels teus moviments al cap d’un dia. Interpreta’ls i comparteix-la en el fòrum.
-* Podries dir quina informació s’ha recollit sobre tu? 
+Fes una captura de pantalla dels teus moviments al cap d’un dia. La gràfica les galetes, dades que els llocs web capten i conserven per facilitar la navegació o per obtenir estadístiques de vistes, consum..., i que s’instal·len al teu navegador.
+Interpreta la gràfica dels teus moviments i comparteix-la en el fòrum.
+* Podries dir quina informació s’ha recollit sobre tu?  Saps què se’n fa?
 * Podem parlar d’una xarxa de connexions amagades? 
 * Relata al fòrum la teva experiència de consulta de les dades que es van compilant quan utilitzes Internet.
 
@@ -90,10 +91,9 @@ http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-
 Llegir condicions d’ús de facebook (https://www.facebook.com/legal/terms) Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 4 preguntes següents:
 1. En cas de conflicte, a quin tribunal hauries de recórrer?
 2. Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
-3. Per què es parla de privacitat i no pas d’intimitat?
+3. Per què es parla de privacitat i no pas d’intimitat? Busqueu els dos termes en diccionaris com ara el diec, el termcat, el de la RAE...
 4. Podem dir que tota la informació que deixem a facebook s’elimina i que s’elimina quan volem?
 5. Havent respost les anteriors preguntes, com aconsella de configurara el vostre perfil en una xarxa socials per presercar al màxim la vostra privacitat?
-
 
 # Pas 5. Com protegir la nostra identitat a la Xarxa?
 Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
@@ -145,33 +145,30 @@ http://owncloud.org/
 
 [11Febrer: afer Internet Day](http://www.diainternetsegura.es/)
 [#SID2014](https://twitter.com/search?q=%23SID2014) 
-[Consells dels Mossos](http://www20.gencat.cat/portal/site/mossos/menuitem.ab787c58b11dd607aacf3010b0c0e1a0/?vgnextoid=629daf9c25922310VgnVCM2000009b0c1e0aRCRD&amp;vgnextchannel=629daf9c25922310VgnVCM2000009b0c1e0aRCRD&amp;vgnextfmt=default)
 
-[Decàlegs de seguretat de la UOC](http://informatica.blogs.uoc.edu/2014/02/23/security/#catala)
-
-http://www.internetsegura.cat/descargas/Us%20segur%20de%20xarxes%20socials.pdf
 
 
 # Pas 6. El dret a l’autodeterminació informativa
 
 [Us adoneu que, potencialment, vivim en cases de vidre?](http://youtu.be/PD5uoTEbSbo)
 
-* L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] el dret fonamental a la protecció de dades personals es transforma en un element bàsic de la nova ciutadania electrònica. [...] No és per casualitat que els administrats siguin anomenats clients i s’utilitzin fórmules del llenguatge de l’empresa, com ara satisfacció del client que converteixen el ciutadà en un simple consumidor de serveis.*
+La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què i per a què. 
+
+No s’ha de confondre amb el dret a la intimitat ja que apareix com a tal en el moment en què la informàtica es desenvolupa i amenaça la vida privada de les persones. Per què? Doncs perquè les seves dades poden ser vigilades, analitzades i tractades tant pels poder públics com pels privats.
+
+La Constitució espanyola de 1978 va ser, després de la portuguesa, de les primeres a reconèixer aquest dret. No és estrany: tant Espanya com Portugal acabaven de sortir de dos règims dictatorials i iniciaven un llarg camí cap a la democràcia. En aquest context, pensar que els poder públics podien ser amos i senyors de les dades personals dels ciutadans provocava un recel més que justificat.
+
+Aquest dret està reconegut per la legislació europea com a dret fonamental mentre que als EUA només s’ha legislat des de diferents sectors però no pas en la columna vertebral del sistema legislatiu: la Constitució en la qual la llibertat d’expressió preval.
+
+*Debat*
+A partir del text següent i de les afirmacions contingudes al vídeo d’Snowden debateu sobre quina relació hi ha entre el tractament informàtica de dades privades i la llibertat personal enfront dels poders públics, per què s’afima que el control de les dades personals converteix els ciutadans en clients, quines repercussions té aquest fet...
+
+**L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] el dret fonamental a la protecció de dades personals es transforma en un element bàsic de la nova ciutadania electrònica. [...] No és per casualitat que els administrats siguin anomenats clients i s’utilitzin fórmules del llenguatge de l’empresa, com ara satisfacció del client que converteixen el ciutadà en un simple consumidor de serveis.**
+
 [Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
 
 [Missatge de Nadal de l’Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI) 
 [missatge Snowden sense comentariscomentaris](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
-
-Debat.
-
-Pekka Himanen, *L’ètica del hacker i l’esperit de l’era de la informació*: 
-*Els pirates (hackers) amb consciència social remarquen que la tecnologia d’encriptació no només ha de satisfer les necesssitats  de confidencialitat de governs i empreses, sinó que ha de protegir també l’individu dels governs i de les empreses. La llibertat d’expressió i la privacitat han estat ideals importants i els pirates i Internet s’hi han basat.* 
-
-Els hackers plantegen un ús de la criptografia invers als dels governs per garantir que la ciutadania té a les seves mans les claus de l’accés a la informació que l’afecta.
-
-La preservació de la intimitat com a pedra de toc de l’exercici democràtic: connexió amb l’estimació d’Internet com l’instrument que pot marcar el canvi definitiu de la democràcia representativa cap a la democràcia directa.
-
-Una aplicació que permet saber quines dades de facebook poden ser utilitzades en contra teva: http://www.trialbytimeline.org.nz/
 
 
 # Pas 7. Lleis velles per a un món nou?
@@ -180,28 +177,46 @@ Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.bo
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
 Vegeu títol 5 art. 20
 
-No és possible controlar de dalt a baix Internet.
+No és possible controlar Internet amb barreres i criteris territorials. Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals. 
 
-Cal un dret de consens, codis deontològics, acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet
+Cal, doncs, un dret de consens, codis deontològics, acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet.
+
+La Xarxa / Internet té una arquitectura que connecta els ordinadors d’arreu. L’entitat que manté aquesta arquitectura és ICANN. La ICANN coneix millor que ningú el funcionament de la Xarxa. La ICANN ja fa anys que ha adoptat el que ha anomenat [Política de # Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
+Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament/no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
+
+**Vegem-ne un exemple**: El cas de Xavi Hernàndez. A qui pertany i per què el domini &lt;xavihernandez.com&gt;? (http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)
+En anglès, el cas, que va perdre, Bruce Springsteen (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html) perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini &lt;brucespringsteen.com&gt; estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *Qui arriba primer, és servit primer.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
 
 # Pas 8. Delictes i faltes
-Línies vermelles: 
-* la invasió de la intimitat
-* la integritat física o moral de les persones
-* la llibertat d’expressió
-* la igualtat d’oportunitats
+Rumiem una mica. Internet no ha generat gaires nous delictes, és a dir, delictes derivats d’aquest mitjà tecnològic.
 
+Si pensem en assetjament, sigui escolar o laboral, el delicte ja està tipificat com a dany a la integritat moral o física de les persones.
+
+Si pensem en pornografia infantil, s’està atemptant contra el dret a la pròpia imatge del menor i tant se val el mitjà. El mitjà Internet magnifica l’impacte, el fa més gran, però el valor que s’ha desprotegit és el mateix que quan es comet delicte en l’àmbit estricatament espacial.
+
+Si pensem en invasió de la vida privada, aquí sí que s’ha produït un canvi en l’essència que ja hem anat analitzant i que afecta les conductes individuals que s’autoexposen al perill, els models socioeconòmics i l’àmbit jurídic.
+
+Què ha fet Internet? Ampliar l’escenari dels delictes que ja existien i elevar exponencialment la probabilitat d’agrupar-se en xarxes, de trobar-se persones que comparteixen els mateixos interessos.
+
+Què ha fet el dret? Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret. 
+
+Però, les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
+
+**Atura’t i comparteix** Ampleiu la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüència d’usos indesitjats d’Internet. Aporteu-hi noves notícies i classifiqueu segons el tipus de delicte: invasió de la intimitat, estafes, integritat moral (injúries, calúmnies, ciberassetjament), integritat física (grooming), apropiació d’obres d’altres persones...
 
 
 # Pas 9. Com ha de ser el dret d’Internet?
-Deixar a la Xarxa i en obert tot allò que sigui d’interès públic
-Barrar l’accés a la intimitat
+El dret ha de protegir les línies vermelles que no es poden travessar: la invasió de la intimitat, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Per tant, cal vetllar per deixar a la Xarxa i en obert tot allò que sigui d’interès públic i, alhora, barrar l’accés a la intimitat.
+
 
 # Pas 10. Proposta d’activitats (projecte final)
-1. Reescriure en escenari d’Internet actual un dels contes tradicionals següents
-    * la [Caputxeta vermella](http://ca.tales.land/grans-classics/6/la-caputxeta-vermella), on el bosc sigui Internet
-     * la [Rínxols d’Or](http://ca.tales.land/grans-classics/230/rinxols-d-or) que entra en comptes de xarxes socials de la família dels óssos
-     * el Polzet que, en compte de deixar cigrons, es deixa geolocalitzar
 
-2. Elabora un clip de vídeo de màxim 3 minuts on es relati un conflicte generat per un ús intromissiu de la tecnologia
-3. A partir de la teva experiència en xarxes socials, escriu un decàleg amb deu consells sobre què cal fer i que no s’ha de fer per preservar la identitat digital.
+1. Elabora un clip de vídeo de màxim 3 minuts on es relati un conflicte generat per un ús intromissiu de la tecnologia
+2. A partir de la teva experiència en xarxes socials, escriu un decàleg amb deu consells sobre què cal fer i que no s’ha de fer per preservar la identitat digital.
+Exemples de consells i decàlegs:
+
+[Consells dels Mossos](http://www20.gencat.cat/portal/site/mossos/menuitem.ab787c58b11dd607aacf3010b0c0e1a0/?vgnextoid=629daf9c25922310VgnVCM2000009b0c1e0aRCRD&amp;vgnextchannel=629daf9c25922310VgnVCM2000009b0c1e0aRCRD&amp;vgnextfmt=default)
+
+[Decàlegs de seguretat de la UOC](http://informatica.blogs.uoc.edu/2014/02/23/security/#catala)
+
+http://www.internetsegura.cat/descargas/Us%20segur%20de%20xarxes%20socials.pdf
