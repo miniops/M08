@@ -193,6 +193,7 @@ WEB: IMG - INFOGRAFIA (ENCÀRREC EN CURS)
 6. Deixar sessions obertes en aplicacions a Internet en dispositius que no siguin teus. 
 
 
+
 # Pas 6. El dret a l’autodeterminació informativa
 
 [Us adoneu que, potencialment, vivim en cases de vidre?](http://youtu.be/PD5uoTEbSbo)
