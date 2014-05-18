@@ -1,4 +1,4 @@
- # Pas 1. Gestió de la identitat a la Xarxa 
+# Pas 1. Gestió de la identitat a la Xarxa 
 Internet, escenari de les nostres vides
 *“Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.”* Curtis J. Bonk, *The World is Open. How Web Technology is Revolutionizing Education*
 
