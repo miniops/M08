@@ -1,12 +1,26 @@
-# Proposta de miniOP: Gestió de la identitat a la Xarxa 
+# Pas 1. Gestió de la identitat a la Xarxa 
+*“Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.”* Curtis J. Bonk, *The World is Open. How Web Technology is Revolutionizing Education*
+
+Vivim un moment clau en l’evolució de la humanitat.Internet connecta les vides singulars d’arreu del planeta Terra, els dóna veu i protagonisme a través d’un mitjà d’efectes immediats i globals. Tanmateix, continuem volent fer servir claus per tancar espais de bits i volem aplicar lleis d’un vell món.
+La informació no ha canviat, ha canviat la manera com la movem i la fem circular. Aquí us proposem un recorregut per reflexionar sobre: Quina informació volem deixar al domini públic per fer créixer les oportunitats de les persones? Quina informació volem preservar del domini públic perquè el Gran Germà no esdevingui una realitat?
+
+
+
 ## Síl·labus 
  * L'empremta digital
- * El dret a l'autodeterminació informativa: factors interns i externs
-*  Delictes i faltes
+Coneix com els sistemes informàtics i Internet capten la informació que hi emetem.
 * Contractació de serveis
+Valora com els serveis 2.0...
+ * El dret a l'autodeterminació informativa: factors interns i externs
+
+* Delictes i faltes
+
 
 ## Prerequisits del curs
-Cap / Fóra convenient haver realitzar /consultar els miniOPs 'Cerca d'informació' i 'Participació a la Xarxa'
+Cercar a Internet
+
+## Itinerari recomanat:
+Cercar a Internet &gt; Participar a la xarxa
 
 ## Dedicació horària
 10 hores
@@ -15,46 +29,113 @@ Cap / Fóra convenient haver realitzar /consultar els miniOPs 'Cerca d'informaci
 Institut de Seguretat Pública de Catalunya
 Institut Obert de Catalunya
 
-## Passos 
-### 1 (FETS)
-[Vídeo Jack Vale sobre els efectes de la informació que transmeten via xarxes socials](http://www.youtube.com/watch?v=5P_0s1TYpJU#t=161)
+# Pas 2. L’empremta digital: què poden arribar a saber els altres de mi?
+Ja no som només el que mostrem físicament sinó el que hem mostrat a través de les xarxes. 
 
-Malgrat el que sovim pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que el de Polzet ;-) i no sempre tenim a les nostres mans saber on s’emmagazetma ni què se n’està fent.
+En aquest vídeo s’hi fa un experiment. Mira-te’l:
 
-Un exemple: 
-[Els Mossos imputen dos joves al Vallès Oriental per coaccionar una menor a través de les xarxes socials](http://www.ara.cat/societat/Mossos-imputen-Valles-Oriental-coaccionar_0_1059494171.html)
+[Vídeo de Jack Vale](http://www.youtube.com/watch?v=5P_0s1TYpJU#t=161)
 
-**Cerca i comparteix**
-Cerca notícies d’actualitat relacionades amb usos no desitjats o fins i tot il·lícits de la nostra emprenta digital. Aporta i comenta els resultats de la teva cerca al fòrum en forma d’enllaços o a twitter amb una breu introducció que manifesti la teva opinió.
+Peu: La informació que mostrem a les xarxes socials té efectes (Font: [Jack Vale Films](https://www.youtube.com/user/jackvalefilms)
 
-### 2 (PER QUÈ 1?) “Perquè Internet ens vigila, ha arribat l’hora que nosaltres vigilem els qui ens vigilen” Gary Kovacs
-Vídeo: [Gary Kovacs. Tracking our online trackers](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html)
+Malgrat el que sovint pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que les engrunes al bosc d’en Polzet ;-) i no sempre tenim a les nostres mans saber on s’emmagazetma ni què se n’està fent.
+
+WEB: Proposo que hi hagis tres imatges que apuntin als enllaços de les notícies.
+Tres exemples: 
+1. [La (falsa) frase de Toure Yaya: el gol d’un tuitaire](http://www.ara.cat/premium/falsa-frase-Toure-Yaya-tuitaire_0_1088291199.html)
+2. [Alerta dels Mossos d’Esquadra per grooming a través de facebook](http://www.escolamasboadella.com/docs/mossos1.pdf)
+3. [Els Mossos imputen dos joves al Vallès Oriental per coaccionar una menor a través de les xarxes socials](http://www.ara.cat/societat/Mossos-imputen-Valles-Oriental-coaccionar_0_1059494171.html)
+
+**Atura’t i comparteix**
+Cerca notícies d’actualitat relacionades amb usos no desitjats o fins i tot il·lícits de la nostra empremta digital. Aporta els resultats de la teva cerca al fòrum amb una frase que resumeixi el contingut de la notícia,  en forma d’enllaços o a Twitter, si en tens un compte amb l’etiqueta #miniop8.
+
+# Pas 3. Intimitat i espai públic
+“**Perquè Internet ens vigila, ha arribat l’hora que nosaltres vigilem els qui ens vigilen**” Gary Kovacs
+
+Mira’t aquest vídeo:
+[Gary Kovacs. Tracking our online trackers](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html)
+
+REDACTAR:  Així doncs, ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. A banda de la que s’acaba de presentar, hi ha https://www.youtube.com/watch?v=PvqGy9wz_wA(? - decidir si hi posem captures aquí o en el fòrum  / o bé desenvolupar el contingut del pas)
+
+**Atura’t i practica**
 
 Fem una prova! Instal·la al teu navegador [Lightbeam for Firefox](http://www.mozilla.org/ca/lightbeam/) o bé [Collusion for Chrome](https://chrome.google.com/webstore/detail/collusion-for-chrome/ganlifbpkcplnldliibcbegplfmcfigp)
 
 ![Gràfica de connexions Collusion for Chrome](https://dl.dropboxusercontent.com/u/6810751/collusion.png)
 
-Fes una captura de pantalla dels teus moviments al cap d’un dia. Interpreta’ls. Podries dir quina informació s’ha recollit teva? Podem parlar d’una xarxa de connexions amagades? 
+Fes una captura de pantalla dels teus moviments al cap d’un dia. Interpreta’ls i comparteix-la en el fòrum.
+* Podries dir quina informació s’ha recollit sobre tu? 
+* Podem parlar d’una xarxa de connexions amagades? 
+* Relata al fòrum la teva experiència de consulta de les dades que es van compilant quan utilitzes Internet.
 
-**Reflexiona i comparteix**
-Relata al fòrum la teva experiència de consulta de les dades que es van compilant quan utilitzes Internet. Amb l’anàlisi feta, què canviaries en els teus hàbits de navegació? Trobes que la informació recollida és rellevant? Afecta la teva privacitat? Afecta la teva intimitat? Saps què pots fer perquè s’esborri? 
+**Atura’t i reflexiona**
+Amb l’anàlisi feta, què canviaries en els teus hàbits de navegació? Trobes que la informació recollida és rellevant? Afecta la teva privacitat? Afecta la teva intimitat? Saps què pots fer perquè s’esborri? 
 
-### 3  (PER QUÈ 2?)Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social. Problema: hem perdut control sobre allò que mostrem: Contractació de serveis
-[Per què, ara i aquí, parlem tant de protecció de dades personals](http://www.youtube.com/watch?v=pqBuX99W5o8)
+# Pas 4. Com ens venem l’ànima al diable. 
+
+Entenem per **identitat** aquella parcel·la que cadascú, en exercici de la seva **llibertat** individual, reserva de la seva vida enfront de l’acció i el coneixement de les altres persones, siguin poders públics, entitats privades o particulars.
+Aquesta parcel·la té components personals, però també, socioculturals. Per entendre mira’t aquest vídeo.
+Mira’t el vídeo següent:
+[Sense cortines](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
+Peu: ccvbnm Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
+
+Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar les personalitats emergents en aquesta etapa vital. Els tatuatges avui dia, com a les tribus, i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries: el que hi marquem ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
+
+La construcció de la identitat digital és una responsabilitat social i una marca personal que perdurarà.
+
+I poden contribuir a perdre-la!
+http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html
+
+**Atura’t i reflexiona**
+Llegir condicions d’ús de facebook (https://www.facebook.com/legal/terms) Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 4 preguntes següents:
+1. En cas de conflicte, a quin tribunal hauries de recórrer?
+2. Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
+3. Per què es parla de privacitat i no pas d’intimitat?
+4. Podem dir que tota la informació que deixem a facebook s’elimina i que s’elimina quan volem?
+5. Havent respost les anteriors preguntes, com aconsella de configurara el vostre perfil en una xarxa socials per presercar al màxim la vostra privacitat?
 
 
-Activitat: llegir condicions d’ús de facebook (https://www.facebook.com/legal/terms)
+# Pas 5. Com protegir la nostra identitat a la Xarxa?
+Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
+Els seus principals enemics són
+* els poders públics que poden accedir i utilitzar les nostres dades sense permís i/o sense que en tinguem coneixement
+* les empreses que volen fer negoci a partir de l’accés a les nostres dades
+* nosaltres mateixos quan contractem serveis especialment de xarxes socials sense parar esment que CONTRACTEM, és a dir, que fem un pacte de prestacions i contraprestacions
+* terceres persones que poden 
+   * utilitzar de forma fraudulenta i de mala fe la nostra imatge 
+   * fer servir la Xarxa com a mitjà de difamació
+   * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol)
 
-**Llegiu i responeu**
-On són els servidors, fet que marca la jurisdicció (Comtat de Sant Mateu, EUA!); què fan amb les nostres dades, quines autoritzacions ens demanen i per a què...
+La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia, s’està parlant molt del gir cap a les dades biomètriques a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector.: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
-### 4 Com protegir la nostra identitat a la Xarxa?
-[disconnect]
-(https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) fast, private, secure
+Tanmateix, el mètode més segur per comprovar la identitat digital a Internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afectat hagi indicat.
+
+Aquí tens una relació de consells de seguretat
+WEB: vídeo infogràfic o infografia estàtica
+AQUEST ÉS UN PAS DE TIPS/CONSELLS
+POSSIBILITAT DE MOSTRAR LA INFORMACIÓ GRÀFICAMENT.
+Introduir la llista de consells:
+### Endavant!
+1. Activeu una autenticació basada en dos factors sempre que us l’ofereixen
+2. Faciliteu respostes falses a les qüestions de seguretat que us demanen en obrir un compte
+3. Elimineu el vostre rastre en línia amb aplicacions instal·lables als navegadors com [disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o [Ghostery](https://www.youtube.com/watch?v=EKzyifAvC_U#t=52)
+4. Utilitzeu una única adreça electrònica i segura (=domini propi o amb garanties, NO hotmail, gmail, yahoo...) 
+5. Poseu els cinc sentits a l’hora d’escollir contrasenyes
 [Contrasenyes segures](https://www.youtube.com/watch?v=0RCsHJfHL_4)
 [Notícia vilaweb sobre contrasenyes segures](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
 
 [Notícia vilaweb sobre com crear una bona contrasenya](http://www.vilaweb.cat/noticia/4138812/20130814/crear-bona-contrasenya.html)
+
+### Alto!
+1. No utilitzeu la mateixa contrasenya per a compte diferents
+2. No utilitzeu una paraula camuna del diccionari com a contrasenya
+3. No utilitzeu substitucions numèriques sistemàtiques, com ara c0ntr563seny563
+4. No feu servir constrasenyes curtes per molt estranyes qeu ens puguin semblar
+5. No faciliteu MAI a NINGÚ cap contrasenya vostra i, sobretot, no deixeu sessions obertes en aplicacions a Internet en cap dispositiu que no sigui el vostre. 
+
+
+PROPOSTA DE RECOLLIR DO’s DON’Ts en una il·lustració, gràfic, etc.
+Laia: redactar-los 
 
 [Bona infografia sobre autenticació](http://www.edtechmagazine.com/higher/article/2013/02/passwords-security-and-future-authentication-infographic)
 
@@ -64,16 +145,63 @@ http://owncloud.org/
 
 [11Febrer: afer Internet Day](http://www.diainternetsegura.es/)
 [#SID2014](https://twitter.com/search?q=%23SID2014) 
+[Consells dels Mossos](http://www20.gencat.cat/portal/site/mossos/menuitem.ab787c58b11dd607aacf3010b0c0e1a0/?vgnextoid=629daf9c25922310VgnVCM2000009b0c1e0aRCRD&amp;vgnextchannel=629daf9c25922310VgnVCM2000009b0c1e0aRCRD&amp;vgnextfmt=default)
 
-### 5 El dret a l’autodeterminació informativa
-[Missatge de Nadal de l’Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI)
+[Decàlegs de seguretat de la UOC](http://informatica.blogs.uoc.edu/2014/02/23/security/#catala)
 
-### 6 Lleis velles per a un món nou?
-
-### 7 Delictes i faltes. 
-Línia vermella: la invasió de la intimitat
+http://www.internetsegura.cat/descargas/Us%20segur%20de%20xarxes%20socials.pdf
 
 
-### 8 Com ha de ser el dret d’Internet?
+# Pas 6. El dret a l’autodeterminació informativa
+
+[Us adoneu que, potencialment, vivim en cases de vidre?](http://youtu.be/PD5uoTEbSbo)
+
+* L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] el dret fonamental a la protecció de dades personals es transforma en un element bàsic de la nova ciutadania electrònica. [...] No és per casualitat que els administrats siguin anomenats clients i s’utilitzin fórmules del llenguatge de l’empresa, com ara satisfacció del client que converteixen el ciutadà en un simple consumidor de serveis.*
+[Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
+
+[Missatge de Nadal de l’Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI) 
+[missatge Snowden sense comentariscomentaris](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
+
+Debat.
+
+Pekka Himanen, *L’ètica del hacker i l’esperit de l’era de la informació*: 
+*Els pirates (hackers) amb consciència social remarquen que la tecnologia d’encriptació no només ha de satisfer les necesssitats  de confidencialitat de governs i empreses, sinó que ha de protegir també l’individu dels governs i de les empreses. La llibertat d’expressió i la privacitat han estat ideals importants i els pirates i Internet s’hi han basat.* 
+
+Els hackers plantegen un ús de la criptografia invers als dels governs per garantir que la ciutadania té a les seves mans les claus de l’accés a la informació que l’afecta.
+
+La preservació de la intimitat com a pedra de toc de l’exercici democràtic: connexió amb l’estimació d’Internet com l’instrument que pot marcar el canvi definitiu de la democràcia representativa cap a la democràcia directa.
+
+Una aplicació que permet saber quines dades de facebook poden ser utilitzades en contra teva: http://www.trialbytimeline.org.nz/
+
+
+# Pas 7. Lleis velles per a un món nou?
+Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.boe.es/boe/dias/2010/09/17/pdfs/BOE-A-2010-14221.pdf)
+
+![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
+Vegeu títol 5 art. 20
+
+No és possible controlar de dalt a baix Internet.
+
+Cal un dret de consens, codis deontològics, acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet
+
+# Pas 8. Delictes i faltes
+Línies vermelles: 
+* la invasió de la intimitat
+* la integritat física o moral de les persones
+* la llibertat d’expressió
+* la igualtat d’oportunitats
+
+
+
+# Pas 9. Com ha de ser el dret d’Internet?
 Deixar a la Xarxa i en obert tot allò que sigui d’interès públic
 Barrar l’accés a la intimitat
+
+# Pas 10. Proposta d’activitats (projecte final)
+1. Reescriure en escenari d’Internet actual un dels contes tradicionals següents
+    * la [Caputxeta vermella](http://ca.tales.land/grans-classics/6/la-caputxeta-vermella), on el bosc sigui Internet
+     * la [Rínxols d’Or](http://ca.tales.land/grans-classics/230/rinxols-d-or) que entra en comptes de xarxes socials de la família dels óssos
+     * el Polzet que, en compte de deixar cigrons, es deixa geolocalitzar
+
+2. Elabora un clip de vídeo de màxim 3 minuts on es relati un conflicte generat per un ús intromissiu de la tecnologia
+3. A partir de la teva experiència en xarxes socials, escriu un decàleg amb deu consells sobre què cal fer i que no s’ha de fer per preservar la identitat digital.
