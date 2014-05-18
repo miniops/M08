@@ -127,7 +127,7 @@ La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per 
 AQUEST ÉS UN PAS DE TIPS/CONSELLS
 POSSIBILITAT DE MOSTRAR LA INFORMACIÓ GRÀFICAMENT.
 Introduir la llista de consells:
-
+##
 1. Llegint bé les condicions dels serveis on ens subscrivim
 2. Netejant el rastre que deixem en xarxes socials amb aplicacions instal·lables als navegadors com [disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o Ghostery
 3. Posant els cinc sentits a l’hora d’escollir contrasenyes
