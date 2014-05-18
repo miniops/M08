@@ -40,6 +40,7 @@ Peu: La informació que mostrem a les xarxes socials té efectes (Font: [Jack Va
 
 Malgrat el que sovint pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que les engrunes al bosc d’en Polzet ;-) i no sempre tenim a les nostres mans saber on s’emmagazetma ni què se n’està fent.
 
+WEB
 Tres exemples: 
 1. [La (falsa) frase de Toure Yaya: el gol d’un tuitaire](http://www.ara.cat/premium/falsa-frase-Toure-Yaya-tuitaire_0_1088291199.html)
 2. [Alerta dels Mossos d’Esquadra per grooming a través de facebook](http://www.escolamasboadella.com/docs/mossos1.pdf)
