@@ -73,24 +73,29 @@ ___
 Mira’t aquest vídeo:
 [Gary Kovacs. Tracking our online trackers](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html)
 
-Així doncs, ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. Aquí en tens un altre exemple:
+Peu: La informació de navegació es rastrejada per altres - Font [Gary Kovacs. Tracking our online trackers - TED Talks](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers)
 
-(Lightbeam for Firefox)[https://www.youtube.com/watch?v=PvqGy9wz_wA]
+Així doncs, ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. Malgrat no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins quin punt la nostra informació es demandada per diferents empreses d’internet. Aquí en tens un altre exemple:
+
+[Lightbeam for Firefox](https://www.youtube.com/watch?v=PvqGy9wz_wA)
+
+Peu: Lightbeam per a Firefox et mostra gràficament qui t’observa - Font: [Mozilla](http://www.mozilla.org/ca/lightbeam/) 
 
 Què rastregen aquestes eines?
 
 * els llocs web que visites
 
 
+Malgrat 
 
 
 **Atura’t i practica**
 
-Fem una prova? Instal·la al teu navegador [Lightbeam for Firefox](http://www.mozilla.org/ca/lightbeam/) o bé [Collusion for Chrome](https://chrome.google.com/webstore/detail/collusion-for-chrome/ganlifbpkcplnldliibcbegplfmcfigp)
+Fem una prova? Instal·la al teu navegador [Lightbeam per a Firefox](http://www.mozilla.org/ca/lightbeam/) o bé [Collusion per a Chrome](https://chrome.google.com/webstore/detail/collusion-for-chrome/ganlifbpkcplnldliibcbegplfmcfigp)
 
 Analitza els teus moviments al cap d’un dia. 
 
-La gràfica mostra les galetes (o *cookies*), és dir, les dades que els llocs web capten i conserven per facilitar-te la navegació o per obtenir estadístiques dels teus hàbits de navegació i que s’instal·len al teu navegador.
+La gràfica mostra les galetes (o *cookies*), és a dir, les dades que els llocs web capten i conserven per facilitar-te la navegació o per obtenir estadístiques dels teus hàbits de navegació i que s’instal·len al teu navegador.
 
 Interpreta la gràfica dels teus moviments:
 * Podries dir quina informació s’ha recollit sobre tu?  Qui l’ha recollida? Saps què se’n fa?
@@ -105,22 +110,37 @@ Aquesta parcel·la té components personals, però també, socioculturals.
 
 Per entendre aquesta dimensió, mira’t aquest vídeo:
 
-[Sense cortines](http://www.tv3.cat/videos/4458455/Sense-cortines)
-Peu: ccvbnm Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
+[sense cortines](http://www.tv3.cat/videos/4458455/Sense-cortines)
+Peu: Sense cortines, l’exposició de la intimitat - Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
 
 Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar les personalitats emergents en aquesta etapa vital. Els tatuatges avui dia, com a les tribus, i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries: el que hi marquem ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
 
 La construcció de la identitat digital és una responsabilitat social i una marca personal que perdurarà.
 
-Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra!
-http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html
+Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra! Aquí en tens un exemple:
+
+peu: Quan Facebook pot ser causa d’acomiadament [Font: La Vanguardia](http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html)
+
+
+---
+
+WEB:  o bé posar l’enllaç a la notícia anterior directament o bé captura de la notícia amb l’enllaç. Valora-ho.
+
+---
+
 
 **Atura’t i reflexiona**
 
-[Llegeix les condicions d’ús del Facebook:](https://www.facebook.com/legal/terms)
-(WEB: XAVIER, aquí hem de posar l’enllaç a la pàgina de Facebook de les condicions d’ús. Si creus que quedaria millor visualment posant l’enllaç a una imatge de la pàgina o se t’acudeix alguna altra solució s’accepten propostes. Havíem valorat la possibilitat de fer alguna cosa semblant a aquest model però no ens conveç perquè ens interessa que llegeixin tot el text dins del seu context: http://mashable.tumblr.com/post/74754045659/xraggedyman-i-swear-to-god-im-dying-over-here)
+[Llegeix les condicions d’ús de [Facebook:](https://www.facebook.com/legal/terms)
 
-Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 4 preguntes següents:
+___
+
+(WEB: aquí hem de posar l’enllaç a la pàgina de Facebook de les condicions d’ús. Si creus que quedaria millor visualment posant l’enllaç a una imatge de la pàgina o se t’acudeix alguna altra solució s’accepten propostes. Havíem valorat la possibilitat de fer alguna cosa semblant a aquest model però no ens convenç perquè ens interessa que llegeixin tot el text dins del seu context: http://mashable.tumblr.com/post/74754045659/xraggedyman-i-swear-to-god-im-dying-over-here)
+
+___
+
+
+Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 5 preguntes següents:
 1. En cas de conflicte, a quin tribunal hauries de recórrer?
 2. Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
 3. Per què es parla de privacitat i no pas d’intimitat? Creus que es pot establir una gradació públic / privat / íntim? 
@@ -132,21 +152,26 @@ Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
 Els seus principals enemics són
 * els poders públics que poden accedir i utilitzar les nostres dades sense permís i/o sense que en tinguem coneixement
 * les empreses que volen fer negoci a partir de l’accés a les nostres dades
-* nosaltres mateixos quan contractem serveis especialment de xarxes socials sense parar esment que CONTRACTEM, és a dir, que fem un pacte de prestacions i contraprestacions
+* nosaltres mateixos quan contractem serveis especialment de xarxes socials sense parar esment que establim un acord, és a dir, que fem un pacte de prestacions i contraprestacions
 * terceres persones que poden 
    * utilitzar de forma fraudulenta i de mala fe la nostra imatge 
    * fer servir la Xarxa com a mitjà de difamació
    * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol)
 
-La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia, s’està parlant molt del gir cap a les dades biomètriques a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector.: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
+La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia i amb l’objectiu de resoldre aquest problema s’està parlant molt del gir cap a les dades biomètriques a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
 Tanmateix, el mètode més segur per comprovar la identitat digital a Internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afectat hagi indicat.
 
 Aquí tens una relació de consells de seguretat
-WEB: vídeo infogràfic o infografia estàtica
-AQUEST ÉS UN PAS DE TIPS/CONSELLS
-POSSIBILITAT DE MOSTRAR LA INFORMACIÓ GRÀFICAMENT.
-Introduir la llista de consells:
+
+---
+
+WEB: IMG - INFOGRAFIA (ENCÀRREC EN CURS)
+
+![model infografia](img/infografia.png)
+
+---
+
 ### Endavant!
 1. Activa una autenticació basada en dos factors sempre que l’ofereixin
 2. Facilita respostes falses a les qüestions de seguretat que et demanen en obrir un compte
@@ -167,11 +192,6 @@ Introduir la llista de consells:
 5. Facilitar algun cop a algú una contrasenya teva
 6. Deixar sessions obertes en aplicacions a Internet en dispositius que no siguin teus. 
 
-
-PROPOSTA DE RECOLLIR DO’s DON’Ts en una il·lustració, gràfic, etc.
-Laia: redactar-los 
-
-[Bona infografia sobre autenticació](http://www.edtechmagazine.com/higher/article/2013/02/passwords-security-and-future-authentication-infographic)
 
 # Pas 6. El dret a l’autodeterminació informativa
 
@@ -330,3 +350,5 @@ LAIA: bateria de preguntes.
 Publica la teva URL de la teva infografia. Recorda que la infografia ha d’anar acompanyada d’un text reflexiu en què facis fer una anàlisi crítica sobre la teva activitat a Internet: com protegeixes o no les teves dades? Cerca el serveis que utilitzes  i valora’n el nivell de privacitat, n’estàs realment informat?
 
 NOTA: AQUEST ENUNCIAT ÉS UN ESBORRANY. EDITEU-LO I MILLOREU-LO.
+
+altres notícies: http://elpais.com/elpais/2014/05/03/opinion/1399146252_528484.html
