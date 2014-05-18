@@ -170,6 +170,7 @@ La preservació de la intimitat com a pedra de toc de l’exercici democràtic: 
 Una aplicació que permet saber quines dades de facebook poden ser utilitzades en contra teva: http://www.trialbytimeline.org.nz/
 
 # Pas 7. Lleis velles per a un món nou?
+
 Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.boe.es/boe/dias/2010/09/17/pdfs/BOE-A-2010-14221.pdf)
 
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
