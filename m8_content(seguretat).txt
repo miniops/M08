@@ -109,7 +109,7 @@ On són els servidors, fet que marca la jurisdicció (Comtat de Sant Mateu, EUA!
 **Atura’t i reflexiona**
 Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 4 preguntes següents:
 1. En cas de conflicte, a quin tribunal hauries de recórrer?
-2. Quin és l’únic país europeu que disposa de’unes condicions de servei especials?
+2. Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
 3. Per què es parla de privacitat i no pas d’intimitat?
 4. Podem dir que tota la informació que deixem a facebook s’elimina i que s’elimina quan volem?
 
@@ -125,14 +125,14 @@ Els seus principals enemics són
    * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol)
 La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia, s’està parlant molt del gir cap a les dades biomètriques a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector.: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
-Tanmateix, el mètode més segur per comprovar la identitat digital a Internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afcetat hagi indicat.
+Tanmateix, el mètode més segur per comprovar la identitat digital a Internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afectat hagi indicat.
 
 
 AQUEST ÉS UN PAS DE TIPS/CONSELLS
 POSSIBILITAT DE MOSTRAR LA INFORMACIÓ GRÀFICAMENT.
 Introduir la llista de consells:
-## Endavant!
-1. Activeu una autenticació basada en dos factors sempre que us l’ofereixn
+### Endavant!
+1. Activeu una autenticació basada en dos factors sempre que us l’ofereixen
 2. Faciliteu respostes falses a les qüestions de seguretat que us demanen en obrir un compte
 3. Elimineu el vostre rastre en línia amb aplicacions instal·lables als navegadors com [disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o Ghostery
 4. Utilitzeu una única adreça electrònica i segura (=domini propi o amb garanties, NO hotmail, gmail, yahoo...) 
@@ -142,7 +142,7 @@ Introduir la llista de consells:
 
 [Notícia vilaweb sobre com crear una bona contrasenya](http://www.vilaweb.cat/noticia/4138812/20130814/crear-bona-contrasenya.html)
 
-## Alto!
+### Alto!
 1. No utilitzeu la mateixa contrasenya per a compte diferents
 2. No utilitzeu una paraula camuna del diccionari com a contrasenya
 3. No utilitzeu substitucions numèriques sistemàtiques, com ara c0ntr563seny563
