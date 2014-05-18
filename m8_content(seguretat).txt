@@ -246,18 +246,12 @@ http://www.internetsegura.cat/descargas/Us%20segur%20de%20xarxes%20socials.pdf
 
 **A partir 2 recursos + l'anàlisi del seu propi rastre**:
 
-**Recurs 1:** Lectura d'aquest article d'Evgeny Morozov [ http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html](http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html)
-Hi apareixen aspectes que podríem fer destacar a partir d'una bateria de preguntes i que ells fessin una argumentació acompanyada de dades (tipus screencasting).
+Projecte: Una representació gràfica (una infografia bàsica) acompayada d’un text personal sobre de la seva activitat a la xarxa. Es tracta de constatar l’activitat individual, saber amb quins serveis treballen a la xarxa, fer-ne l’anàlisi i reflexió sobre el grau al seu grau de “privacitat”, que pensin en quin serveis són més problemàtics i quins no ho són tant.
 
-**Recurs 2:** vídeo del  i el seu negoci real de "vendre's l'ànima al diable" i les seves motivacions:
-mireu el vídeo i escolteu el podcast 
+**Enunciat**
 
+Punt de partida: 
 
-
-
-Una representació gràfica de la seva activitat a la xarxa (pot ser molt bàsica), es tracta de constatar l’activitat individual, saber amb quins serveis treballen a la xarxa, fer-ne l’anàlisi i reflexió sobre el grau al seu grau de “privacitat”, que pensin en quin serveis són més problemàtics i quins no ho són tant.
-
-1.  Punt de partida: 
 Mira’t aquest vídeo:
 
 vídeo de la campanya a KickStarter de [Federico Zanetti](&lt;iframe width="480" height="360" src="https://www.kickstarter.com/projects/1461902402/a-bit-e-of-me/widget/video.html" frameborder="0" scrolling="no"&gt; &lt;/iframe&gt;)
@@ -268,23 +262,25 @@ Podcast de [Shawn Buckles](&lt;iframe width="100%" height="166" scrolling="no" f
 
 (notes per a nosaltres: La transcripció anirà sota el podcast. Del podcast, hi ha un aspecte molt interessant en un moment de la discussió amb el periodista: la meva privacitat implica també la des altres.)
 
-2.  Durant uns dies els alumnes han de fer extracció de dades d’ells mateixos per ser conscient d’allò que visiten: chat, gps, les pàgines que visito, les compres que faig, els meus wishlists, whatsapp, facebook, twitter, etc.
+(notes per a nosaltres: Durant uns dies els alumnes han de fer extracció de dades d’ells mateixos per ser conscient d’allò que visiten: chat, gps, les pàgines que visito, les compres que faig, els meus wishlists, whatsapp, facebook, twitter, etc.)
 
-*   **El Mirall** Fer un representació gràfica d’ells mateixos i la seva activitat a la xarxa. 
+ **El Mirall** Fer un representació gràfica d’ells mateixos i la seva activitat a la xarxa. 
 
 Enunciat: 
 
-Crea una infografia de tu mateix i la teva activitat a Internet per extreure’n els patrons de la teva vida a Internet. Es tracta de constatar la teva activitat  a Internet i fer-ne una representació gràfica senzilla per tal que comencis a reflexionar sobre els serveis que utilitzes i el grau de privacitat de cadascun. (nota per a nosaltres: Aquí els donarem un exemple d’infografia i els serveis que poden utilitzar per fer-la.)
-
-NOTES PER A NOSALTRES: Acabar de decidir: Algunes possibilitats sobre el tipus d’infografia: vl’alumne al centre i al voltant tot el que ha avariguat respecte a la seva activitat a Internet. Pot ser:
+Crea una infografia de tu mateix i la teva activitat a la xarxa per extreure’n els patrons de la teva vida a Internet. Es tracta de constatar la teva activitat a Internet i fer-ne una representació gràfica senzilla per tal que comencis a reflexionar sobre els serveis que utilitzes i el grau de privacitat de cadascun. (nota per a nosaltres: Aquí els donarem un exemple d’infografia i els serveis que poden utilitzar per fer-la.)
+--------
+NOTES PER A NOSALTRES: Acabar de decidir: Algunes possibilitats sobre el tipus d’infografia: l’alumne al centre i al voltant tot el que ha avariguat respecte a la seva activitat a Internet. Pot ser:
 * quantificació en temps a cada servei 
 * mostrar temps de la jornada que passen a Internet i on: gmail, xats, compres, wishlists, les seves dades gps compartides, facebook, hi publico fotos, pensaments al mur, comentaris personals, twitter, google, etc). - EXEMPLE QUE NO TÉ RES A VEURE PERÒ QUE POT SER INSPIRADOR PER A NOSALTRES: [writers daily routines](http://www.fastcocreate.com/3028428/infographic-see-the-daily-routines-of-the-worlds-most-famous-creative-people#17)
 *   Important: no es tracta en cap cas de fer una infografia sofisticada, aquesta ha de ser un inici per pensar en un mateix, ja que l’important és la reflexió que han de fer a partir de la seva activitat a la xarxa.
+------
 
-3.  Ara, llegeix aquest article del professor [Evgeny Morozov](http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html). Reflexiona-hi a partir de les preguntes que et proposem:
+Ara, llegeix aquest article del professor [Evgeny Morozov](http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html)
+Reflexiona a partir de les preguntes que et proposem:
 
 LAIA: bateria de preguntes.
 
-4.  Publica la teva URL de la teva infografia: recorda que la infografia ha d’anar acompanyada d’un text reflexiu en què facis fer una anàlisi crítica sobre la teva activitat a Internet: com protegeixes o no les teves dades? Cerca el serveis que utilitzes  i valora’n el nivell de privacitat, n’estàs realment informat?
+Publica la teva URL de la teva infografia. Recorda que la infografia ha d’anar acompanyada d’un text reflexiu en què facis fer una anàlisi crítica sobre la teva activitat a Internet: com protegeixes o no les teves dades? Cerca el serveis que utilitzes  i valora’n el nivell de privacitat, n’estàs realment informat?
 
 NOTA: AQUEST ENUNCIAT ÉS UN ESBORRANY. EDITEU-LO I MILLOREU-LO.
