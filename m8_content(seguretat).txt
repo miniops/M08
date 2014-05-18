@@ -266,15 +266,23 @@ Podcast de [Shawn Buckles](&lt;iframe width="100%" height="166" scrolling="no" f
 
  **El Mirall** Fer un representació gràfica d’ells mateixos i la seva activitat a la xarxa. 
 
-Enunciat: 
-Crea una infografia de tu mateix i la teva activitat a la xarxa per extreure’n els patrons de la teva vida a Internet. Es tracta de constatar la teva activitat a Internet i fer-ne una representació gràfica senzilla per tal que comencis a reflexionar sobre els serveis que utilitzes i el grau de privacitat de cadascun. (nota per a nosaltres: Aquí els donarem un exemple d’infografia i els serveis que poden utilitzar per fer-la.)
+**Enunciat:** 
+
+Crea una infografia de tu mateix i la teva activitat a la xarxa per extreure’n els patrons de la teva vida a Internet. 
+
+Es tracta de constatar la teva activitat a Internet i fer-ne una representació gràfica senzilla per tal que comencis a reflexionar sobre els serveis que utilitzes i el grau de privacitat de cadascun. 
+
+(nota per a nosaltres: Aquí els donarem un exemple d’infografia i els serveis que poden utilitzar per fer-la.)
 
 
-NOTES PER A NOSALTRES: Acabar de decidir: Algunes possibilitats sobre el tipus d’infografia: l’alumne al centre i al voltant tot el que ha avariguat respecte a la seva activitat a Internet. Pot ser:
+NOTES PER A NOSALTRES: 
+
+Acabar de decidir el tipus d’infografia que demanarem: l’alumne al centre i al voltant tot el que ha avariguat respecte a la seva activitat a Internet. Pot ser:
 * quantificació en temps a cada servei 
 * mostrar temps de la jornada que passen a Internet i on: gmail, xats, compres, wishlists, les seves dades gps compartides, facebook, hi publico fotos, pensaments al mur, comentaris personals, twitter, google, etc). - EXEMPLE QUE NO TÉ RES A VEURE PERÒ QUE POT SER INSPIRADOR PER A NOSALTRES: [writers daily routines](http://www.fastcocreate.com/3028428/infographic-see-the-daily-routines-of-the-worlds-most-famous-creative-people#17)
 *   Important: no es tracta en cap cas de fer una infografia sofisticada, aquesta ha de ser un inici per pensar en un mateix, ja que l’important és la reflexió que han de fer a partir de la seva activitat a la xarxa.
 
+CONTINUACIÓ DE L’ENUNCIAT:
 
 Ara, llegeix aquest article del professor [Evgeny Morozov](http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html)
 Reflexiona a partir de les preguntes que et proposem:
