@@ -93,7 +93,7 @@ Llegir condicions d’ús de facebook (https://www.facebook.com/legal/terms) Qu�
 2. Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
 3. Per què es parla de privacitat i no pas d’intimitat? Busqueu els dos termes en diccionaris com ara el diec, el termcat, el de la RAE...
 4. Podem dir que tota la informació que deixem a facebook s’elimina i que s’elimina quan volem?
-5. Havent respost les anteriors preguntes, com aconsella de configurara el vostre perfil en una xarxa socials per presercar al màxim la vostra privacitat?
+5. Havent respost les anteriors preguntes, com aconsellaries de configurar el perfil en una xarxa social per preservar al màxim la vostra privacitat?
 
 # Pas 5. Com protegir la nostra identitat a la Xarxa?
 Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
@@ -177,7 +177,7 @@ Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.bo
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
 Vegeu títol 5 art. 20
 
-No és possible controlar Internet amb barreres i criteris territorials. Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals 
+No és possible controlar Internet amb barreres i criteris territorials. Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals. 
 
 Cal, doncs, un dret de consens, codis deontològics, acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet.
 
