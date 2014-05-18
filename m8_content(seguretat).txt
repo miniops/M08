@@ -41,7 +41,10 @@ Ja no som només el que mostrem físicament sinó el que hem mostrat a través d
 
 En aquest vídeo s’hi fa un experiment. Mira-te’l:
 
+Peu: La informació que mostrem a les xarxes socials té efectes (Font: [Jack Vale Films](https://www.youtube.com/user/jackvalefilms)
+
 [Vídeo Jack Vale sobre els efectes de la informació que transmeten via xarxes socials](http://www.youtube.com/watch?v=5P_0s1TYpJU#t=161)
+
 
 Malgrat el que sovint pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que les engrunes al bosc d’en Polzet ;-) i no sempre tenim a les nostres mans saber on s’emmagazetma ni què se n’està fent.
 
@@ -83,6 +86,8 @@ Entenem per IDENTITAT aquella parcel·la que cadascú, en exercici de la seva LL
 Aquesta parcel·la té components
 * socioculturals
 * personals
+
+
 Mira’t el vídeo següent:
 [Sense cortines](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
 
@@ -154,13 +159,15 @@ http://www.internetsegura.cat/descargas/Us%20segur%20de%20xarxes%20socials.pdf
 
 [Us adoneu que, potencialment, vivim en cases de vidre](http://youtu.be/PD5uoTEbSbo)
 
-* L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] el dret fonamental a la protecció de dades personals es transforma en un element bàsic de la nova ciutadania electrònica. [...] No és per casualitat que els administrats siguin anomenats clients i s’utilitzin fórmules del llenguatge de l’empresa, com ara satisfeacció del client que converteixen el ciutadà en u simple consumidor de serveis.*
+* L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] el dret fonamental a la protecció de dades personals es transforma en un element bàsic de la nova ciutadania electrònica. [...] No és per casualitat que els administrats siguin anomenats clients i s’utilitzin fórmules del llenguatge de l’empresa, com ara satisfacció del client que converteixen el ciutadà en un simple consumidor de serveis.*
 [Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
 
-[Missatge de Nadal de l’Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI)
+[Missatge de Nadal de l’Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI) 
+[missatge Snowden sense comentariscomentaris](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
 
 Pekka Himanen, *L’ètica del hacker i l’esperit de l’era de la informació*: 
 *Els pirates (hackers) amb consciència social remarquen que la tecnologia d’encriptació no només ha de satisfer les necesssitats  de confidencialitat de governs i empreses, sinó que ha de protegir també l’individu dels governs i de les empreses. La llibertat d’expressió i la privacitat han estat ideals importants i els pirates i Internet s’hi han basat.* 
+
 Els hackers plantegen un ús de la criptografia invers als dels governs per garantir que la ciutadania té a les seves mans les claus de l’accés a la informació que l’afecta.
 
 La preservació de la intimitat com a pedra de toc de l’exercici democràtic: connexió amb l’estimació d’Internet com l’instrument que pot marcar el canvi definitiu de la democràcia representativa cap a la democràcia directa.
