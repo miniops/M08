@@ -73,7 +73,7 @@ ___
 Mira’t aquest vídeo:
 [Gary Kovacs. Tracking our online trackers](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html)
 
-Peu: La informació de navegació es rastrejada per altres - Font [Gary Kovacs. Tracking our online trackers - TED Talks](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers)
+Peu: La informació de navegació és rastrejada per altres - Font [Gary Kovacs. Tracking our online trackers - TED Talks](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers)
 
 Així doncs, ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. Malgrat no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins quin punt la nostra informació es demandada per diferents empreses d’internet. Aquí en tens un altre exemple:
 
@@ -87,8 +87,8 @@ Són molt útils, doncs:
 * per saber qui ens vigila
 * per poder bloquejar-ne l’accés a la navegació quan accedim a l’espai principal
 * per mostrar-nos les connexions amagades rere els llocs que voluntàriament i conscientment visites
-* d’on surten les galetes i qui en rep la informació
-* on estan localitzats geogràficament els servidors que emmagatzemen aquestes dades
+* per saber d’on surten les galetes (o *cookies*) i qui en rep la informació
+* per saber on estan localitzats geogràficament els servidors que emmagatzemen aquestes dades
 
 
 
@@ -98,7 +98,7 @@ Fem una prova? Instal·la al teu navegador [Lightbeam per a Firefox](http://www.
 
 Analitza els teus moviments al cap d’un dia. 
 
-La gràfica mostra les galetes (o *cookies*), és a dir, les dades que els llocs web capten i conserven per facilitar-te la navegació o per obtenir estadístiques dels teus hàbits de navegació i que s’instal·len al teu navegador.
+La gràfica mostra les galetes, és a dir, les dades que els llocs web capten i conserven per facilitar-te la navegació o per obtenir estadístiques dels teus hàbits de navegació i que s’instal·len al teu navegador.
 
 Interpreta la gràfica dels teus moviments:
 * Podries dir quina informació s’ha recollit sobre tu?  Qui l’ha recollida? Saps què se’n fa?
