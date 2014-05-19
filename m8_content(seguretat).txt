@@ -52,7 +52,7 @@ WEB: Proposem que hi hagi tres imatges que apuntin als enllaços de les notície
 ---
 
 
-1. [La (falsa) frase de Toure Yaya: el gol d’un tuitaire](https://dl.dropboxusercontent.com/u/6810751/La%20%28falsa%29%20frase%20de%20Tour%C3%A9%20Yaya%3A%20el%20gol%20d%E2%80%99un%20tuitaire%20%28%C3%80lex%20Guti%C3%A9rrez%29.pdf)
+1. [La (falsa) frase de Toure Yaya: el gol d’un tuitaire](https://dl.dropboxusercontent.com/u/6810751/La%20%28falsa%29%20frase%20de%20Tour%C3%A9%20Yaya%3A%20el%20gol%20d%E2%80%99un%20tuitaire%20%28%C3%80lex%20Guti%C3%A9rrez%29.pd)
 2. [Alerta dels Mossos d’Esquadra per grooming a través de facebook](http://www.escolamasboadella.com/docs/mossos1.pdf)
 3. [Els Mossos imputen dos joves al Vallès Oriental per coaccionar una menor a través de les xarxes socials](http://www.ara.cat/societat/Mossos-imputen-Valles-Oriental-coaccionar_0_1059494171.html)
 
@@ -67,7 +67,7 @@ WEB: en el cos del text del fòrum on diu “també a Twitter” s’hi podria p
 ___
 
 
-# Pas 3. Intimitat i espai públic
+# Pas 3. El teu rastre a la xarxa
 “**Perquè Internet ens vigila, ha arribat l’hora que nosaltres vigilem els qui ens vigilen**” Gary Kovacs
 
 Mira’t aquest vídeo:
