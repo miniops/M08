@@ -81,12 +81,15 @@ Així doncs, ja hi ha eines per la traçabilitat de la nostra activitat a la xar
 
 Peu: Lightbeam per a Firefox et mostra gràficament qui t’observa - Font: [Mozilla](http://www.mozilla.org/ca/lightbeam/) 
 
-Què rastregen aquestes eines?
+Les dades poden ser recollides amb o sense consentiment explícit del navegant. Com que molt sovint no en som conscients, aquestes eines ens permetran visualitzar qui està prenent nota del nostre rastre digital. 
 
-* els llocs web que visites
+Són molt útils, doncs:
+* per saber qui ens vigila
+* per poder bloquejar-ne l’accés a la navegació quan accedim a l’espai principal
+* per mostrar-nos les connexions amagades rere els llocs que voluntàriament i conscientment visites
+* d’on surten les galetes i qui en rep la informació
+* on estan localitzats geogràficament els servidors que emmagatzemen aquestes dades
 
-
-Malgrat 
 
 
 **Atura’t i practica**
@@ -111,6 +114,7 @@ Aquesta parcel·la té components personals, però també, socioculturals.
 Per entendre aquesta dimensió, mira’t aquest vídeo:
 
 [sense cortines](http://www.tv3.cat/videos/4458455/Sense-cortines)
+
 Peu: Sense cortines, l’exposició de la intimitat - Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
 
 Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar les personalitats emergents en aquesta etapa vital. Els tatuatges avui dia, com a les tribus, i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries: el que hi marquem ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
@@ -119,7 +123,7 @@ La construcció de la identitat digital és una responsabilitat social i una mar
 
 Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra! Aquí en tens un exemple:
 
-peu: Quan Facebook pot ser causa d’acomiadament [Font: La Vanguardia](http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html)
+Peu: Quan Facebook pot ser causa d’acomiadament [Font: La Vanguardia](http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html)
 
 
 ---
@@ -149,48 +153,70 @@ Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sab
 
 # Pas 5. Com protegir la nostra identitat a la Xarxa?
 Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
-Els seus principals enemics són
-* els poders públics que poden accedir i utilitzar les nostres dades sense permís i/o sense que en tinguem coneixement
-* les empreses que volen fer negoci a partir de l’accés a les nostres dades
-* nosaltres mateixos quan contractem serveis especialment de xarxes socials sense parar esment que establim un acord, és a dir, que fem un pacte de prestacions i contraprestacions
+
+Els seus principals enemics són:
+* els poders públics que poden accedir i utilitzar les nostres dades sense permís i/o sense que en tinguem coneixement.
+* les empreses que volen fer negoci a partir de l’accés a les nostres dades.
+* nosaltres mateixos quan contractem serveis especialment de xarxes socials sense parar esment que establim un acord, és a dir, que fem un pacte de prestacions i contraprestacions.
 * terceres persones que poden 
-   * utilitzar de forma fraudulenta i de mala fe la nostra imatge 
-   * fer servir la Xarxa com a mitjà de difamació
-   * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol)
+   * utilitzar de forma fraudulenta i de mala fe la nostra imatge. 
+   * fer servir la Xarxa com a mitjà de difamació.
+   * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol).
 
 La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia i amb l’objectiu de resoldre aquest problema s’està parlant molt del gir cap a les dades biomètriques a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
 Tanmateix, el mètode més segur per comprovar la identitat digital a Internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afectat hagi indicat.
 
-Aquí tens una relació de consells de seguretat
+Aquí tens una relació de consells de seguretat:
 
 ---
 
 WEB: IMG - INFOGRAFIA (ENCÀRREC EN CURS)
 
-![model infografia](img/infografia.png)
+![model infografia](https://www.dropbox.com/s/lq44ovbgrv73rkg/mo8_infografia.jpeg)
+Text que conté la infografia:
+
+Endavant!
+
+* Activa una autenticació basada en dos factors sempre que l’ofereixin
+* Facilita respostes falses a les qüestions de seguretat que et demanen en obrir un compte
+* Elimina el teu rastre en línia amb aplicacions instal·lables als navegadors
+* Utilitza una única adreça electrònica i segura
+* Posa els cinc sentits a l’hora d’escollir contrasenyes
+* Aplica el màxim secret a les teves contrasenyes
+
+Alto! 
+
+* No utilitzis la mateixa contrasenya per a comptes diferents 
+* No utilitzis una paraula comuna del diccionari com a contrasenya
+* No apliquis substitucions numèriques sistemàtiques, com ara c0ntr5seny5
+* No utilitzis contrasenyes curtes per molt estranyes que ens puguin semblar
+* No facilitis a ningú una contrasenya teva
+* No deixis sessions obertes en aplicacions a Internet en dispositius que no siguin teus 
+
 
 ---
 
-### Endavant!
-1. Activa una autenticació basada en dos factors sempre que l’ofereixin
-2. Facilita respostes falses a les qüestions de seguretat que et demanen en obrir un compte
-3. Elimina el teu rastre en línia amb aplicacions instal·lables als navegadors com [disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o [Ghostery](https://www.youtube.com/watch?v=EKzyifAvC_U#t=52)
-4. Utilitza una única adreça electrònica i segura (=domini propi o amb garanties, NO hotmail, gmail, yahoo...) 
-5. Posa els cinc sentits a l’hora d’escollir contrasenyes
-6. Aplica el màxim secret a les teves contrasenyes
-[Contrasenyes segures](https://www.youtube.com/watch?v=0RCsHJfHL_4)
-[Notícia vilaweb sobre contrasenyes segures](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
+Com pots eliminar el teu rastre en línia? Com pots reforçar la seguretat de les teves contrasenyes? Posa fil a l’agulla:
 
-[Notícia vilaweb sobre com crear una bona contrasenya](http://www.vilaweb.cat/noticia/4138812/20130814/crear-bona-contrasenya.html)
+Existeixen extensions instal·lables al teu navegador (com  [Disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o [Ghostery](https://www.ghostery.com/en/) que et permeten prendre decisions sobre què estàs disposat a mostrar i a qui. 
 
-### Alto! No és cap bona idea
-1. Utilitzar la mateixa contrasenya per a comptes diferents 
-2. Utilitzar una paraula comuna del diccionari com a contrasenya
-3. Aplicar substitucions numèriques sistemàtiques, com ara c0ntr563seny563
-4. Fer servir constrasenyes curtes per molt estranyes que ens puguin semblar
-5. Facilitar algun cop a algú una contrasenya teva
-6. Deixar sessions obertes en aplicacions a Internet en dispositius que no siguin teus. 
+Mira’t aquest vídeo i et sorprendràs:
+
+[ghostery](&lt;iframe width="560" height="315" src="//www.youtube.com/embed/EKzyifAvC_U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;)
+
+Peu: Podem prendre decisions informades sobre la nostra privacitat - Font: [Ghostery](https://www.ghostery.com/en/)
+
+Malgrat pot resultar de vegades una feina feixuga recordar-les totes, triar una contrasenya segura és fonamental. 
+
+Aquest vídeo et pot ajudar:
+
+[strong password](&lt;iframe width="560" height="315" src="//www.youtube.com/embed/0RCsHJfHL_4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;)
+
+Peu: Crear una contrasenya segura és important. Font [Google](https://www.youtube.com/watch?v=0RCsHJfHL_4)
+
+Hi ha, doncs, contresenyes dolentes perquè són previsibles pero també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
+[La llista de les pitjors contrasenyes](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html) i [Com crear-ne de bones](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
 
 
 # Pas 6. El dret a l’autodeterminació informativa
@@ -205,31 +231,43 @@ La Constitució espanyola de 1978 va ser, després de la portuguesa, de les prim
 
 Aquest dret està reconegut per la legislació europea com a dret fonamental mentre que als EUA només s’ha legislat des de diferents sectors però no pas en la columna vertebral del sistema legislatiu, la Constitució. Aquest fet explica que la [National Security Agency](http://www.nsa.gov) (NSA) es dediqués a aplegar i explotar dades dels ciutadans accedint als servidors de les principals empreses d’Internet, ja que per al poble americà preval la llibertat d’expressió sobre la intimitat, tal com estableix la cèlebre Primera Esmena de la Declaració de Drets que acompanya la Constitució: “El Congrés no podrà elaborar cap llei quant a l'establiment d'una religió, ni prohibir-ne el lliure acompliment de ritus; ni reduir la llibertat d'expressió o de premsa; ni privar el poble del dret de reunió pacífica, ni del dret de petició a fi de demanar reparacions al Govern.”
 
-*Debat*
-A partir del text següent i de les afirmacions contingudes al vídeo d’Snowden debateu sobre quina relació hi ha entre el tractament informàtica de dades privades i la llibertat personal enfront dels poders públics, per què s’afima que el control de les dades personals converteix els ciutadans en clients, quines repercussions té aquest fet...
+**Atura’t i reflexiona**
 
-**L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies d ela informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.**
-** Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats seguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.**
-
-[Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
+Mira’t aquest vídeo:
 
 [Missatge de Nadal de l’Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI) 
-[missatge Snowden sense comentariscomentaris](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
+[missatge Snowden sense comentaris comentaris](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
+
+Peu: Al nadal de 2013 Edward Snowden va enviar un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
+
+
+A partir de les afirmacions contingudes al vídeo d’Snowden i del text següent, debateu sobre quina relació hi ha entre el tractament informàtic de dades privades i la llibertat personal enfront dels poders públics.  Per què s’afirma que el control de les dades personals converteix els ciutadans en clients? Quines repercussions té aquest fet?
+
+*L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies d ela informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.*
+*Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats seguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.*
+
+Font: [Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
+
 
 
 # Pas 7. Lleis velles per a un món nou?
+Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta.
+
 Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.boe.es/boe/dias/2010/09/17/pdfs/BOE-A-2010-14221.pdf)
 
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
  
-Com veiem en aquest document que intenta establir unes bases de col·laboració entre estats, s’apunta a un compromís basat en la idea de territori geogràfic. Però... no és possible controlar Internet amb barreres i criteris territorials! Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta.
+Com veiem en aquest document que intenta establir unes bases de col·laboració entre estats, s’apunta a un compromís basat en la idea de territori geogràfic. Però... no és possible controlar Internet amb barreres i criteris territorials!
 
 Cal, doncs, un dret de consens, codis deontològics i acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet.
 
-La Xarxa / Internet té una arquitectura que connecta els ordinadors d’arreu. L’entitat que manté aquesta arquitectura és ICANN. La ICANN coneix millor que ningú el funcionament de la Xarxa. La ICANN ja fa anys que ha adoptat el que ha anomenat [Política de # Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
+La Xarxa / Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura és. La ICANN coneix millor que ningú el funcionament de la Xarxa. La ICANN ja fa anys que ha adoptat el que ha anomenat [Política de # Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
 Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament/no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
 
-**Vegem-ne un exemple**: El cas de Xavi Hernàndez. A qui pertany i per què el domini &lt;xavihernandez.com&gt;? (http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)
+Vegem-ne dos exemples: 
+
+El cas de Xavi Hernàndez. A qui pertany i per què el domini &lt;xavihernandez.com&gt;? (http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)
+
 En anglès, el cas, que va perdre, Bruce Springsteen (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html) perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini &lt;brucespringsteen.com&gt; estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First arived, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
 
 # Pas 8. Delictes i faltes
@@ -244,17 +282,26 @@ Si pensem en invasió de la vida privada, aquí sí que s’ha produït un canvi
 Què ha fet Internet? Ampliar l’escenari dels delictes que ja existien i elevar exponencialment la probabilitat d’agrupar-se en xarxes, de trobar-se persones que comparteixen els mateixos interessos.
 
 
-**Atura’t i comparteix** Amplieu la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüència d’usos indesitjats d’Internet. Aporteu-hi noves notícies i classifiqueu segons el tipus de delicte: invasió de la intimitat, estafes, integritat moral (injúries, calúmnies, ciberassetjament), integritat física (ciberasstejament o ciberassetjament a menors -*grooming*-), apropiació d’obres d’altres persones...
+**Atura’t i comparteix** 
+
+Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüència d’usos indesitjats d’Internet. Aporta-hi noves notícies i classifica-les segons el tipus de delicte: 
+* invasió de la intimitat
+* estafes
+* integritat moral (injúries, calúmnies, ciberassetjament)
+* integritat física (ciberasstejament o ciberassetjament a menors -*grooming*-)
+* apropiació d’obres d’altres persones
+
+I si trobes algun altre tipus de delicte, comparteix-lo.
 
 
 # Pas 9. Com ha de ser el dret d’Internet?
 Què ha fet el dret davant del canvi social, econòmic i cultural que el desplegament de les Tecnologies de la Informació i la comunicació ha comportat? 
 
-Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, com vèiem al pas 7 (Conveni de Budapest sobre cibercriminalitat) però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret. 
+Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, (WEB: POSAR ENLLAÇ AL PAS 7 EN EL TEXT SEGÜENT: com el Conveni de Budapest sobre cibercriminalitat) però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret. 
 
 Però, les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
 
-Com hem vist, cal apuntar cap a un dret del pacte, del consens i de la coresponsabilitat entre els ports a la manera del que van construir els mercaders del Mediterrani a l’edat mitjana i que s’ha recollit al *Consolat de Mar* .
+Cal apuntar cap a un dret del pacte, del consens i de la coresponsabilitat entre els ports a la manera del que van construir els mercaders del Mediterrani a l’edat mitjana i que s’ha recollit al *Consolat de Mar* .
 
 Aquí i allà l’autoritat es guanya per coneixement del mitjà i per solidaritat i col·laboració entre els agents de l’intercanvi.
 
@@ -265,6 +312,13 @@ Així doncs, la consolidació d’un món interconnectat ens fa posar **en peu d
 Però no podem aplicar les mesures tradicionals (barreres, càstigs...) per fer-lo complir: ens cal acordar i pactar entre les parts (interessos privats, interessos d’empreses, interessos d’estats).
 
 Trobem un exemple recent en la sentència del Tribunal de Justícia de la Unió Europea en la qual se cita textualment per primer cop l’anomenat [dret a l’oblit](http://curia.europa.eu/juris/document/document.jsf?text=&amp;docid=152065&amp;pageIndex=0&amp;doclang=ES&amp;mode=req&amp;dir=&amp;occ=first&amp;part=1&amp;cid=245907http://sociedad.elpais.com/sociedad/2013/06/25/vidayartes/1372189102_695246.html):
+
+[Vídeo cas costejà en castella, del minut 10:31 al minut 13:36](http://www.rtve.es/alacarta/videos/documentos-tv/documentos-tv-ojo-tus-datos/2270048/)
+
+[o bé vídeo tv3, menys explicatiu](http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia)
+
+[apunt molt breu de Jaume Masdeu que ens pot ajudar a trobar el to per parlar de la sentència](http://blogs.324.cat/oheuropa.php?itemid=53643)
+
 ### Exposició de fets de la sentència:
 14 El 5 de marzo de 2010, el Sr. Costeja González, de nacionalidad española y domiciliado en España, presentó ante la AEPD una reclamación contra La Vanguardia Ediciones, S.L., que publica un periódico de gran difusión, concretamente en Cataluña (en lo sucesivo, «La Vanguardia»), y contra Google Spain y Google Inc. Esta reclamación se basaba en que, cuando un internauta introducía el nombre del Sr. Costeja González en el motor de búsqueda de Google (en lo sucesivo, «Google Search»), obtenía como resultado vínculos hacia dos páginas del periódico La Vanguardia, del 19 de enero y del 9 de marzo de 1998, respectivamente, en las que figuraba un anuncio de una subasta de inmuebles relacionada con un embargo por deudas a la Seguridad Social, que mencionaba el nombre del Sr. Costeja González.
 
@@ -288,6 +342,8 @@ En virtud de todo lo expuesto, el Tribunal de Justicia (Gran Sala) declara:
 ![Piulada sobre el dret a l’oblit](https://dl.dropboxusercontent.com/u/6810751/dret_oblit.png)
 
 Es produeix un conflicte entre dos drets fonamentals: la llibertat d’informació i l’autodeterminació informativa. Com suggereix la piulada de Javier de la Cueva, si s’esborra el rastre digital podem arribar a un punt en què s’estiguin malmetent dades que ens poden permetre escriure la història amb veracitat!
+
+**Atura’t i reflexiona**
 
 I tu, què hi dius? Estàs a favor del dret a l’oblit? Al cas plantejat pel Sr. Costeja, el fet és que va estar implicat en un procés judicial del qual a dreta llei formava part la publicació de l’embargament. Era aquesta realment una dada que afectés la seva vida íntima? Es pot obligar a esborrar dades que han estat producte d’un procés judicial? I si les dades haguessin estat realment privades, ¿veuríeu la situació diferent? 
 
