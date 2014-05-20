@@ -1,3 +1,4 @@
+## 1. Portada
 
 >Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.”
 > 
@@ -9,7 +10,7 @@ La informació no ha canviat, ha canviat la manera com la movem i la fem circula
 
 
 
-## Síl·labus 
+### Síl·labus 
 
 * **L'empremta digital**: Coneix com els sistemes informàtics i Internet capten la informació que hi emetem.
 * **Contractació de serveis**: Valora com els serveis 2.0 tracten la informació que hi dipositem sent-ne conscients o no.
@@ -17,24 +18,24 @@ La informació no ha canviat, ha canviat la manera com la movem i la fem circula
 * **Delictes i faltes**: Analitza si la irrupció d’Internet ha generat nous delictes, identifica’ls i valora’n possibles intervencions a fi d’evitar-los.
 
 
-## Prerequisits del curs
+### Prerequisits del curs
 
 Cercar a Internet
 
-## Itinerari recomanat:
+### Itinerari recomanat:
 
 1. Cercar a Internet
 2. Participar a la xarxa
 
-## Dedicació horària
+### Dedicació horària
 
 10 hores
 
-## Elaborat per
+### Elaborat per
 
 Laia Martín, Institut de Seguretat Pública de Catalunya
 
-##  L’empremta digital: què poden arribar a saber els altres de mi?
+##  2. L’empremta digital: què poden arribar a saber els altres de mi?
 
 Ja no som només el que mostrem físicament sinó el que hem mostrat a través de les xarxes. 
 
@@ -68,26 +69,32 @@ Et proposem que els comparteixis també a Twitter, si en tens un compte, amb l�
 
 WEB: en el cos del text del fòrum on diu “també a Twitter” s’hi podria posar l’etiqueta amb fons vermell i el logo de twitter que apareix en el fil de fòrum 5 del miniop Participar a la xarxa. (a diferència del miniop de participació, l’etiqueta ha d’anar al cos del text, no a l’etiqueta que anuncia l’aturat i comparteix)
 
-___
 
-
-# Pas 3. El teu rastre a la xarxa
-“**Perquè Internet ens vigila, ha arribat l’hora que nosaltres vigilem els qui ens vigilen**” Gary Kovacs
+##  3. El teu rastre a la xarxa 
+>Perquè Internet ens vigila, ha arribat l’hora que nosaltres vigilem els qui ens vigilen
+> 
+>Gary Kovacs
 
 Mira’t aquest vídeo:
-[Gary Kovacs. Tracking our online trackers](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html)
 
+<iframe src="http://embed.ted.com/talks/lang/es/gary_kovacs_tracking_the_trackers.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<small>
 Peu: La informació de navegació és rastrejada per altres - Font [Gary Kovacs. Tracking our online trackers - TED Talks](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers)
+</small>
 
 Així doncs, ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. Malgrat no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins quin punt la nostra informació es demandada per diferents empreses d’internet. Aquí en tens un altre exemple:
 
-[Lightbeam for Firefox](https://www.youtube.com/watch?v=PvqGy9wz_wA)
+<iframe width="560" height="315" src="//www.youtube.com/embed/PvqGy9wz_wA?rel=0" frameborder="0" allowfullscreen></iframe>
 
+<small>
 Peu: Lightbeam per a Firefox et mostra gràficament qui t’observa - Font: [Mozilla](http://www.mozilla.org/ca/lightbeam/) 
+</small>
 
 Les dades poden ser recollides amb o sense consentiment explícit del navegant. Com que molt sovint no en som conscients, aquestes eines ens permetran visualitzar qui està prenent nota del nostre rastre digital. 
 
 Són molt útils, doncs:
+
 * per saber qui ens vigila
 * per poder bloquejar-ne l’accés a la navegació quan accedim a l’espai principal
 * per mostrar-nos les connexions amagades rere els llocs que voluntàriament i conscientment visites
@@ -95,6 +102,7 @@ Són molt útils, doncs:
 * per saber on estan localitzats geogràficament els servidors que emmagatzemen aquestes dades
 
 
+***
 
 **Atura’t i practica**
 
@@ -105,11 +113,13 @@ Analitza els teus moviments al cap d’un dia.
 La gràfica mostra les galetes, és a dir, les dades que els llocs web capten i conserven per facilitar-te la navegació o per obtenir estadístiques dels teus hàbits de navegació i que s’instal·len al teu navegador.
 
 Interpreta la gràfica dels teus moviments:
+
 * Podries dir quina informació s’ha recollit sobre tu?  Qui l’ha recollida? Saps què se’n fa?
 * La informació recollida, pertany a l’àmbit d’allò més personal i que no voldries que el públic en general conegués?
 
+***
 
-# Pas 4. Com ens venem l’ànima al diable 
+## 4. Com ens venem l’ànima al diable 
 
 Entenem per **identitat** aquella parcel·la que cadascú, en exercici de la seva **llibertat** individual, reserva de la seva vida enfront de l’acció i el coneixement de les altres persones, siguin poders públics, entitats privades o particulars.
 
