@@ -1,7 +1,7 @@
-# Pas 1
 
-# Seguretat a la xarxa 
-*“Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.”* Curtis J. Bonk, *The World is Open. How Web Technology is Revolutionizing Education*
+>Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.”
+> 
+>Curtis J. Bonk, *The World is Open. How Web Technology is Revolutionizing Education*
 
 Vivim un moment clau en l’evolució de la humanitat. Internet connecta les vides singulars d’arreu del planeta Terra, els dóna veu i protagonisme a través d’un mitjà d’efectes immediats i globals. Davant d’aquest context, té sentit fer servir les lleis antigues per tancar espais de bits, oberts i sense fronteres traçades? 
 
@@ -10,43 +10,47 @@ La informació no ha canviat, ha canviat la manera com la movem i la fem circula
 
 
 ## Síl·labus 
- * L'empremta digital
-Coneix com els sistemes informàtics i Internet capten la informació que hi emetem.
-* Contractació de serveis
-Valora com els serveis 2.0 tracten la informació que hi dipositem sent-ne conscients o no.
- * El dret a l'autodeterminació informativa
-Coneix com la Unió Europea ha configurat aquest dret com a fonamental i per què.
-* Delictes i faltes
-Analitza si la irrupció d’Internet ha generat nous delictes, identifica’ls i valora’n possibles intervencions a fi d’evitar-los.
+
+* **L'empremta digital**: Coneix com els sistemes informàtics i Internet capten la informació que hi emetem.
+* **Contractació de serveis**: Valora com els serveis 2.0 tracten la informació que hi dipositem sent-ne conscients o no.
+* **El dret a l'autodeterminació informativa**: Coneix com la Unió Europea ha configurat aquest dret com a fonamental i per què.
+* **Delictes i faltes**: Analitza si la irrupció d’Internet ha generat nous delictes, identifica’ls i valora’n possibles intervencions a fi d’evitar-los.
 
 
 ## Prerequisits del curs
+
 Cercar a Internet
 
 ## Itinerari recomanat:
-Cercar a Internet &gt; Participar a la xarxa
+
+1. Cercar a Internet
+2. Participar a la xarxa
 
 ## Dedicació horària
+
 10 hores
 
 ## Elaborat per
+
 Laia Martín, Institut de Seguretat Pública de Catalunya
 
-# Pas 2. L’empremta digital: què poden arribar a saber els altres de mi?
+##  L’empremta digital: què poden arribar a saber els altres de mi?
+
 Ja no som només el que mostrem físicament sinó el que hem mostrat a través de les xarxes. 
 
 En aquest vídeo s’hi fa un experiment. Mira-te’l:
 
-[Vídeo de Jack Vale](http://www.youtube.com/watch?v=5P_0s1TYpJU#t=161)
+<iframe width="560" height="315" src="//www.youtube.com/embed/5P_0s1TYpJU?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Peu: La informació que mostrem a les xarxes socials té efectes (Font: [Jack Vale Films](https://www.youtube.com/user/jackvalefilms)
+<small>
+Peu: La informació que mostrem a les xarxes socials té efectes (Font: [Jack Vale Films](https://www.youtube.com/user/jackvalefilms))
+</small>
 
 Malgrat el que sovint pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que el d’un tatuatge i no sempre tenim a les nostres mans saber on s’emmagazetma ni què se n’està fent.
 
 Fixa’t en aquests casos: 
 
 ---
-
 WEB: Proposem que hi hagi tres imatges que apuntin als enllaços de les notícies. És una qüestió complicada ja que els enllaços remeten a textos que no són visualment atractius. Alguna proposta?
 
 ---
@@ -56,11 +60,11 @@ WEB: Proposem que hi hagi tres imatges que apuntin als enllaços de les notície
 2. [Alerta dels Mossos d’Esquadra per grooming a través de facebook](http://www.escolamasboadella.com/docs/mossos1.pdf)
 3. [Els Mossos imputen dos joves al Vallès Oriental per coaccionar una menor a través de les xarxes socials](http://www.ara.cat/societat/Mossos-imputen-Valles-Oriental-coaccionar_0_1059494171.html)
 
+***
 **Atura’t i comparteix**
 Cerca notícies d’actualitat relacionades amb usos no desitjats o fins i tot il·lícits de la nostra empremta digital. Aporta els resultats de la teva cerca al fòrum amb una frase que resumeixi el contingut de la notícia,  en forma d’enllaços.
 Et proposem que els comparteixis també a Twitter, si en tens un compte, amb l’etiqueta #miniop8.
-
-___
+***
 
 WEB: en el cos del text del fòrum on diu “també a Twitter” s’hi podria posar l’etiqueta amb fons vermell i el logo de twitter que apareix en el fil de fòrum 5 del miniop Participar a la xarxa. (a diferència del miniop de participació, l’etiqueta ha d’anar al cos del text, no a l’etiqueta que anuncia l’aturat i comparteix)
 
