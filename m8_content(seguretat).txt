@@ -279,7 +279,7 @@ A partir de les afirmacions contingudes al vídeo d’Snowden i del text següen
 *********************************************************************************************************
 
 
-# Pas 7. Lleis velles per a un món nou?
+## 7. Lleis velles per a un món nou?
 Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta.
 
 Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.boe.es/boe/dias/2010/09/17/pdfs/BOE-A-2010-14221.pdf)
@@ -299,7 +299,7 @@ El cas de Xavi Hernàndez. A qui pertany i per què el domini &lt;xavihernandez.
 
 En anglès, el cas, que va perdre, Bruce Springsteen (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html) perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini &lt;brucespringsteen.com&gt; estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First arived, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
 
-# Pas 8. Delictes i faltes
+## 8. Delictes i faltes
 Rumiem una mica. Internet no ha generat gaires nous delictes, és a dir, delictes derivats d’aquest mitjà tecnològic.
 
 Si pensem en assetjament, sigui escolar o laboral, el delicte ja està tipificat com a dany a la integritat moral o física de les persones.
@@ -310,10 +310,11 @@ Si pensem en invasió de la vida privada, aquí sí que s’ha produït un canvi
 
 Què ha fet Internet? Ampliar l’escenari dels delictes que ja existien i elevar exponencialment la probabilitat d’agrupar-se en xarxes, de trobar-se persones que comparteixen els mateixos interessos.
 
-
+*********************************************************************************************************
 **Atura’t i comparteix** 
 
 Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüència d’usos indesitjats d’Internet. Aporta-hi noves notícies i classifica-les segons el tipus de delicte: 
+
 * invasió de la intimitat
 * estafes
 * integritat moral (injúries, calúmnies, ciberassetjament)
@@ -321,7 +322,7 @@ Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüènci
 * apropiació d’obres d’altres persones
 
 I si trobes algun altre tipus de delicte, comparteix-lo.
-
+*********************************************************************************************************
 
 # Pas 9. Com ha de ser el dret d’Internet?
 Què ha fet el dret davant del canvi social, econòmic i cultural que el desplegament de les Tecnologies de la Informació i la comunicació ha comportat? 
