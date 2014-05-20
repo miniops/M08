@@ -239,7 +239,12 @@ Hi ha, doncs, contresenyes dolentes perquè són previsibles pero també maneres
 
 ## 6. El dret a l’autodeterminació informativa
 
-[Us adoneu que, potencialment, vivim en cases de vidre?](http://youtu.be/PD5uoTEbSbo)
+<iframe width="420" height="315" src="//www.youtube.com/embed/PD5uoTEbSbo?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<small>
+Peu: [Us adoneu que, potencialment, vivim en cases de vidre?](http://youtu.be/PD5uoTEbSbo)
+</small>
+
 
 La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què i per a què. 
 
@@ -249,23 +254,29 @@ La Constitució espanyola de 1978 va ser, després de la portuguesa, de les prim
 
 Aquest dret està reconegut per la legislació europea com a dret fonamental mentre que als EUA només s’ha legislat des de diferents sectors però no pas en la columna vertebral del sistema legislatiu, la Constitució. Aquest fet explica que la [National Security Agency](http://www.nsa.gov) (NSA) es dediqués a aplegar i explotar dades dels ciutadans accedint als servidors de les principals empreses d’Internet, ja que per al poble americà preval la llibertat d’expressió sobre la intimitat, tal com estableix la cèlebre Primera Esmena de la Declaració de Drets que acompanya la Constitució: “El Congrés no podrà elaborar cap llei quant a l'establiment d'una religió, ni prohibir-ne el lliure acompliment de ritus; ni reduir la llibertat d'expressió o de premsa; ni privar el poble del dret de reunió pacífica, ni del dret de petició a fi de demanar reparacions al Govern.”
 
+*********************************************************************************************************
 **Atura’t i reflexiona**
 
 Mira’t aquest vídeo:
 
+<!--
 [Missatge de Nadal de l’Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI) 
-[missatge Snowden sense comentaris comentaris](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
+-->
 
+<iframe src="http://embedded-video.guardianapps.co.uk/?a=false&amp;u=/world/video/2013/dec/25/edward-snowden-christmas-message-video" frameborder="0" width="460" height="397"></iframe>
+
+<small>
 Peu: Al nadal de 2013 Edward Snowden va enviar un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
-
+</small>
 
 A partir de les afirmacions contingudes al vídeo d’Snowden i del text següent, debateu sobre quina relació hi ha entre el tractament informàtic de dades privades i la llibertat personal enfront dels poders públics.  Per què s’afirma que el control de les dades personals converteix els ciutadans en clients? Quines repercussions té aquest fet?
 
-*L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies d ela informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.*
-*Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats seguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.*
+>L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies d ela informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.
+>Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats seguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.
+> 
+> [Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
 
-Font: [Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
-
+*********************************************************************************************************
 
 
 # Pas 7. Lleis velles per a un món nou?
