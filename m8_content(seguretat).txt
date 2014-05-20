@@ -57,7 +57,7 @@ WEB: Proposem que hi hagi tres imatges que apuntin als enllaços de les notície
 ---
 
 
-1. [La (falsa) frase de Toure Yaya: el gol d’un tuitaire](https://dl.dropboxusercontent.com/u/6810751/La%20%28falsa%29%20frase%20de%20Tour%C3%A9%20Yaya%3A%20el%20gol%20d%E2%80%99un%20tuitaire%20%28%C3%80lex%20Guti%C3%A9rrez%29.pd)
+1. [La (falsa) frase de Toure Yaya: el gol d’un tuitaire](https://dl.dropboxusercontent.com/u/6810751/La%20%28falsa%29%20frase%20de%20Tour%C3%A9%20Yaya%3A%20el%20gol%20d%E2%80%99un%20tuitaire%20%28%C3%80lex%20Guti%C3%A9rrez%29.pdf)
 2. [Alerta dels Mossos d’Esquadra per grooming a través de facebook](http://www.escolamasboadella.com/docs/mossos1.pdf)
 3. [Els Mossos imputen dos joves al Vallès Oriental per coaccionar una menor a través de les xarxes socials](http://www.ara.cat/societat/Mossos-imputen-Valles-Oriental-coaccionar_0_1059494171.html)
 
@@ -102,8 +102,8 @@ Són molt útils, doncs:
 * per saber on estan localitzats geogràficament els servidors que emmagatzemen aquestes dades
 
 
-***
 
+*********************************************************************************************************
 **Atura’t i practica**
 
 Fem una prova? Instal·la al teu navegador [Lightbeam per a Firefox](http://www.mozilla.org/ca/lightbeam/) o bé [Collusion per a Chrome](https://chrome.google.com/webstore/detail/collusion-for-chrome/ganlifbpkcplnldliibcbegplfmcfigp)
@@ -116,8 +116,7 @@ Interpreta la gràfica dels teus moviments:
 
 * Podries dir quina informació s’ha recollit sobre tu?  Qui l’ha recollida? Saps què se’n fa?
 * La informació recollida, pertany a l’àmbit d’allò més personal i que no voldries que el públic en general conegués?
-
-***
+*********************************************************************************************************
 
 ## 4. Com ens venem l’ànima al diable 
 
@@ -127,9 +126,11 @@ Aquesta parcel·la té components personals, però també, socioculturals.
 
 Per entendre aquesta dimensió, mira’t aquest vídeo:
 
-[sense cortines](http://www.tv3.cat/videos/4458455/Sense-cortines)
+[Sense cortines, Groningen, Holanda](http://blogs.tv3.cat/blogeuropa.php?itemid=49266)
 
+<small>
 Peu: L’exhibició de la intimitat - Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
+</small>
 
 Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar les personalitats emergents en aquesta etapa vital. Els tatuatges avui dia, com a les tribus, i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries: el que hi marquem ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
 
@@ -137,35 +138,35 @@ La construcció de la identitat digital és una responsabilitat social i una mar
 
 Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra! Aquí en tens un exemple:
 
+<small>
 Peu: Quan Facebook pot ser causa d’acomiadament [Font: La Vanguardia](http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html)
+</small>
 
-
----
-
+*********************************************************************************************************
 WEB:  o bé posar l’enllaç a la notícia anterior directament o bé captura de la notícia amb l’enllaç. Valora-ho.
+*********************************************************************************************************
 
----
 
-
+*********************************************************************************************************
 **Atura’t i reflexiona**
 
 [Llegeix les condicions d’ús de [Facebook:](https://www.facebook.com/legal/terms)
 
-___
 
 (WEB: aquí hem de posar l’enllaç a la pàgina de Facebook de les condicions d’ús. Si creus que quedaria millor visualment posant l’enllaç a una imatge de la pàgina o se t’acudeix alguna altra solució s’accepten propostes. Havíem valorat la possibilitat de fer alguna cosa semblant a aquest model però no ens convenç perquè ens interessa que llegeixin tot el text dins del seu context: http://mashable.tumblr.com/post/74754045659/xraggedyman-i-swear-to-god-im-dying-over-here)
 
-___
-
 
 Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sabies? Explica-ho en el fòrum, tot responent a les 5 preguntes següents:
+
 1. En cas de conflicte, a quin tribunal hauries de recórrer?
 2. Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
 3. Per què es parla de privacitat i no pas d’intimitat? Creus que es pot establir una gradació públic / privat / íntim? 
 4. Podem dir que tota la informació que deixem a facebook s’elimina i que s’elimina quan volem?
 5. Havent respost les anteriors preguntes, com aconsellaries de configurar el perfil en una xarxa social per preservar al màxim la teva privacitat?
+*********************************************************************************************************
 
-# Pas 5. Com protegir la nostra identitat a la Xarxa?
+
+## 5. Com protegir la nostra identitat a la Xarxa?
 Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
 
 Els seus principals enemics són:
