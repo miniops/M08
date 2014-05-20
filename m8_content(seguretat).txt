@@ -116,6 +116,7 @@ Interpreta la gràfica dels teus moviments:
 
 * Podries dir quina informació s’ha recollit sobre tu?  Qui l’ha recollida? Saps què se’n fa?
 * La informació recollida, pertany a l’àmbit d’allò més personal i que no voldries que el públic en general conegués?
+
 *********************************************************************************************************
 
 ## 4. Com ens venem l’ànima al diable 
@@ -163,8 +164,8 @@ Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sab
 3. Per què es parla de privacitat i no pas d’intimitat? Creus que es pot establir una gradació públic / privat / íntim? 
 4. Podem dir que tota la informació que deixem a facebook s’elimina i que s’elimina quan volem?
 5. Havent respost les anteriors preguntes, com aconsellaries de configurar el perfil en una xarxa social per preservar al màxim la teva privacitat?
-*********************************************************************************************************
 
+*********************************************************************************************************
 
 ## 5. Com protegir la nostra identitat a la Xarxa?
 Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
