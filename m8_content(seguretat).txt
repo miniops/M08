@@ -170,13 +170,14 @@ Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sab
 Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
 
 Els seus principals enemics són:
+
 * els poders públics que poden accedir i utilitzar les nostres dades sense permís i/o sense que en tinguem coneixement.
 * les empreses que volen fer negoci a partir de l’accés a les nostres dades.
 * nosaltres mateixos quan contractem serveis especialment de xarxes socials sense parar esment que establim un acord, és a dir, que fem un pacte de prestacions i contraprestacions.
 * terceres persones que poden 
-   * utilitzar de forma fraudulenta i de mala fe la nostra imatge. 
-   * fer servir la Xarxa com a mitjà de difamació.
-   * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol).
+	* utilitzar de forma fraudulenta i de mala fe la nostra imatge.
+    * fer servir la Xarxa com a mitjà de difamació.
+    * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol).
 
 La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia i amb l’objectiu de resoldre aquest problema s’està parlant molt del gir cap a les dades biomètriques a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
@@ -184,11 +185,11 @@ Tanmateix, el mètode més segur per comprovar la identitat digital a Internet �
 
 Aquí tens una relació de consells de seguretat:
 
----
-
+*********************************************************************************************************
 WEB: IMG - INFOGRAFIA (ENCÀRREC EN CURS)
 
 ![model infografia](https://www.dropbox.com/s/lq44ovbgrv73rkg/mo8_infografia.jpeg)
+
 Text que conté la infografia:
 
 Endavant!
@@ -208,9 +209,7 @@ Alto!
 * No utilitzis contrasenyes curtes per molt estranyes que ens puguin semblar
 * No facilitis a ningú una contrasenya teva
 * No deixis sessions obertes en aplicacions a Internet en dispositius que no siguin teus 
-
-
----
+*********************************************************************************************************
 
 Com pots eliminar el teu rastre en línia? Com pots reforçar la seguretat de les teves contrasenyes? Posa fil a l’agulla:
 
@@ -218,23 +217,27 @@ Existeixen extensions instal·lables al teu navegador (com  [Disconnect](https:/
 
 Mira’t aquest vídeo i et sorprendràs:
 
-[ghostery](&lt;iframe width="560" height="315" src="//www.youtube.com/embed/EKzyifAvC_U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;)
+<iframe width="560" height="315" src="//www.youtube.com/embed/EKzyifAvC_U?rel=0" frameborder="0" allowfullscreen></iframe>
 
+<small>
 Peu: Podem prendre decisions informades sobre la nostra privacitat - Font: [Ghostery](https://www.ghostery.com/en/)
+</small>
 
 Malgrat pot resultar de vegades una feina feixuga recordar-les totes, triar una contrasenya segura és fonamental. 
 
 Aquest vídeo et pot ajudar:
 
-[strong password](&lt;iframe width="560" height="315" src="//www.youtube.com/embed/0RCsHJfHL_4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;)
+<iframe width="560" height="315" src="//www.youtube.com/embed/0RCsHJfHL_4?rel=0" frameborder="0" allowfullscreen></iframe>
 
+<small>
 Peu: Crear una contrasenya segura és important. Font [Google](https://www.youtube.com/watch?v=0RCsHJfHL_4)
+</small>
 
 Hi ha, doncs, contresenyes dolentes perquè són previsibles pero també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
 [La llista de les pitjors contrasenyes](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html) i [Com crear-ne de bones](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
 
 
-# Pas 6. El dret a l’autodeterminació informativa
+## 6. El dret a l’autodeterminació informativa
 
 [Us adoneu que, potencialment, vivim en cases de vidre?](http://youtu.be/PD5uoTEbSbo)
 
