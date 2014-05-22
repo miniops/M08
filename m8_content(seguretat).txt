@@ -194,11 +194,11 @@ Els seus principals enemics són:
     * fer servir la Xarxa com a mitjà de difamació.
     * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol).
 
-Aquest últim aspecte, l'accés per part de terceres persones als nostres comptes, és la causa de molts problemes de seguretat. La tecnologia, però, és cada cop més transparent i senzilla d’utilitzar per part de l’usuari. En aquesta línia, amb l’objectiu de facilitar una identificació inequívoca dels usuaris autoritzats a accedir als serveis d'Internet, s’està parlant molt del gir cap a les **dades biomètriques** a partir del reconeixement de l’empremta digital als aparells de telefonia. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
+Aquest últim aspecte, l'accés per part de terceres persones als nostres comptes, és la causa de molts problemes de seguretat. La tecnologia, però, és cada cop més transparent i senzilla d’utilitzar. En aquesta línia, i amb l’objectiu de facilitar una identificació inequívoca de l'usuari, s’està parlant molt del gir cap a les **dades biomètriques** a partir del reconeixement de l’empremta digital als aparells de telefonia. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
 Ara bé, les dades biomètriques són dades vinculades al nostre propi cos. Qui les emmagatzema? Què en fa? Quines garanties tenim que no se'n facin usos indesitjats? Com podem saber que no van a parar a *terceres parts*?
 
-Un mètode força segur i estès per comprovar la identitat digital a internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afectat hagi indicat.
+Un mètode força segur i estès per comprovar la identitat digital a Internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afectat hagi indicat.
 
 Aquí tens una relació de consells de seguretat:
 
@@ -231,7 +231,7 @@ Alto!
 
 Com pots eliminar el teu rastre en línia? Com pots reforçar la seguretat de les teves contrasenyes? Posa fil a l’agulla:
 
-Existeixen extensions instal·lables al teu navegador (com  [Disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o [Ghostery](https://www.ghostery.com/en/) que et permeten prendre decisions sobre què estàs disposat a mostrar i a qui. 
+Existeixen extensions instal·lables al teu navegador com  [Disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o [Ghostery](https://www.ghostery.com/en/) que et permeten prendre decisions sobre què estàs disposat a mostrar i a qui. 
 
 Mira’t aquest vídeo i et sorprendràs:
 
@@ -248,13 +248,13 @@ Aquest vídeo et pot ajudar:
 <iframe width="560" height="315" src="//www.youtube.com/embed/0RCsHJfHL_4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <small>
-Peu: Crear una contrasenya segura és important. Font [Google](https://www.youtube.com/watch?v=0RCsHJfHL_4)
+Peu: Consells per crear una contrasenya segura - Font [Google](https://www.youtube.com/watch?v=0RCsHJfHL_4)
 </small>
 
-Hi ha, doncs, contresenyes dolentes perquè són previsibles pero també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
+Hi ha, doncs, contresenyes dolentes perquè són previsibles però també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
 [La llista de les pitjors contrasenyes](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html) i [Com crear-ne de bones](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
 
-Tanmateix, totes aquestes precaucions poden resultar anecdòtiques. Avui dia ja s'ha muntat el [projecte Tor](https://www.torproject.org), una xarxa oberta que et protegeix de qualsevol forma de monitorització.
+Tanmateix, totes aquestes precaucions poden resultar anecdòtiques. Avui dia ja s'ha muntat el [Projecte Tor](https://www.torproject.org), una xarxa oberta que et protegeix de qualsevol forma de monitorització.
 
 **Aprèn en col·laboració**
 
