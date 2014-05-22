@@ -320,15 +320,16 @@ Internet ha obert un nou escenari d'abast global per a l'actuació humana i ha p
 
 Davant del nou panorama, cal reescriure la llei? Com podem fer que s'apliqui en aquest nou escenari global? 
 
-Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta. El que s'esborra d'un ordinador connectat queda en un altre ordinador connectat. Quan els estats han volgut plantar cara a la cibercriminalitat, s'han trobat aplicant criteris territorials a un mitjà líquid i aquests, és clar, no han estat gaire útils. [Conveni de Budapest sobre cibercriminalitat](https://www.boe.es/boe/dias/2010/09/17/pdfs/BOE-A-2010-14221.pdf)
+Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta. El que s'esborra d'un ordinador connectat queda en un altre ordinador connectat. Quan els estats han volgut plantar cara a la cibercriminalitat, s'han trobat aplicant criteris territorials a un mitjà líquid i aquests, és clar, no han estat gaire útils. L'any 2001 el [Conveni de Budapest sobre cibercriminalitat](https://www.boe.es/boe/dias/2010/09/17/pdfs/BOE-A-2010-14221.pdf) va intentar establir unes bases de col·laboració entre estats. 
 
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
 
-Com veiem en aquest fragment, el Conveni intenta establir unes bases de col·laboració entre estats. S'hi apunta a un compromís basat en la idea de territori geogràfic. Però... no és possible controlar internet amb barreres i criteris territorials. 
+Com veiem, en aquest fragment s’apunta a un compromís basat en la idea de territori geogràfic. 
+Però... no és possible controlar Internet amb barreres i criteris territorials!
 
-Caldria, doncs, un dret de consens: codis deontològics i acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet.
+Cal, doncs, un dret de consens. Com el construïm? Amb codis deontològics, acords entre les parts en conflicte i la col·laboració de l'arquitectura tecnològica d’Internet que és molt important que es mantingui en un punt de neutralitat.
 
-La Xarxa / Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la Xarxa. La ICANN ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
+Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la Xarxa. La ICANN ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
 Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament/no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
 
 Vegem-ne dos exemples: 
