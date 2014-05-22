@@ -293,10 +293,12 @@ Mira’t aquest vídeo:
 <iframe src="http://embedded-video.guardianapps.co.uk/?a=false&amp;u=/world/video/2013/dec/25/edward-snowden-christmas-message-video" frameborder="0" width="460" height="397"></iframe>
 
 <small>
-Peu: Al nadal de 2013 Edward Snowden va enviar un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
+Peu: Al nadal de 2013 Edward Snowden va difondre un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
 </small>
 
 La denúncia d'Snowden, antic agent de serveis d'intel·ligència dels EUA, ha tingut molta repercussió als mitjans de comunicació d'arreu del món. Tanmateix, a Europa, des de finals del segle XX, juristes d'anomenada, com l'italià Stefano Rodotà, havien centrat les seves reflexions sobre la relació entre tecnologia, respecte als drets fonamentals de les persones i exercici efectiu de la democràcia.
+
+Llegeix el text de Rodotà:
 
 >L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies d ela informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.
 >Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats seguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.
@@ -310,8 +312,9 @@ A partir de les afirmacions contingudes al vídeo d’Snowden i del text anterio
 
 *********************************************************************************************************
 
+(PAS 7)
 
-## 7. Lleis velles per a un món nou?
+## Lleis velles per a un món nou?
 
 Internet ha obert un nou escenari d'abast global per a l'actuació humana i ha potenciat valors com la col·laboració.
 
