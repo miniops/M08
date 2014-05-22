@@ -174,25 +174,27 @@ Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sab
 * En cas de conflicte, a quin tribunal hauries de recórrer?
 * Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
 * Per què es parla de privacitat i no pas d’intimitat? Creus que es pot establir una gradació **públic / privat / íntim**? 
-* Podem dir que tota la informació que deixem a facebook s’elimina i que s’elimina quan volem?
-* Havent respost les anteriors preguntes, com aconsellaries de configurar el perfil en una xarxa social per preservar al màxim la teva privacitat?
+* Podem dir que tota la informació que deixem a Facebook s’elimina i que s’elimina quan volem?
+* Finalment, com aconsellaries de configurar el perfil en una xarxa social per preservar al màxim la teva privacitat?
 
 *********************************************************************************************************
 
-## 5. Com protegir la nostra identitat a la Xarxa?
+(PAS 5)
+
+## Com protegir la nostra identitat a la Xarxa?
 Hem de cultivar la nostra identitat digital amb cura i responsabilitat.
 
 Els seus principals enemics són:
 
 * els poders públics que poden accedir i utilitzar les nostres dades sense permís i/o sense que en tinguem coneixement.
 * les empreses que volen fer negoci a partir de l’accés a les nostres dades.
-* nosaltres mateixos quan contractem serveis especialment de xarxes socials sense parar esment que establim un acord, és a dir, que fem un pacte de prestacions i contraprestacions.
+* nosaltres mateixos quan contractem serveis, especialment de xarxes socials, sense parar esment que establim un acord, és a dir, que fem un pacte de prestacions i contraprestacions.
 * terceres persones que poden 
 	* utilitzar de forma fraudulenta i de mala fe la nostra imatge.
     * fer servir la Xarxa com a mitjà de difamació.
     * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol).
 
-Aquest últim aspecte, l'accés per part de terceres persones als nostres comptes, és la causa de molts problemes de seguretat. La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia i amb l’objectiu de facilitar una identificació inequívoca dels usuaris autoritzats a accedir als serveis de internet s’està parlant molt del gir cap a les **dades biomètriques** a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
+Aquest últim aspecte, l'accés per part de terceres persones als nostres comptes, és la causa de molts problemes de seguretat. La tecnologia, però, és cada cop més transparent i senzilla d’utilitzar per part de l’usuari. En aquesta línia, amb l’objectiu de facilitar una identificació inequívoca dels usuaris autoritzats a accedir als serveis d'Internet, s’està parlant molt del gir cap a les **dades biomètriques** a partir del reconeixement de l’empremta digital als aparells de telefonia. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
 Ara bé, les dades biomètriques són dades vinculades al nostre propi cos. Qui les emmagatzema? Què en fa? Quines garanties tenim que no se'n facin usos indesitjats? Com podem saber que no van a parar a *terceres parts*?
 
