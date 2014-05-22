@@ -258,18 +258,22 @@ Ara bé, totes aquestes precaucions poden resultar anecdòtiques. Encara pots an
 
 **Aprèn en col·laboració**
 
-Si t'has instal·lat Ghostery o Disconnect o si has gosat anar més enllà i has explorat el projecte Tor, comparteix els teus dubtes i descobertes amb el companys.
+Si t'has instal·lat [Ghostery](https://www.ghostery.com/en/) o [Disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o si has gosat anar més enllà i has explorat el  [Projecte Tor](https://www.torproject.org), comparteix els teus dubtes i descobertes amb el companys.
 
-## 6. El dret a l’autodeterminació informativa
+(PAS 6)
+
+## El dret a l’autodeterminació informativa
+
+T'adones que, potencialment, vivim en cases de vidre?
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/PD5uoTEbSbo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <small>
-Peu: [Us adoneu que, potencialment, vivim en cases de vidre?](http://youtu.be/PD5uoTEbSbo)
+Peu: Línies bàsiques de la protecció de dades personals. Font [EAPC](http://youtu.be/PD5uoTEbSbo) - [Autor: Scopia Visual Interfaces Systems S.L.] (http://www.scopia.es)
 </small>
 
 
-La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què, per a què i de demanar-ne la rectificació si són incorrectes i la cancel·lació. 
+La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què, per a què i també de demanar-ne la rectificació si són incorrectes i la cancel·lació. 
 
 No s’ha de confondre amb el dret a la intimitat. El dret a l’autodeterminació informativa apareix com a tal en el moment en què la informàtica es desenvolupa i amenaça la vida privada de les persones. Per què? Doncs perquè les seves dades poden ser vigilades, analitzades i tractades tant pels poders públics (estats) com pels privats (empreses).
 
