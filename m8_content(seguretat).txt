@@ -301,18 +301,20 @@ Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.bo
 
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
  
-Com veiem en aquest document que intenta establir unes bases de col·laboració entre estats, s’apunta a un compromís basat en la idea de territori geogràfic. Però... no és possible controlar Internet amb barreres i criteris territorials!
+Com veiem, en aquest fragment s’apunta a un compromís basat en la idea de territori geogràfic. 
+Però... no és possible controlar Internet amb barreres i criteris territorials!
 
-Cal, doncs, un dret de consens, codis deontològics i acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet.
+Cal, doncs, un dret de consens. Com el construïm? Amb codis deontològics, acords entre les parts en conflicte i la col·laboració de l'arquitectura tecnològica d’Internet que és molt important que es mantingui en un punt de neutralitat.
 
-La Xarxa / Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura és. La ICANN coneix millor que ningú el funcionament de la Xarxa. La ICANN ja fa anys que ha adoptat el que ha anomenat [Política de # Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
-Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament/no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
+Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la Xarxa. La ICANN ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
 
-Vegem-ne dos exemples: 
+Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament o no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
 
-El cas de Xavi Hernàndez. A qui pertany i per què el domini &lt;xavihernandez.com&gt;? (http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)
+Vegem-ne dos exemples contraposats: 
 
-En anglès, el cas, que va perdre, Bruce Springsteen (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html) perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini &lt;brucespringsteen.com&gt; estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First arived, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
+El cas de Xavi Hernàndez. A qui pertany i per què el domini <xavihernandez.com>? (http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)
+
+En anglès, el cas, que va perdre, Bruce Springsteen (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html) perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini <brucespringsteen.com> estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
 
 ## 8. Delictes i faltes
 Rumiem una mica. Internet no ha generat gaires nous delictes, és a dir, delictes derivats d’aquest mitjà tecnològic.
