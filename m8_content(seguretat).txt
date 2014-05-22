@@ -342,76 +342,21 @@ I si trobes algun altre tipus de delicte, comparteix-lo.
 *********************************************************************************************************
 
 ## 9. Com ha de ser el dret d’Internet?
+
 Què ha fet el dret davant del canvi social, econòmic i cultural que el desplegament de les Tecnologies de la Informació i la comunicació ha comportat? 
 
 Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, (WEB: POSAR ENLLAÇ AL PAS 7 EN EL TEXT SEGÜENT: com el Conveni de Budapest sobre cibercriminalitat) però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret. 
 
 Però, les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
 
-Cal apuntar cap a un dret del pacte, del consens i de la coresponsabilitat entre els ports a la manera del que van construir els mercaders del Mediterrani a l’edat mitjana i que s’ha recollit al *Consolat de Mar* .
-
-El Consolat de Mar establia un codi basat en l’autoregulació dels mercaders pel Mediterrani amb l’objectiu de garantir la seguretat les principals vies comercials i la col·laboració i el suport entre eles agents.
-
-Les normes es basaven en els costums consolidats i en les resolucions (jurisprudència) que anaven trobant els diferents consols de mar.
-
-No és debades que també naveguem per Internet ;-). 
-
-![Mapa del comerç català medieval](http://lh6.ggpht.com/_KKTCT60suEU/TE_rfSxpOJI/AAAAAAAAA94/TkBf3a498Hc/comercio_catalan.gif?imgmax=640)
-
-![LLibre de consolat de Mar](http://www.lluisvives.com/servlet/SirveObras/09255007699869439647857/4864_0074.jpg)
-
-Aquí i allà l’autoritat es guanya per coneixement del mitjà i per solidaritat i col·laboració entre els agents de l’intercanvi.
-
-El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són els que el dret constitucional anomena **drets fonamentals**. Entre ells, a vegades, topen i cal decidir en cada circumstància concreta quin fem prevaler. En veurem un cas tot seguit.
-
-Així doncs, la consolidació d’un món interconnectat ens fa posar **en peu d’alerta**: cal vetllar per deixar a la Xarxa i en obert tot allò que sigui d’interès públic i, alhora, barrar l’accés a la intimitat.
-
-Però no podem aplicar les mesures tradicionals (barreres, càstigs...) per fer-lo complir: ens cal acordar i pactar entre les parts (interessos privats, interessos d’empreses, interessos d’estats).
-
-Trobem un exemple recent en la sentència del Tribunal de Justícia de la Unió Europea en la qual se cita textualment per primer cop l’anomenat [dret a l’oblit](http://curia.europa.eu/juris/document/document.jsf?text=&amp;docid=152065&amp;pageIndex=0&amp;doclang=ES&amp;mode=req&amp;dir=&amp;occ=first&amp;part=1&amp;cid=245907http://sociedad.elpais.com/sociedad/2013/06/25/vidayartes/1372189102_695246.html):
-
-[Vídeo cas costejà en castella, del minut 10:31 al minut 13:36](http://www.rtve.es/alacarta/videos/documentos-tv/documentos-tv-ojo-tus-datos/2270048/)
-
-[o bé vídeo tv3, menys explicatiu](http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia)
-
-[apunt molt breu de Jaume Masdeu que ens pot ajudar a trobar el to per parlar de la sentència](http://blogs.324.cat/oheuropa.php?itemid=53643)
-
-### Exposició de fets de la sentència:
-
-14 El 5 de marzo de 2010, el Sr. Costeja González, de nacionalidad española y domiciliado en España, presentó ante la AEPD una reclamación contra La Vanguardia Ediciones, S.L., que publica un periódico de gran difusión, concretamente en Cataluña (en lo sucesivo, «La Vanguardia»), y contra Google Spain y Google Inc. Esta reclamación se basaba en que, cuando un internauta introducía el nombre del Sr. Costeja González en el motor de búsqueda de Google (en lo sucesivo, «Google Search»), obtenía como resultado vínculos hacia dos páginas del periódico La Vanguardia, del 19 de enero y del 9 de marzo de 1998, respectivamente, en las que figuraba un anuncio de una subasta de inmuebles relacionada con un embargo por deudas a la Seguridad Social, que mencionaba el nombre del Sr. Costeja González.
-
-15      Mediante esta reclamación, el Sr. Costeja González solicitaba, por un lado, que se exigiese a La Vanguardia eliminar o modificar la publicación para que no apareciesen sus datos personales, o utilizar las herramientas facilitadas por los motores de búsqueda para proteger estos datos. Por otro lado, solicitaba que se exigiese a Google Spain o a Google Inc. que eliminaran u ocultaran sus datos personales para que dejaran de incluirse en sus resultados de búsqueda y dejaran de estar ligados a los enlaces de La Vanguardia. En este marco, el Sr. Costeja González afirmaba que el embargo al que se vio sometido en su día estaba totalmente solucionado y resuelto desde hace años y carecía de relevancia actualmente.
-
-16      Mediante resolución de 30 de julio de 2010, la AEPD desestimó la reclamación en la medida en que se refería a La Vanguardia, al considerar que la publicación que ésta había llevado a cabo estaba legalmente justificada, dado que había tenido lugar por orden del Ministerio de Trabajo y Asuntos Sociales y tenía por objeto dar la máxima publicidad a la subasta para conseguir la mayor concurrencia de licitadores.
-
-17      En cambio, se estimó la misma reclamación en la medida en que se dirigía contra Google Spain y Google Inc. A este respecto, la AEPD consideró que quienes gestionan motores de búsqueda están sometidos a la normativa en materia de protección de datos, dado que llevan a cabo un tratamiento de datos del que son responsables y actúan como intermediarios de la sociedad de la información. La AEPD consideró que estaba facultada para ordenar la retirada e imposibilitar el acceso a determinados datos por parte de los gestores de motores de búsqueda cuando considere que su localización y difusión puede lesionar el derecho fundamental a la protección de datos y a la dignidad de la persona entendida en un sentido amplio, lo que incluye la mera voluntad del particular afectado cuando quiere que tales datos no sean conocidos por terceros. La AEPD estimó que este requerimiento puede dirigirse directamente a los explotadores de motores de búsqueda, sin suprimir los datos o la información de la página donde inicialmente está alojada e, incluso, cuando el mantenimiento de esta información en dicha página esté justificado por una norma legal.
-
-### Conclusions del TJUE:
-
-En virtud de todo lo expuesto, el Tribunal de Justicia (Gran Sala) declara:
-
-1)      El artículo 2, letras b) y d), de la Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, debe interpretarse en el sentido de que, por un lado, la actividad de un motor de búsqueda, que consiste en hallar información publicada o puesta en Internet por terceros, indexarla de manera automática, almacenarla temporalmente y, por último, ponerla a disposición de los internautas según un orden de preferencia determinado, debe calificarse de «tratamiento de datos personales», en el sentido de dicho artículo 2, letra b), cuando esa información contiene datos personales, y, por otro, el gestor de un motor de búsqueda debe considerarse «responsable» de dicho tratamiento, en el sentido del mencionado artículo 2, letra d).
-
-2)      El artículo 4, apartado 1, letra a), de la Directiva 95/46 debe interpretarse en el sentido de que se lleva a cabo un tratamiento de datos personales en el marco de las actividades de un establecimiento del responsable de dicho tratamiento en territorio de un Estado miembro, en el sentido de dicha disposición, cuando el gestor de un motor de búsqueda crea en el Estado miembro una sucursal o una filial destinada a garantizar la promoción y la venta de espacios publicitarios propuestos por el mencionado motor y cuya actividad se dirige a los habitantes de este Estado miembro.
-
-3)      Los artículos 12, letra b) y 14, párrafo primero, letra a), de la Directiva 95/46 deben interpretarse en el sentido de que, para respetar los derechos que establecen estas disposiciones, siempre que se cumplan realmente los requisitos establecidos en ellos, el gestor de un motor de búsqueda está obligado a eliminar de la lista de resultados obtenida tras una búsqueda efectuada a partir del nombre de una persona vínculos a páginas web, publicadas por terceros y que contienen información relativa a esta persona, también en el supuesto de que este nombre o esta información no se borren previa o simultáneamente de estas páginas web, y, en su caso, aunque la publicación en dichas páginas sea en sí misma lícita.
-
-4)      Los artículos 12, letra b), y 14, párrafo primero, letra a), de la Directiva 95/46 deben interpretarse en el sentido de que, al analizar los requisitos de aplicación de estas disposiciones, se tendrá que examinar, en particular, si el interesado tiene derecho a que la información en cuestión relativa a su persona ya no esté, en la situación actual, vinculada a su nombre por una lista de resultados obtenida tras una búsqueda efectuada a partir de su nombre, sin que la apreciación de la existencia de tal derecho presuponga que la inclusión de la información en cuestión en la lista de resultados cause un perjuicio al interesado. Puesto que éste puede, habida cuenta de los derechos que le reconocen los artículos 7 y 8 de la Carta, solicitar que la información de que se trate ya no se ponga a disposición del público en general mediante su inclusión en tal lista de resultados, estos derechos prevalecen, en principio, no sólo sobre el interés económico del gestor del motor de búsqueda, sino también sobre el interés de dicho público en acceder a la mencionada información en una búsqueda que verse sobre el nombre de esa persona. Sin embargo, tal no sería el caso si resultara, por razones concretas, como el papel desempeñado por el interesado en la vida pública, que la injerencia en sus derechos fundamentales está justificada por el interés preponderante de dicho público en tener, a raíz de esta inclusión, acceso a la información de que se trate.
-
-**Reflexió final: Pot portar aquesta sentència a una censura a Internet?**
-![Piulada sobre el dret a l’oblit](https://dl.dropboxusercontent.com/u/6810751/dret_oblit.png)
-
-Es produeix un conflicte entre dos drets fonamentals: la llibertat d’informació i l’autodeterminació informativa. Com suggereix la piulada de Javier de la Cueva, si s’esborra el rastre digital podem arribar a un punt en què s’estiguin malmetent dades que ens poden permetre escriure la història amb veracitat!
-
-**Atura’t i reflexiona**
-
-I tu, què hi dius? Estàs a favor del dret a l’oblit? Al cas plantejat pel Sr. Costeja, el fet és que va estar implicat en un procés judicial del qual a dreta llei formava part la publicació de l’embargament. Era aquesta realment una dada que afectés la seva vida íntima? Es pot obligar a esborrar dades que han estat producte d’un procés judicial? I si les dades haguessin estat realment privades, ¿veuríeu la situació diferent? 
-
 El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són els que el dret constitucional anomena **drets fonamentals**. 
 
 (introduir una mica Bernes-Lee) Així doncs, la consolidació d’un món interconnectat ens fa posar **en peu d’alerta**: cal vetllar per deixar a la Xarxa i en obert tot allò que sigui d’interès públic i, alhora, barrar l’accés a la intimitat.
 
+
 Però no podem aplicar les mesures tradicionals (barreres, càstigs...) per fer-lo complir: ens cal acordar i pactar entre les parts (interessos privats, interessos d’empreses, interessos d’estats).
+
+
 
 ## 10. Projecte: Mira’t a tu mateix
 
