@@ -65,14 +65,15 @@ WEB: Proposem que hi hagi tres imatges que apuntin als enllaços de les notície
 
 ***
 **Atura’t i comparteix**
-Cerca notícies d’actualitat relacionades amb usos no desitjats o fins i tot il·lícits de la nostra empremta digital. Aporta els resultats de la teva cerca al fòrum amb una frase que resumeixi el contingut de la notícia,  en forma d’enllaços.
-Et proposem que els comparteixis també a Twitter, si en tens un compte, amb l’etiqueta #miniop8.
+Cerca notícies d’actualitat relacionades amb usos no desitjats o fins i tot il·lícits de la nostra empremta digital. Aporta els resultats de la teva cerca al fòrum: publica-hi l'enllaç de cada notícia i acompanya'l d'una frase que en resumeixi el contingut.
+Et proposem que els comparteixis també al Twitter, si en tens un compte, amb l’etiqueta #miniop8.
 ***
 
 WEB: en el cos del text del fòrum on diu “també a Twitter” s’hi podria posar l’etiqueta amb fons vermell i el logo de twitter que apareix en el fil de fòrum 5 del miniop Participar a la xarxa. (a diferència del miniop de participació, l’etiqueta ha d’anar al cos del text, no a l’etiqueta que anuncia l’aturat i comparteix)
 
+(PAS 3)
 
-##  3. El teu rastre a la xarxa 
+## El teu rastre a la xarxa 
 >Perquè Internet ens vigila, ha arribat l’hora que nosaltres vigilem els qui ens vigilen
 > 
 >Gary Kovacs
@@ -85,7 +86,7 @@ Mira’t aquest vídeo:
 Peu: La informació de navegació és rastrejada per altres - Font [Gary Kovacs. Tracking our online trackers - TED Talks](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers)
 </small>
 
-Així doncs, ja hi ha eines que ens permeten saber **qui està seguint la nostra activitat a la xarxa**. Malgrat que no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins quin punt la nostra informació és utilitzada per diferents empreses d’internet. Aquí en tens un altre exemple:
+Així doncs, ja hi ha eines que ens permeten saber **qui està seguint la nostra activitat a la xarxa**. Malgrat que no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins quin punt la nostra informació és utilitzada per diferents empreses d’Internet. Aquí en tens un altre exemple:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/PvqGy9wz_wA?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -99,7 +100,7 @@ Són molt útils, doncs:
 
 * per saber qui ens vigila
 * per poder bloquejar accessos de terceres parts no desitjats
-* per mostrar-nos les connexions amagades rere els llocs que voluntàriament i conscientment visites
+* per mostrar-nos les connexions amagades rere els llocs que voluntàriament i conscientment visitem
 * per saber d’on surten les galetes (o *cookies*) i qui en rep la informació
 * per saber on estan localitzats geogràficament els servidors que emmagatzemen aquestes dades
 
@@ -112,22 +113,24 @@ Fem una prova? Instal·la al teu navegador [Lightbeam per a Firefox](http://www.
 
 Analitza els teus moviments al cap d’un dia. 
 
-Al principi, la gràfica apareix buida. A mesura que navegueu per diferents adreces, els llocs visitats s'hi aniran representant en forma de cercles.
+Al principi, la gràfica apareix buida. A mesura que naveguis per diferents adreces, els llocs visitats s'hi aniran representant en forma de cercles.
 
-Si aquests llocs deixen anar galetes (_cookies_) al vostre navegador, els veureu en vermell o en forma de triangle. Lightbeam els anomena 'terceres parts'.
+Si aquests llocs deixen anar galetes (_cookies_) al teu navegador, els veuràs en vermell o en forma de triangle. Lightbeam els anomena 'terceres parts'.
 
-En passar el ratolí per sobre dels cercles o triangles, podreu llegir informació amb l'adreça web del lloc visitat o de les terceres parts que us segueixen el rastre. Què volen aquests 'paràsits'? En principi, anunciar productes, establir connexions amb xarxes socials o bé obtenir dades per estadístiques sobre hàbits de navegació. 
+En passar el ratolí per sobre dels cercles o triangles, podràs llegir informació amb l'adreça web del lloc visitat o de les terceres parts que et segueixen el rastre. Què volen aquests 'paràsits'? En principi, anunciar productes, establir connexions amb xarxes socials o bé obtenir dades per a estadístiques sobre hàbits de navegació. 
 
-Coneixent-les, les podeu inhabilitar des d'aquestes mateixes extensions instal·lades al vostre navegador.
+Coneixent-les, les pots inhabilitar des d'aquestes mateixes extensions instal·lades al teu navegador.
 
 Interpreta la gràfica dels teus moviments:
 
-* Podries dir quina informació s’ha recollit sobre tu? Qui l’ha recollida? Saps què se’n fa? Pots buscar informació sobre el continguts de les galetes als espais webs visitats o detectats com a terceres parts. Si no en donen, pots començar a malpensar.
+* Podries dir quina informació s’ha recollit sobre tu? Qui l’ha recollida? Saps què se’n fa? Pots buscar informació sobre els continguts de les galetes als espais web visitats o detectats com a terceres parts. Si no en donen, pots començar a malpensar.
 * La informació que diuen que recullen pertany a l’àmbit d’allò més personal i que no voldries que el públic en general conegués? 
 
 *********************************************************************************************************
 
-## 4. Com ens venem l’ànima al diable 
+(PAS 4)
+
+## Com ens venem l’ànima al diable 
 
 Entenem per **intimitat** aquella parcel·la que cadascú, en exercici de la seva **llibertat** individual, reserva de la seva vida enfront de l’acció i el coneixement de les altres persones, siguin poders públics, entitats privades o particulars.
 
