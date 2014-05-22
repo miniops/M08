@@ -365,7 +365,9 @@ Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüènci
 I si trobes algun altre tipus de delicte, comparteix-lo.
 *********************************************************************************************************
 
-## 9. Com ha de ser el dret d’Internet?
+(PAS 9)
+
+## Com ha de ser el dret d’Internet?
 
 Què ha fet el dret davant del canvi social, econòmic i cultural que el desplegament de les Tecnologies de la Informació i la comunicació ha comportat? 
 
