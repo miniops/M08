@@ -1,6 +1,6 @@
 ## 1. Portada
 
->Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.”
+>Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.
 > 
 >Curtis J. Bonk, *The World is Open. How Web Technology is Revolutionizing Education*
 
@@ -58,7 +58,7 @@ WEB: Proposem que hi hagi tres imatges que apuntin als enllaços de les notície
 
 
 1. [La (falsa) frase de Toure Yaya: el gol d’un tuitaire](https://dl.dropboxusercontent.com/u/6810751/La%20%28falsa%29%20frase%20de%20Tour%C3%A9%20Yaya%3A%20el%20gol%20d%E2%80%99un%20tuitaire%20%28%C3%80lex%20Guti%C3%A9rrez%29.pdf)
-2. [Alerta dels Mossos d’Esquadra per grooming a través de facebook](http://www.escolamasboadella.com/docs/mossos1.pdf)
+2. [Alerta dels Mossos d’Esquadra per grooming a través de facebook](http://ampa.escolamasboadella.com/index.php?option=com_content&view=article&id=229:informacio-mossos-desquadra&catid=59:actualitat)
 3. [Els Mossos imputen dos joves al Vallès Oriental per coaccionar una menor a través de les xarxes socials](http://www.ara.cat/societat/Mossos-imputen-Valles-Oriental-coaccionar_0_1059494171.html)
 
 ***
@@ -83,7 +83,7 @@ Mira’t aquest vídeo:
 Peu: La informació de navegació és rastrejada per altres - Font [Gary Kovacs. Tracking our online trackers - TED Talks](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers)
 </small>
 
-Així doncs, ja hi ha eines per la traçabilitat de la nostra activitat a la xarxa. Malgrat no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins quin punt la nostra informació es demandada per diferents empreses d’internet. Aquí en tens un altre exemple:
+Així doncs, ja hi ha eines que ens permeten saber **qui està seguint la nostra activitat a la xarxa**. Malgrat que no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins quin punt la nostra informació és utilitzada per diferents empreses d’internet. Aquí en tens un altre exemple:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/PvqGy9wz_wA?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -96,7 +96,7 @@ Les dades poden ser recollides amb o sense consentiment explícit del navegant. 
 Són molt útils, doncs:
 
 * per saber qui ens vigila
-* per poder bloquejar-ne l’accés a la navegació quan accedim a l’espai principal
+* per poder bloquejar accessos de terceres parts no desitjats
 * per mostrar-nos les connexions amagades rere els llocs que voluntàriament i conscientment visites
 * per saber d’on surten les galetes (o *cookies*) i qui en rep la informació
 * per saber on estan localitzats geogràficament els servidors que emmagatzemen aquestes dades
@@ -110,12 +110,18 @@ Fem una prova? Instal·la al teu navegador [Lightbeam per a Firefox](http://www.
 
 Analitza els teus moviments al cap d’un dia. 
 
-La gràfica mostra les galetes, és a dir, les dades que els llocs web capten i conserven per facilitar-te la navegació o per obtenir estadístiques dels teus hàbits de navegació i que s’instal·len al teu navegador.
+Al principi, la gràfica apareix buida. A mesura que navegueu per diferents adreces, els llocs visitats s'hi aniran representant en forma de cercles.
+
+Si aquests llocs deixen anar galetes (_cookies_) al vostre navegador, els veureu en vermell o en forma de triangle. Lightbeam els anomena 'terceres parts'.
+
+En passar el ratolí per sobre dels cercles o triangles, podreu llegir informació amb l'adreça web del lloc visitat o de les terceres parts que us segueixen el rastre. Què volen aquests 'paràsits'? En principi, anunciar productes, establir connexions amb xarxes socials o bé obtenir dades per estadístiques sobre hàbits de navegació. 
+
+Coneixent-les, les podeu inhabilitar des d'aquestes mateixes extensions instal·lades al vostre navegador.
 
 Interpreta la gràfica dels teus moviments:
 
-* Podries dir quina informació s’ha recollit sobre tu?  Qui l’ha recollida? Saps què se’n fa?
-* La informació recollida, pertany a l’àmbit d’allò més personal i que no voldries que el públic en general conegués?
+* Podries dir quina informació s’ha recollit sobre tu? Qui l’ha recollida? Saps què se’n fa? Pots buscar informació sobre el continguts de les galetes als espais webs visitats o detectats com a terceres parts. Si no en donen, pots començar a malpensar.
+* La informació que diuen que recullen pertany a l’àmbit d’allò més personal i que no voldries que el públic en general conegués? 
 
 *********************************************************************************************************
 
@@ -130,16 +136,14 @@ Per entendre aquesta dimensió, mira’t aquest vídeo:
 [Sense cortines, Groningen, Holanda](http://blogs.tv3.cat/blogeuropa.php?itemid=49266)
 
 <small>
-Peu: L’exhibició de la intimitat - Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
+Peu: L’exhibició de la intimitat, costum social i tria personal - Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
 </small>
 
-La construcció de la identitat digital és una responsabilitat social i una marca personal que perdurarà.
-
-Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar les personalitats emergents en aquesta etapa vital. Els tatuatges avui dia, com a les tribus, i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries: el que hi marquem ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
+Decidir què mostrem als altres sempre ha estat un **signe** d’identitat i de posició social. I una **marca** que perdura. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar les personalitats emergents en aquesta etapa vital. Avui dia, els tatuatges i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries, però la funció continua sent la mateixa: l'empremta a la pell o a les xarxes socials ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
 
 La construcció de la identitat digital és una responsabilitat social i una marca personal que perdurarà.
 
-Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra! Aquí en tens un exemple:
+Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra. Allò que publiquem, com el verb indica, resta a l'espai públic i pot condicionar les nostres vides personals o professionals. Aquí en tens un exemple:
 
 <small>
 Peu: Quan Facebook pot ser causa d’acomiadament [Font: La Vanguardia](http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html)
@@ -151,6 +155,7 @@ WEB:  o bé posar l’enllaç a la notícia anterior directament o bé captura d
 
 
 *********************************************************************************************************
+
 **Atura’t i reflexiona**
 
 [Llegeix les condicions d’ús de [Facebook:](https://www.facebook.com/legal/terms)
@@ -163,7 +168,7 @@ Què has descobert llegint aquestes condicions d’ús? Què saps ara que no sab
 
 1. En cas de conflicte, a quin tribunal hauries de recórrer?
 2. Quin és l’únic país europeu que disposa d’unes condicions de servei especials?
-3. Per què es parla de privacitat i no pas d’intimitat? Creus que es pot establir una gradació públic / privat / íntim? 
+3. Per què es parla de privacitat i no pas d’intimitat? Creus que es pot establir una gradació **públic / privat / íntim**? 
 4. Podem dir que tota la informació que deixem a facebook s’elimina i que s’elimina quan volem?
 5. Havent respost les anteriors preguntes, com aconsellaries de configurar el perfil en una xarxa social per preservar al màxim la teva privacitat?
 
@@ -182,9 +187,11 @@ Els seus principals enemics són:
     * fer servir la Xarxa com a mitjà de difamació.
     * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol).
 
-La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia i amb l’objectiu de resoldre aquest problema s’està parlant molt del gir cap a les dades biomètriques a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
+Aquest últim aspecte, l'accés per part de terceres persones als nostres comptes, és la causa de molts problemes de seguretat. La tecnologia, però, és cada cop més transparent, senzilla d’utilitzar per part de l’usuari. En aquesta línia i amb l’objectiu de facilitar una identificació inequívoca dels usuaris autoritzats a accedir als serveis de internet s’està parlant molt del gir cap a les **dades biomètriques** a partir del reconeixement de l’empremta digital als aparells de telefonia mòbil de les empreses capdavanteres del sector. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
-Tanmateix, el mètode més segur per comprovar la identitat digital a Internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afectat hagi indicat.
+Ara bé, les dades biomètriques són dades vinculades al nostre propi cos. Qui les emmagatzema? Què en fa? Quines garanties tenim que no se'n facin usos indesitjats? Com podem saber que no van a parar a *terceres parts*?
+
+Un mètode força segur i estès per comprovar la identitat digital a internet és el que solen utilitzar els bancs: la doble verificació, és a dir, la introducció de dades als terminals i la comprovació de la personalitat a través d’un missatge a l’aparell de telefonia mòbil que l’usuari afectat hagi indicat.
 
 Aquí tens una relació de consells de seguretat:
 
@@ -212,6 +219,7 @@ Alto!
 * No utilitzis contrasenyes curtes per molt estranyes que ens puguin semblar
 * No facilitis a ningú una contrasenya teva
 * No deixis sessions obertes en aplicacions a Internet en dispositius que no siguin teus 
+
 *********************************************************************************************************
 
 Com pots eliminar el teu rastre en línia? Com pots reforçar la seguretat de les teves contrasenyes? Posa fil a l’agulla:
@@ -254,7 +262,7 @@ Peu: [Us adoneu que, potencialment, vivim en cases de vidre?](http://youtu.be/PD
 </small>
 
 
-La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què i per a què. 
+La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què, per a què i de demanar-ne la rectificació si són incorrectes i la cancel·lació. 
 
 No s’ha de confondre amb el dret a la intimitat. El dret a l’autodeterminació informativa apareix com a tal en el moment en què la informàtica es desenvolupa i amenaça la vida privada de les persones. Per què? Doncs perquè les seves dades poden ser vigilades, analitzades i tractades tant pels poders públics (estats) com pels privats (empreses).
 
@@ -277,6 +285,7 @@ Mira’t aquest vídeo:
 Peu: Al nadal de 2013 Edward Snowden va enviar un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
 </small>
 
+La denúncia d'Snowden, antic agent de serveis d'intel·ligència dels EUA, ha tingut molta repercussió als mitjans de comunicació d'arreu del món. Tanmateix, a Europa, des de finals del segle XX, juristes d'anomenada, com l'italià Stefano Rodotà, havien centrat les seves reflexions sobre la relació entre tecnologia, respecte als drets fonamentals de les persones i exercici efectiu de la democràcia.
 
 >L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies d ela informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.
 >Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats seguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.
@@ -293,28 +302,26 @@ A partir de les afirmacions contingudes al vídeo d’Snowden i del text anterio
 
 ## 7. Lleis velles per a un món nou?
 
-Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta.
+Internet ha obert un nou escenari d'abast global per a l'actuació humana i ha potenciat valors com la col·laboració.
 
-L'any 2001 el Conveni de Budapest sobre cibercriminalitat va intentar establir unes bases de col·laboració entre estats.
+Davant del nou panorama, cal reescriure la llei? Com podem fer que s'apliqui en aquest nou escenari global? 
 
-Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.boe.es/boe/dias/2010/09/17/pdfs/BOE-A-2010-14221.pdf)
+Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta. El que s'esborra d'un ordinador connectat queda en un altre ordinador connectat. Quan els estats han volgut plantar cara a la cibercriminalitat, s'han trobat aplicant criteris territorials a un mitjà líquid i aquests, és clar, no han estat gaire útils. [Conveni de Budapest sobre cibercriminalitat](https://www.boe.es/boe/dias/2010/09/17/pdfs/BOE-A-2010-14221.pdf)
 
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
- 
-Com veiem, en aquest fragment s’apunta a un compromís basat en la idea de territori geogràfic. 
-Però... no és possible controlar Internet amb barreres i criteris territorials!
 
-Cal, doncs, un dret de consens. Com el construïm? Amb codis deontològics, acords entre les parts en conflicte i la col·laboració de l'arquitectura tecnològica d’Internet que és molt important que es mantingui en un punt de neutralitat.
+Com veiem en aquest fragment, el Conveni intenta establir unes bases de col·laboració entre estats. S'hi apunta a un compromís basat en la idea de territori geogràfic. Però... no és possible controlar internet amb barreres i criteris territorials. 
 
-Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la Xarxa. La ICANN ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
+Caldria, doncs, un dret de consens: codis deontològics i acords entre les parts en conflicte i l’arquitectura tecnològica d’Internet.
 
-Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament o no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
+La Xarxa / Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la Xarxa. La ICANN ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
+Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament/no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
 
-Vegem-ne dos exemples contraposats: 
+Vegem-ne dos exemples: 
 
-El cas de Xavi Hernàndez. A qui pertany i per què el domini <xavihernandez.com>? (http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)
+El cas de Xavi Hernàndez. A qui pertany i per què el domini [Xavi Hernàndez](http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)?
 
-En anglès, el cas, que va perdre, Bruce Springsteen (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html) perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini <brucespringsteen.com> estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
+En anglès, el cas, que va perdre, Bruce Springsteen (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html) perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini &lt;brucespringsteen.com&gt; estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
 
 ## 8. Delictes i faltes
 Rumiem una mica. Internet no ha generat gaires nous delictes, és a dir, delictes derivats d’aquest mitjà tecnològic.
@@ -336,7 +343,7 @@ Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüènci
 * estafes
 * integritat moral (injúries, calúmnies, ciberassetjament)
 * integritat física (ciberasstejament o ciberassetjament a menors -*grooming*-)
-* apropiació d’obres d’altres persones
+* apropiació d’obres o propietats d’altres persones
 
 I si trobes algun altre tipus de delicte, comparteix-lo.
 *********************************************************************************************************
@@ -345,16 +352,22 @@ I si trobes algun altre tipus de delicte, comparteix-lo.
 
 Què ha fet el dret davant del canvi social, econòmic i cultural que el desplegament de les Tecnologies de la Informació i la comunicació ha comportat? 
 
-Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, (WEB: POSAR ENLLAÇ AL PAS 7 EN EL TEXT SEGÜENT: com el Conveni de Budapest sobre cibercriminalitat) però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret. 
+Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret, com ha passat a Turquia o a la Xina.
 
 Però, les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
 
-El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són els que el dret constitucional anomena **drets fonamentals**. 
+L’autoritat es guanya per coneixement del mitjà i per solidaritat i col·laboració entre els agents de l’intercanvi.
 
-(introduir una mica Bernes-Lee) Així doncs, la consolidació d’un món interconnectat ens fa posar **en peu d’alerta**: cal vetllar per deixar a la Xarxa i en obert tot allò que sigui d’interès públic i, alhora, barrar l’accés a la intimitat.
+El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són els que el dret constitucional anomena **drets fonamentals**, en termes anglosaxons, el **Bill of Rights**. D'aquesta factura que l'estat ha de fer efectiva a la ciutadania en nom de la democràcia, en parla Tim Berners-Lee, el pare del llenguatge que va permetre construir el web, al vídeo següent. Escolta'l amb atènció.
+
+[World wide web inventor Tim Berners-Lee: 'Establish web's principles of openness and privacy'](http://www.theguardian.com/technology/video/2014/mar/12/world-wide-web-tim-berners-lee-principles-openness-privacy-video)
+
+Així doncs, la consolidació d'un món interconnectat ens fa posar **en peu d'alerta**: cal vetllar per deixar a la xarxa i en obert tot allò que sigui d'interès públic i, alhora, barrar l'accés a la intimitat.
 
 
-Però no podem aplicar les mesures tradicionals (barreres, càstigs...) per fer-lo complir: ens cal acordar i pactar entre les parts (interessos privats, interessos d’empreses, interessos d’estats).
+**Atura’t i reflexiona**
+
+I tu, què hi dius? Quins són els principis que cal preservar en l'ús d'internet? Qui creus que en pot garantir l'aplicació: els governs, els tecnòlegs, la ciutadania...? Què cal deixar en obert? Coneixes iniciatives de defensa de la llibertat i/o la intimitat a Internet? Quines? Com en valores l'efectivitat?
 
 
 
