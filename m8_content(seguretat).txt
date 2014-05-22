@@ -370,11 +370,11 @@ Punt de partida:
 
 Mira’t aquest vídeo:
 
-vídeo de la campanya a KickStarter de [Federico Zannier](&lt;iframe width="480" height="360" src="https://www.kickstarter.com/projects/1461902402/a-bit-e-of-me/widget/video.html" frameborder="0" scrolling="no"&gt; &lt;/iframe&gt;)
+vídeo de la campanya a KickStarter de [Federico Zannier](<iframe width="480" height="360" src="https://www.kickstarter.com/projects/1461902402/a-bit-e-of-me/widget/video.html" frameborder="0" scrolling="no"> </iframe>)
 
 Escolta aquest podcast i llegeix-ne atentament la transcripció:
 
-Podcast de [Shawn Buckles](&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141809133&amp;color=ff5500"&gt;&lt;/iframe&gt;) 
+Podcast de [Shawn Buckles](<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141809133&color=ff5500"></iframe>) 
 
 (notes per a nosaltres: La transcripció anirà sota el podcast. Del podcast, hi ha un aspecte molt interessant en un moment de la discussió amb el periodista: la meva privacitat implica també la des altres.)
 
