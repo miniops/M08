@@ -1,4 +1,4 @@
-## 1. Portada
+## Seguretat a la xarxa
 
 >Les nostres experiències són immediatament compartides i, alhora, emmagatzemades permanentment.
 > 
@@ -6,7 +6,7 @@
 
 Vivim un moment clau en l’evolució de la humanitat. Internet connecta les vides singulars d’arreu del planeta Terra, els dóna veu i protagonisme a través d’un mitjà d’efectes immediats i globals. Davant d’aquest context, té sentit fer servir les lleis antigues per tancar espais de bits, oberts i sense fronteres traçades? 
 
-La informació no ha canviat, ha canviat la manera com la movem i la fem circular. Aquí us proposem un recorregut per reflexionar sobre: Quina informació volem deixar al domini públic per fer créixer les oportunitats de les persones? Quina informació volem preservar del domini públic per continuar gaudint d’espais propis, lliures de mirades no desitjades?
+La informació no ha canviat; el que ha canviat és la manera com la movem i la fem circular. Aquí us proposem un recorregut per reflexionar sobre: Quina informació volem deixar al domini públic per fer créixer les oportunitats de les persones? Quina informació volem preservar del domini públic per continuar gaudint d’espais propis, lliures de mirades no desitjades?
 
 
 
@@ -20,7 +20,7 @@ La informació no ha canviat, ha canviat la manera com la movem i la fem circula
 
 ### Prerequisits del curs
 
-Cercar a Internet
+És recomanable haver cursat prèviament el miniOP *Cercar a Internet*
 
 ### Itinerari recomanat:
 
@@ -35,7 +35,9 @@ Cercar a Internet
 
 Laia Martín, Institut de Seguretat Pública de Catalunya
 
-##  2. L’empremta digital: què poden arribar a saber els altres de mi?
+(PAS 2)
+
+##  L’empremta digital: què poden arribar a saber els altres de mi?
 
 Ja no som només el que mostrem físicament sinó el que hem mostrat a través de les xarxes. 
 
