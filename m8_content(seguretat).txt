@@ -254,7 +254,7 @@ Peu: Consells per crear una contrasenya segura - Font [Google](https://www.youtu
 Hi ha, doncs, contresenyes dolentes perquè són previsibles però també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
 [La llista de les pitjors contrasenyes](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html) i [Com crear-ne de bones](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
 
-Tanmateix, totes aquestes precaucions poden resultar anecdòtiques. Avui dia ja s'ha muntat el [Projecte Tor](https://www.torproject.org), una xarxa oberta que et protegeix de qualsevol forma de monitorització.
+Tanmateix, totes aquestes precaucions poden resultar anecdòtiques. Encara pots anar molt més enllà per protegir la teva privacitat. El [Projecte Tor](https://www.torproject.org) t'ho permet. És una xarxa oberta que et permet fer cerques de manera totalment anònima.  
 
 **Aprèn en col·laboració**
 
