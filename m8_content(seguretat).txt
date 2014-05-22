@@ -121,7 +121,7 @@ Interpreta la gràfica dels teus moviments:
 
 ## 4. Com ens venem l’ànima al diable 
 
-Entenem per **identitat** aquella parcel·la que cadascú, en exercici de la seva **llibertat** individual, reserva de la seva vida enfront de l’acció i el coneixement de les altres persones, siguin poders públics, entitats privades o particulars.
+Entenem per **intimitat** aquella parcel·la que cadascú, en exercici de la seva **llibertat** individual, reserva de la seva vida enfront de l’acció i el coneixement de les altres persones, siguin poders públics, entitats privades o particulars.
 
 Aquesta parcel·la té components personals, però també, socioculturals. 
 
@@ -132,6 +132,8 @@ Per entendre aquesta dimensió, mira’t aquest vídeo:
 <small>
 Peu: L’exhibició de la intimitat - Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
 </small>
+
+La construcció de la identitat digital és una responsabilitat social i una marca personal que perdurarà.
 
 Decidir què mostrem als altres sempre ha estat un signe d’identitat i de posició social. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar les personalitats emergents en aquesta etapa vital. Els tatuatges avui dia, com a les tribus, i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries: el que hi marquem ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
 
@@ -224,7 +226,7 @@ Mira’t aquest vídeo i et sorprendràs:
 Peu: Podem prendre decisions informades sobre la nostra privacitat - Font: [Ghostery](https://www.ghostery.com/en/)
 </small>
 
-Malgrat pot resultar de vegades una feina feixuga recordar-les totes, triar una contrasenya segura és fonamental. 
+Malgrat que pot resultar de vegades una feina feixuga recordar-les totes, triar una contrasenya segura és fonamental. 
 
 Aquest vídeo et pot ajudar:
 
@@ -237,6 +239,11 @@ Peu: Crear una contrasenya segura és important. Font [Google](https://www.youtu
 Hi ha, doncs, contresenyes dolentes perquè són previsibles pero també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
 [La llista de les pitjors contrasenyes](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html) i [Com crear-ne de bones](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
 
+Tanmateix, totes aquestes precaucions poden resultar anecdòtiques. Avui dia ja s'ha muntat el [projecte Tor](https://www.torproject.org), una xarxa oberta que et protegeix de qualsevol forma de monitorització.
+
+**Aprèn en col·laboració**
+
+Si t'has instal·lat Ghostery o Disconnect o si has gosat anar més enllà i has explorat el projecte Tor, comparteix els teus dubtes i descobertes amb el companys.
 
 ## 6. El dret a l’autodeterminació informativa
 
@@ -270,18 +277,25 @@ Mira’t aquest vídeo:
 Peu: Al nadal de 2013 Edward Snowden va enviar un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
 </small>
 
-A partir de les afirmacions contingudes al vídeo d’Snowden i del text següent, debateu sobre quina relació hi ha entre el tractament informàtic de dades privades i la llibertat personal enfront dels poders públics.  Per què s’afirma que el control de les dades personals converteix els ciutadans en clients? Quines repercussions té aquest fet?
 
 >L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies d ela informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.
 >Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats seguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.
 > 
 > [Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
 
+A partir de les afirmacions contingudes al vídeo d’Snowden i del text anterior, debateu sobre quina relació hi ha entre el tractament informàtic de dades privades i la llibertat personal enfront dels poders públics. 
+
+* Per què s’afirma que el control de les dades personals converteix els ciutadans en clients? 
+* Quines repercussions té aquest fet?
+
 *********************************************************************************************************
 
 
 ## 7. Lleis velles per a un món nou?
+
 Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la de la connexió de nodes horitzontals situats en qualsevol lloc del planeta.
+
+L'any 2001 el Conveni de Budapest sobre cibercriminalitat va intentar establir unes bases de col·laboració entre estats.
 
 Els caçafantasmes: [Conveni de Budapest sobre cibercriminalitat](https://www.boe.es/boe/dias/2010/09/17/pdfs/BOE-A-2010-14221.pdf)
 
@@ -390,6 +404,12 @@ Es produeix un conflicte entre dos drets fonamentals: la llibertat d’informaci
 **Atura’t i reflexiona**
 
 I tu, què hi dius? Estàs a favor del dret a l’oblit? Al cas plantejat pel Sr. Costeja, el fet és que va estar implicat en un procés judicial del qual a dreta llei formava part la publicació de l’embargament. Era aquesta realment una dada que afectés la seva vida íntima? Es pot obligar a esborrar dades que han estat producte d’un procés judicial? I si les dades haguessin estat realment privades, ¿veuríeu la situació diferent? 
+
+El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són els que el dret constitucional anomena **drets fonamentals**. 
+
+(introduir una mica Bernes-Lee) Així doncs, la consolidació d’un món interconnectat ens fa posar **en peu d’alerta**: cal vetllar per deixar a la Xarxa i en obert tot allò que sigui d’interès públic i, alhora, barrar l’accés a la intimitat.
+
+Però no podem aplicar les mesures tradicionals (barreres, càstigs...) per fer-lo complir: ens cal acordar i pactar entre les parts (interessos privats, interessos d’empreses, interessos d’estats).
 
 ## 10. Projecte: Mira’t a tu mateix
 
