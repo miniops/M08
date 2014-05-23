@@ -399,7 +399,7 @@ Pensa-hi una mica: la informació sobre l'embargament del 1998 era una dada que 
 El cert és que el Sr. Costeja va estar implicat en un procés judicial d'embargament, ja tancat, i que aquesta informació apareixia a dalt de tot del buscador quan es feia una cerca del seu nom al web. També és cert que la sentència no obliga a retirar la informació de l'hemeroteca de la font original, *La Vanguardia*, sinó que demana a Google, com a responsable del tractament de les dades, que en suprimeixi els enllaços del buscador que condueixen al procés judicial esmentat quan es tecleja el nom d'aquest ciutadà. 
 
 I tu, què hi dius? Estàs a favor del dret a l’oblit? En quins casos, amb quins matisos? 
-Reflexiona en el fòrum sobre aquest tema i aquestes altres qüestions: 
+Reflexiona en el fòrum sobre aquest tema i sobre aquestes altres qüestions: 
 
 * Quins són els principis que cal preservar en l'ús d'Internet?
 * Qui creus que en pot garantir l'aplicació? els governs, els tecnòlegs, la ciutadania...? 
