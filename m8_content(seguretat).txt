@@ -386,7 +386,7 @@ Així doncs, la consolidació d'un món interconnectat ens fa posar **en peu d'a
 
 **Atura’t i reflexiona**
 
-Com trobar l'equilibri entre el dret a saber i el dret a la intimitat? Reflexiona-hi a partir de la sentència favorable al dret a l'oblit emesa pel Tribunal de Justícia de la Unió Europea sobre el cas Costeja. 
+Com trobar l'equilibri entre el dret a saber i el dret a la intimitat? Reflexiona-hi a partir de la sentència favorable al dret a l'oblit emesa pel Tribunal de Justícia de la Unió Europea, del maig de 2014, sobre el cas Costeja. 
 Mira't la notícia:
 http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia
 
@@ -396,7 +396,7 @@ I tu, què hi dius? Estàs a favor del dret a l’oblit? Aquesta era realment un
 
 En el cas plantejat pel Sr. Costeja, el fet és que va estar implicat en un procés judicial d'embargament, ja tancat, que apareixia a dalt de tot del buscador quan es feia una cerca del seu nom al web. També és cert que la sentència no obliga a retirar la informació de l'hemeroteca de la font original, *La Vanguardia*, sinó que demana a Google, com a responsable del tractament de les dades, que en suprimeixi els enllaços del buscador que condueixen al procés judicial esmentat quan es tecleja el nom del Sr. Costeja. 
 
-A partir d'aquest cas, reflexiona en el fòrum sobre: 
+A partir d'aquest cas, reflexiona en el fòrum sobre .....  
 
 * Quins són els principis que cal preservar en l'ús d'internet? 
 * Qui creus que en pot garantir l'aplicació: els governs, els tecnòlegs, la ciutadania...? 
