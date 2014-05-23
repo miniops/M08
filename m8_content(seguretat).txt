@@ -394,8 +394,11 @@ http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia
 
 Peu: Notícia sobre la sentència del dret a l'oblit. Font - [TV3] (http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia)
 
-Pensa-hi:  el Sr. Costeja va estar implicat en un procés judicial d'embargament, ja tancat, que apareixia a dalt de tot del buscador quan es feia una cerca del seu nom al web. Però, aquesta era realment una dada que afectés la seva vida? 
-També és cert que la sentència no obliga a retirar la informació de l'hemeroteca de la font original, *La Vanguardia*, sinó que demana a Google, com a responsable del tractament de les dades, que en suprimeixi els enllaços del buscador que condueixen al procés judicial esmentat quan es tecleja el nom del Sr. Costeja. Es pot obligar a esborrar el rastre de fets que han estat producte d’un procés judicial? I si les dades haguessin estat realment privades, ¿veuries la situació diferent?
+Pensa-hi: Però, aquesta era realment una dada que afectés la seva vida? Es pot obligar a esborrar el rastre de fets que han estat producte d’un procés judicial? I si les dades haguessin estat realment privades, ¿veuries la situació diferent?
+
+
+el Sr. Costeja va estar implicat en un procés judicial d'embargament, ja tancat, que apareixia a dalt de tot del buscador quan es feia una cerca del seu nom al web. També és cert que la sentència no obliga a retirar la informació de l'hemeroteca de la font original, *La Vanguardia*, sinó que demana a Google, com a responsable del tractament de les dades, que en suprimeixi els enllaços del buscador que condueixen al procés judicial esmentat quan es tecleja el nom d'aquest ciutadà. 
+
 
 I tu, què hi dius? Estàs a favor del dret a l’oblit? Reflexiona en el fòrum sobre aquestes qüestions: 
 
