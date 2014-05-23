@@ -377,7 +377,7 @@ Però les estratègies de barrera no serveixen quan la informació flueix. Com l
 
 El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són **drets fonamentals** segons el dret constitucional. 
 
-Justament Tim Berners-Lee, l'inventor d'Internet, reflexiona en aquest vídeo sobre la necessitat d'establir un marc de referència per presevar i garantir els drets dels usuaris. Escolta'l amb atènció.
+Justament Tim Berners-Lee, l'inventor d'Internet, reflexiona en aquest vídeo sobre la necessitat d'establir un marc de referència per preservar i garantir els drets dels usuaris. Escolta'l amb atènció.
 
 [World wide web inventor Tim Berners-Lee: 'Establish web's principles of openness and privacy'](http://www.theguardian.com/technology/video/2014/mar/12/world-wide-web-tim-berners-lee-principles-openness-privacy-video)
 
@@ -387,16 +387,16 @@ Així doncs, la consolidació d'un món interconnectat ens fa posar **en peu d'a
 **Atura’t i reflexiona**
 
 Com es pot trobar l'equilibri entre el dret a saber i el dret a la intimitat? 
-Et mostrem un cas que t'ajudarà a reflexionar-hi. Es tracta de la sentència favorable al dret a l'oblit emesa, el maig de 2014, pel Tribunal de Justícia de la Unió Europea sobre el cas Costeja. 
+Et mostrem un cas que t'ajudarà a reflexionar-hi. Es tracta de la sentència favorable al dret a l'oblit emesa, el maig de 2014, pel Tribunal de Justícia de la Unió Europea sobre la demanda d'un ciutadà. 
 
 Mira't la notícia:
 http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia
 
 Peu: Notícia sobre la sentència del dret a l'oblit. Font - [TV3] (http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia)
 
-Pensa-hi una mica: la informació sobre l'embargament del 1998 era una dada que afectava la d'aquest ciutadà? Es pot obligar a esborrar el rastre de fets que han estat producte d’un procés judicial? I si les dades haguessin estat privades, ¿veuries la situació diferent?
+Pensa-hi una mica: la informació sobre l'embargament del 1998 era una dada que afectava la vida d'aquest ciutadà? Es pot obligar a esborrar el rastre de fets que han estat producte d’un procés judicial? I si les dades haguessin estat privades, ¿veuries la situació diferent?
 
-El cert és que el Sr. Costeja va estar implicat en un procés judicial d'embargament, ja tancat, i que aquesta informació apareixia a dalt de tot del buscador quan es feia una cerca del seu nom al web. També és cert que la sentència no obliga a retirar la informació de l'hemeroteca de la font original, *La Vanguardia*, sinó que demana a Google, com a responsable del tractament de les dades, que en suprimeixi els enllaços del buscador que condueixen al procés judicial esmentat quan es tecleja el nom d'aquest ciutadà. 
+El cert és que el demandant va estar implicat en un procés judicial d'embargament, ja tancat, i que aquesta informació apareixia a dalt de tot del buscador quan es feia una cerca del seu nom al web. També és cert que la sentència no obliga a retirar la informació de l'hemeroteca de la font original, *La Vanguardia*, sinó que demana a Google, com a responsable del tractament de les dades, que en suprimeixi els enllaços del buscador que condueixen al procés judicial esmentat quan es tecleja el nom d'aquest ciutadà. 
 
 I tu, què hi dius? Estàs a favor del dret a l’oblit? En quins casos, amb quins matisos? 
 Reflexiona en el fòrum sobre aquest tema i sobre aquestes altres qüestions: 
