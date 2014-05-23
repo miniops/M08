@@ -371,13 +371,13 @@ I si trobes algun altre tipus de delicte, comparteix-lo.
 
 Què ha fet el dret davant del canvi social, econòmic i cultural que ha comportat la tecnologia?
 
-Ha reaccionat utilitzant barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és la voluntat d'eliminar les fronteres entre països establint acords comuns, (WEB: POSAR ENLLAÇ AL PAS 7 EN EL TEXT SEGÜENT) com pretén el Conveni de Budapest. Ara bé, sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret, com ha passat a Turquia, a la Xina o a Corea del Nord.
+Ha reaccionat utilitzant barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és la voluntat d'eliminar les fronteres entre països establint acords comuns, com pretén el (WEB: POSAR ENLLAÇ AL PAS 7 ON ES MENCIONA EL CONVENI) Conveni de Budapest. Ara bé, sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret, com ha passat a Turquia, a la Xina o a Corea del Nord.
 
-Però, les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
+Però les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
 
-L’autoritat es guanya per coneixement del mitjà i per solidaritat i col·laboració entre els agents de l’intercanvi.
+El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són **drets fonamentals** segons el dret constitucional. 
 
-El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són els que el dret constitucional anomena **drets fonamentals**, en termes anglosaxons, el **Bill of Rights**. D'aquesta factura que l'estat ha de fer efectiva a la ciutadania en nom de la democràcia, en parla Tim Berners-Lee, el pare del llenguatge que va permetre construir el web, al vídeo següent. Escolta'l amb atènció.
+Justament Tim Berners-Lee, l'inventor d'Internet, reflexiona en aquest vídeo sobre la necessitat d'establir un marc de referència per presevar i garantir els drets dels usuaris. Escolta'l amb atènció.
 
 [World wide web inventor Tim Berners-Lee: 'Establish web's principles of openness and privacy'](http://www.theguardian.com/technology/video/2014/mar/12/world-wide-web-tim-berners-lee-principles-openness-privacy-video)
 
