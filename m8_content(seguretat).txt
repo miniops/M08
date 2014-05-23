@@ -395,6 +395,11 @@ Peu: Notícia sobre la sentència del dret a l'oblit. Font - [TV3] (http://www.t
 
 I tu, què hi dius? 
 
+
+I tu, què hi dius? Estàs a favor del dret a l’oblit? Al cas plantejat pel Sr. Costeja, el fet és que va estar implicat en un procés judicial del qual a dreta llei formava part la publicació de l’embargament. Era aquesta realment una dada que afectés la seva vida íntima? Es pot obligar a esborrar dades que han estat producte d’un procés judicial? I si les dades haguessin estat realment privades, ¿veuríeu la situació diferent?
+
+
+
 Quins són els principis que cal preservar en l'ús d'internet? Qui creus que en pot garantir l'aplicació: els governs, els tecnòlegs, la ciutadania...? Què cal deixar en obert? Coneixes iniciatives de defensa de la llibertat i/o la intimitat a Internet? Quines? Com en valores l'efectivitat?
 
 
@@ -411,7 +416,7 @@ Punt de partida:
 
 Mira’t aquest vídeo:
 
-vídeo de la campanya a KickStarter de [Federico Zannier](<iframe width="480" height="360" src="https://www.kickstarter.com/projects/1461902402/a-bit-e-of-me/widget/video.html" frameborder="0" scrolling="no"> </iframe>)
+vídeo de la campanya a KickStarter de [Federico Zannier](<iframe width="480" height="360"  src="https://www.kickstarter.com/projects/1461902402/a-bit-e-of-me/widget/video.html" frameborder="0" scrolling="no"> </iframe>)
 
 Escolta aquest podcast i llegeix-ne atentament la transcripció:
 
