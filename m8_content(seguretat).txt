@@ -369,9 +369,9 @@ I si trobes algun altre tipus de delicte, comparteix-lo.
 
 ## Com ha de ser el dret d’Internet?
 
-Què ha fet el dret davant del canvi social, econòmic i cultural que el desplegament de les Tecnologies de la Informació i la comunicació ha comportat? 
+Què ha fet el dret davant del canvi social, econòmic i cultural que ha comportat la tecnologia?
 
-Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret, com ha passat a Turquia o a la Xina.
+Intentar reaccionar a partir de barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és intentar trencar les fronteres entre països mirant de trobar acords comuns, (WEB: POSAR ENLLAÇ AL PAS 7 EN EL TEXT SEGÜENT: com el Conveni de Budapest sobre cibercriminalitat) però sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret, com ha passat a Turquia, a la Xina o a Corea del Nord.
 
 Però, les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
 
