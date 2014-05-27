@@ -190,9 +190,9 @@ Els seus principals enemics són:
 * les empreses que volen fer negoci a partir de l’accés a les nostres dades.
 * nosaltres mateixos quan contractem serveis, especialment de xarxes socials, sense parar esment que establim un acord, és a dir, que fem un pacte de prestacions i contraprestacions.
 * terceres persones que poden 
-	* utilitzar de forma fraudulenta i de mala fe la nostra imatge.
-    * fer servir la xarxa com a mitjà de difamació.
-    * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol).
+	* utilitzar de forma fraudulenta i de mala fe la nostra imatge
+    * fer servir la xarxa com a mitjà de difamació
+    * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol)
 
 Aquest últim aspecte, l'accés per part de terceres persones als nostres comptes, és la causa de molts problemes de seguretat. La tecnologia, però, és cada cop més transparent i senzilla d’utilitzar. En aquesta línia, i amb l’objectiu de facilitar una identificació inequívoca de l'usuari, s’està parlant molt del gir cap a les **dades biomètriques** a partir del reconeixement de l’empremta digital als aparells de telefonia. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
