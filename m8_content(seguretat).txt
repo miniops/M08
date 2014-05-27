@@ -405,9 +405,9 @@ Reflexiona en el fòrum sobre aquest tema i sobre aquestes altres qüestions:
 * Qui creus que en pot garantir l'aplicació? els governs, els tecnòlegs, la ciutadania...? 
 * Què cal deixar en obert? 
 
+## Prova de inserció de text personal Xavier Belanche (testing)
 
-
-
+**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Quisque nec dolor non massa ornare mollis id id felis. Mauris quis magna augue. Nullam elementum et elit vel eleifend. Proin vitae lacus fermentum, blandit dui id, auctor eros. Duis dictum consequat lectus vel scelerisque. In bibendum diam malesuada est fringilla luctus nec fringilla lacus. Nunc adipiscing sagittis risus at vulputate.
 
 
 
