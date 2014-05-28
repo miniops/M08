@@ -300,12 +300,12 @@ La denúncia d'Snowden, antic agent dels serveis d'intel·ligència dels EUA, ha
 
 Llegeix el text de Rodotà:
 
->L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies d ela informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.
->Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats seguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.
+>L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies de la informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.
+>Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats siguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.
 > 
 > [Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
 
-A partir de les afirmacions contingudes al vídeo d’Snowden i del text anterior, debateu sobre quina relació hi ha entre el tractament informàtic de dades privades i la llibertat personal enfront dels poders públics. 
+A partir de les afirmacions contingudes al vídeo d’Snowden i del text anterior, debateu sobre quina relació hi ha entre el tractament informàtic de dades privades i la llibertat personal davant dels poders públics. 
 
 * Per què s’afirma que el control de les dades personals converteix els ciutadans en clients? 
 * Quines repercussions té aquest fet?
@@ -324,28 +324,28 @@ Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la 
 
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
 
-Com veiem, en aquest fragment s’apunta a un compromís basat en la idea de territori geogràfic. 
+Com podem veure, en aquest fragment s’apunta a un compromís basat en la idea de territori geogràfic. 
 Però... no és possible controlar Internet amb barreres i criteris territorials!
 
 Cal, doncs, un dret de consens. Com el construïm? Amb codis deontològics, acords entre les parts en conflicte i la col·laboració de l'arquitectura tecnològica d’Internet que és molt important que es mantingui en un punt de neutralitat.
 
-Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la Xarxa. Ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
-Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament o no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
+Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la xarxa. Ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
+Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment d'aquesta política, les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament o no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
 
 Vegem-ne dos exemples contraposats:
 
 El cas de Xavi Hernàndez. A qui pertany i per què el domini [Xavi Hernàndez](http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)?
 
-I el cas que [Bruce Springsteen] (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html)  va perdre perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini  estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
+I el cas que [Bruce Springsteen] (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html), que va perdre perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
 
 (PAS 8)
 
 ## Delictes i faltes
 Rumiem una mica. Internet no ha generat gaires nous delictes, és a dir, delictes derivats d’aquest mitjà tecnològic.
 
-Si pensem en assetjament, sigui escolar o laboral, el delicte ja està tipificat com a dany a la integritat moral o física de les persones.
+Si pensem en l'assetjament, sigui escolar o laboral, el delicte ja està tipificat com a dany a la integritat moral o física de les persones.
 
-Si pensem en pornografia infantil, s’està atemptant contra el dret a la pròpia imatge del menor i tant se val el mitjà. Internet en magnifica l’impacte, el fa més gran, però el valor que s’ha desprotegit és el mateix que quan es comet delicte en l’àmbit estrictament espacial.
+Si pensem en pornografia infantil, s’està atemptant contra el dret a la pròpia imatge del menor i tant se val el mitjà. Internet en magnifica l’impacte, el fa més gran, però el valor que s’ha desprotegit és el mateix que quan es comet un delicte en l’àmbit estrictament espacial.
 
 Però si pensem en la invasió de la vida privada, aquí sí que s’ha produït un canvi que afecta l’essència del concepte d'intimitat. Conscient o inconscientment ens exhibim a la mirada de tothom (els xats, el *WhatsApp*, els *selfies*, etc.) i ens exposem al perill. Aquesta allau de dades és llaminera per als models socioeconòmics, que se senten temptats a posseir i a utilitzar la informació que fins ara sabien privada.
 
