@@ -6,7 +6,7 @@
 
 Vivim un moment clau en l’evolució de la humanitat. Internet connecta les vides singulars d’arreu del planeta Terra, els dóna veu i protagonisme a través d’un mitjà d’efectes immediats i globals. Davant d’aquest context, té sentit fer servir les lleis antigues per tancar espais de bits, oberts i sense fronteres traçades? 
 
-La informació no ha canviat; el que ha canviat és la manera com la movem i la fem circular. Aquí us proposem un recorregut per reflexionar sobre: Quina informació volem deixar al domini públic per fer créixer les oportunitats de les persones? Quina informació volem preservar del domini públic per continuar gaudint d’espais propis, lliures de mirades no desitjades?
+La informació no ha canviat; el que ha canviat és la manera com la movem i la fem circular. Aquí us proposem un recorregut per reflexionar sobre: quina informació volem deixar al domini públic per fer créixer les oportunitats de les persones? Quina informació volem preservar del domini públic per continuar gaudint d’espais propis, lliures de mirades no desitjades?
 
 
 
@@ -49,7 +49,7 @@ En aquest vídeo s’hi fa un experiment. Mira-te’l:
 Peu: La informació que mostrem a les xarxes socials té efectes (Font: [Jack Vale Films](https://www.youtube.com/user/jackvalefilms))
 </small>
 
-Malgrat el que sovint pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que el d’un tatuatge i no sempre tenim a les nostres mans saber on s’emmagazetma ni què se n’està fent.
+Malgrat el que sovint pensem, les dades electròniques són difícils d’esborrar del tot. El rastre digital que anem deixant és molt més fort que el d’un tatuatge i no sempre tenim a les nostres mans saber on s’emmagatzema ni què se n’està fent.
 
 Fixa’t en aquests casos: 
 
@@ -86,7 +86,7 @@ Mira’t aquest vídeo:
 Peu: La informació de navegació és rastrejada per altres - Font [Gary Kovacs. Tracking our online trackers - TED Talks](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers)
 </small>
 
-Així doncs, ja hi ha eines que ens permeten saber **qui està seguint la nostra activitat a la xarxa**. Malgrat que no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins quin punt la nostra informació és utilitzada per diferents empreses d’Internet. Aquí en tens un altre exemple:
+Així doncs, ja hi ha eines que ens permeten saber **qui està seguint la nostra activitat a la xarxa**. Malgrat que no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins a quin punt la nostra informació és utilitzada per diferents empreses d’Internet. Aquí en tens un altre exemple:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/PvqGy9wz_wA?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -115,7 +115,7 @@ Analitza els teus moviments al cap d’un dia.
 
 Al principi, la gràfica apareix buida. A mesura que naveguis per diferents adreces, els llocs visitats s'hi aniran representant en forma de cercles.
 
-Si aquests llocs deixen anar galetes (_cookies_) al teu navegador, els veuràs en vermell o en forma de triangle. Lightbeam els anomena 'terceres parts'.
+Si aquests llocs deixen anar galetes (*cookies*) al teu navegador, els veuràs en vermell o en forma de triangle. Lightbeam els anomena 'terceres parts'.
 
 En passar el ratolí per sobre dels cercles o triangles, podràs llegir informació amb l'adreça web del lloc visitat o de les terceres parts que et segueixen el rastre. Què volen aquests 'paràsits'? En principi, anunciar productes, establir connexions amb xarxes socials o bé obtenir dades per a estadístiques sobre hàbits de navegació. 
 
@@ -132,7 +132,7 @@ Interpreta la gràfica dels teus moviments:
 
 ## Com ens venem l’ànima al diable 
 
-Entenem per **intimitat** aquella parcel·la que cadascú, en exercici de la seva **llibertat** individual, reserva de la seva vida enfront de l’acció i el coneixement de les altres persones, siguin poders públics, entitats privades o particulars.
+Entenem per **intimitat** aquella parcel·la que cadascú, en exercici de la seva **llibertat** individual, reserva de la seva vida davant de l’acció i el coneixement de les altres persones, siguin poders públics, entitats privades o particulars.
 
 Aquesta parcel·la té components personals, però també, socioculturals. 
 
@@ -146,7 +146,7 @@ Peu: L’exhibició de la intimitat, costum social i tria personal - Font: [Jord
 
 La construcció de la identitat digital és una responsabilitat social i una marca personal que perdurarà.
 
-Decidir què mostrem als altres sempre ha estat un **signe** d’identitat i de posició social. I una **marca** que perdura. A l’adolescència, carpetes, agendes, pòsters a les habitacions solien identificar la personalitat de cadascú. Avui dia, els tatuatges i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries, però la funció continua sent la mateixa: l'empremta a la pell o a les xarxes socials ens identifica enfront dels altres i som nosaltres qui decidim què volem mostrar. 
+Decidir què mostrem als altres sempre ha estat un **signe** d’identitat i de posició social. I una **marca** que perdura. A l’adolescència, carpetes, agendes, pòsters a les habitacions... solien identificar la personalitat de cadascú. Avui dia, els tatuatges i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries, però la funció continua sent la mateixa: l'empremta a la pell o a les xarxes socials ens identifica davant dels altres i som nosaltres qui decidim què volem mostrar. 
 
 Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra. Allò que publiquem, com el verb indica, resta a l'espai públic i pot condicionar les nostres vides personals o professionals. Aquí en tens un exemple:
 
@@ -190,9 +190,9 @@ Els seus principals enemics són:
 * les empreses que volen fer negoci a partir de l’accés a les nostres dades.
 * nosaltres mateixos quan contractem serveis, especialment de xarxes socials, sense parar esment que establim un acord, és a dir, que fem un pacte de prestacions i contraprestacions.
 * terceres persones que poden 
-	* utilitzar de forma fraudulenta i de mala fe la nostra imatge.
-    * fer servir la Xarxa com a mitjà de difamació.
-    * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol).
+	* utilitzar de forma fraudulenta i de mala fe la nostra imatge
+    * fer servir la xarxa com a mitjà de difamació
+    * apoderar-se de les nostres claus d’accés als nostres comptes en línia (al núvol)
 
 Aquest últim aspecte, l'accés per part de terceres persones als nostres comptes, és la causa de molts problemes de seguretat. La tecnologia, però, és cada cop més transparent i senzilla d’utilitzar. En aquesta línia, i amb l’objectiu de facilitar una identificació inequívoca de l'usuari, s’està parlant molt del gir cap a les **dades biomètriques** a partir del reconeixement de l’empremta digital als aparells de telefonia. En pots llegir més detalls aquí: [Ha mort la contrasenya](http://www.elperiodico.cat/ca/noticias/societat/mort-contrasenya-3215692)
 
