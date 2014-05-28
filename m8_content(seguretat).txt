@@ -121,7 +121,7 @@ En passar el ratolí per sobre dels cercles o triangles, podràs llegir informac
 
 Coneixent-les, les pots inhabilitar des d'aquestes mateixes extensions instal·lades al teu navegador.
 
-Interpreta el gràfic dels teus moviments:
+Interpreta la gràfica dels teus moviments:
 
 * Podries dir quina informació s’ha recollit sobre tu? Qui l’ha recollida? Saps què se’n fa? Pots buscar informació sobre els continguts de les galetes als espais web visitats o detectats com a terceres parts. Si no en donen, pots començar a malpensar.
 * La informació que diuen que recullen pertany a l’àmbit d’allò més personal i que no voldries que el públic en general conegués? 
