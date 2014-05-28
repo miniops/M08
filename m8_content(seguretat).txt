@@ -359,10 +359,10 @@ Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüènci
 * invasió de la intimitat
 * estafes
 * integritat moral (injúries, calúmnies, ciberassetjament)
-* integritat física (ciberasstejament o ciberassetjament a menors -*grooming*-)
+* integritat física (ciberasstejament o ciberassetjament a menors -*grooming*)
 * apropiació d’obres o propietats d’altres persones
 
-I si trobes algun altre tipus de delicte, comparteix-lo.
+Si trobes algun altre tipus de delicte, comparteix-lo.
 *********************************************************************************************************
 
 (PAS 9)
@@ -371,13 +371,13 @@ I si trobes algun altre tipus de delicte, comparteix-lo.
 
 Què ha fet el dret davant del canvi social, econòmic i cultural que ha comportat la tecnologia?
 
-Ha reaccionat utilitzant barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és la voluntat d'eliminar les fronteres entre països establint acords comuns, com pretén el (WEB: POSAR ENLLAÇ AL PAS 7 ON ES MENCIONA EL CONVENI) Conveni de Budapest. Ara bé, sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret, com ha passat a Turquia, a la Xina o a Corea del Nord.
+Ha reaccionat utilitzant barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és la voluntat d'eliminar les fronteres entre països establint acords comuns, com pretén el (WEB: POSAR ENLLAÇ AL PAS 7 ON ES MENCIONA EL CONVENI) Conveni de Budapest. Ara bé, sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple d'un nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret, com ha passat a Turquia, a la Xina o a Corea del Nord.
 
 Però les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
 
 El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són **drets fonamentals** segons el dret constitucional. 
 
-Justament Tim Berners-Lee, l'inventor d'Internet, reflexiona en aquest vídeo sobre la necessitat d'establir un marc de referència per preservar i garantir els drets dels usuaris. Escolta'l amb atènció.
+Justament Tim Berners-Lee, l'inventor d'Internet, reflexiona en aquest vídeo sobre la necessitat d'establir un marc de referència per preservar i garantir els drets dels usuaris. Escolta'l amb atenció.
 
 [World wide web inventor Tim Berners-Lee: 'Establish web's principles of openness and privacy'](http://www.theguardian.com/technology/video/2014/mar/12/world-wide-web-tim-berners-lee-principles-openness-privacy-video)
 
@@ -394,7 +394,7 @@ http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia
 
 Peu: Notícia sobre la sentència del dret a l'oblit. Font - [TV3] (http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia)
 
-Pensa-hi una mica: la informació sobre l'embargament del 1998 era una dada que afectava la vida d'aquest ciutadà? Es pot obligar a esborrar el rastre de fets que han estat producte d’un procés judicial? I si les dades haguessin estat privades, ¿veuries la situació diferent?
+Pensa-hi una mica: la informació sobre l'embargament del 1998 era una dada que afectava la vida d'aquest ciutadà? Es pot obligar a esborrar el rastre de fets que han estat producte d’un procés judicial? I si les dades haguessin estat privades, veuries la situació diferent?
 
 El cert és que el demandant va estar implicat en un procés judicial d'embargament, ja tancat, i que aquesta informació apareixia a dalt de tot del buscador quan es feia una cerca del seu nom al web. També és cert que la sentència no obliga a retirar la informació de l'hemeroteca de la font original, *La Vanguardia*, sinó que demana a Google, com a responsable del tractament de les dades, que en suprimeixi els enllaços del buscador que condueixen al procés judicial esmentat quan es tecleja el nom d'aquest ciutadà. 
 
