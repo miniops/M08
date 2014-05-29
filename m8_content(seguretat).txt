@@ -146,9 +146,9 @@ Peu: L’exhibició de la intimitat, costum social i tria personal - Font: [Jord
 
 La construcció de la identitat digital és una responsabilitat social i una marca personal que perdurarà.
 
-Decidir què mostrem als altres sempre ha estat un **signe** d’identitat i de posició social. I una **marca** que perdura. A l’adolescència, carpetes, agendes, pòsters a les habitacions... solien identificar la personalitat de cadascú. Avui dia, els tatuatges i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries, però la funció continua sent la mateixa: l'empremta a la pell o a les xarxes socials ens identifica davant dels altres i som nosaltres qui decidim què volem mostrar. 
+Decidir què mostrem als altres sempre ha estat un **signe** d’identitat i de posició social. I una **marca** que perdura. Durant l’adolescència, carpetes, agendes, pòsters a les habitacions... solien identificar la personalitat de cadascú. Avui dia, els tatuatges i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries, però la funció continua sent la mateixa: l'empremta a la pell o a les xarxes socials ens identifica davant dels altres i som nosaltres qui decidim què volem mostrar. 
 
-Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra. Allò que publiquem, com el verb indica, resta a l'espai públic i pot condicionar les nostres vides personals o professionals. Aquí en tens un exemple:
+Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra. Allò que publiquem, tal com el verb indica, es queda a l'espai públic i pot condicionar les nostres vides personals o professionals. Aquí en tens un exemple:
 
 <small>
 Peu: Quan Facebook pot ser causa d’acomiadament [Font: La Vanguardia](http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html)
@@ -225,7 +225,7 @@ Alto!
 * No apliquis substitucions numèriques sistemàtiques, com ara c0ntr5seny5
 * No utilitzis contrasenyes curtes per molt estranyes que ens puguin semblar
 * No facilitis a ningú una contrasenya teva
-* No deixis sessions obertes en aplicacions a Internet en dispositius que no siguin teus 
+* No deixis sessions obertes d'aplicacions a Internet en dispositius que no siguin teus 
 
 *********************************************************************************************************
 
@@ -251,7 +251,7 @@ Aquest vídeo et pot ajudar:
 Peu: Consells per crear una contrasenya segura - Font [Google](https://www.youtube.com/watch?v=0RCsHJfHL_4)
 </small>
 
-Hi ha, doncs, contresenyes dolentes perquè són previsibles però també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
+Hi ha, doncs, contrasenyes dolentes perquè són previsibles però també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
 [La llista de les pitjors contrasenyes](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html) i [Com crear-ne de bones](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
 
 Ara bé, totes aquestes precaucions poden resultar anecdòtiques. Encara pots anar molt més enllà per protegir la teva privacitat. El [Projecte Tor](https://www.torproject.org) t'ho permet. És una xarxa oberta per fer cerques de manera totalment anònima.  
@@ -273,7 +273,7 @@ Peu: Línies bàsiques de la protecció de dades personals. Font [EAPC](http://y
 </small>
 
 
-La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què, per a què i també de demanar-ne la rectificació si són incorrectes i la cancel·lació. 
+La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què, per a què i també de demanar-ne la rectificació, si són incorrectes, i la cancel·lació. 
 
 No s’ha de confondre amb el dret a la intimitat. El dret a l’autodeterminació informativa apareix com a tal en el moment en què la informàtica es desenvolupa i amenaça la vida privada de les persones. Per què? Doncs perquè les seves dades poden ser vigilades, analitzades i tractades tant pels poders públics (estats) com pels privats (empreses).
 
@@ -293,7 +293,7 @@ Mira’t aquest vídeo:
 <iframe src="http://embedded-video.guardianapps.co.uk/?a=false&amp;u=/world/video/2013/dec/25/edward-snowden-christmas-message-video" frameborder="0" width="460" height="397"></iframe>
 
 <small>
-Peu: Al nadal de 2013 Edward Snowden va difondre un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
+Peu: Al Nadal de 2013 Edward Snowden va difondre un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
 </small>
 
 La denúncia d'Snowden, antic agent dels serveis d'intel·ligència dels EUA, ha tingut molta repercussió als mitjans de comunicació d'arreu del món. Tanmateix, a Europa, des de finals del segle XX, juristes d'anomenada, com l'italià Stefano Rodotà, havien centrat les seves reflexions sobre la relació entre tecnologia, respecte als drets fonamentals de les persones i l'exercici efectiu de la democràcia.
