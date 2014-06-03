@@ -389,7 +389,6 @@ Justament Tim Berners-Lee, l'inventor d'Internet, reflexiona en aquest vídeo so
 
 Peu: La finalitat d'Internet segons el seu inventor. Font: [The Guardian](http://www.theguardian.com/technology/video/2014/mar/12/world-wide-web-tim-berners-lee-principles-openness-privacy-video)
 
-Peu: El Projecte Tor, una xarxa oberta. Font: [Tor Project - Dave Godall](https://vimeo.com/63601152)  
 
 Així doncs, la consolidació d'un món interconnectat ens fa posar **en peu d'alerta**: cal vetllar per deixar a la xarxa i en obert tot allò que sigui d'interès públic i, alhora, barrar l'accés a la intimitat.
 
