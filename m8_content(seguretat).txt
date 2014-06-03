@@ -146,9 +146,9 @@ Peu: L’exhibició de la intimitat, costum social i tria personal - Font: [Jord
 
 La construcció de la identitat digital és una responsabilitat social i una marca personal que perdurarà.
 
-Decidir què mostrem als altres sempre ha estat un **signe** d’identitat i de posició social. I una **marca** que perdura. A l’adolescència, carpetes, agendes, pòsters a les habitacions... solien identificar la personalitat de cadascú. Avui dia, els tatuatges i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries, però la funció continua sent la mateixa: l'empremta a la pell o a les xarxes socials ens identifica davant dels altres i som nosaltres qui decidim què volem mostrar. 
+Decidir què mostrem als altres sempre ha estat un **signe** d’identitat i de posició social. I una **marca** que perdura. Durant l’adolescència, carpetes, agendes, pòsters a les habitacions... solien identificar la personalitat de cadascú. Avui dia, els tatuatges i les xarxes socials han pres el relleu d’aquelles manifestacions identitàries, però la funció continua sent la mateixa: l'empremta a la pell o a les xarxes socials ens identifica davant dels altres i som nosaltres qui decidim què volem mostrar. 
 
-Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra. Allò que publiquem, com el verb indica, resta a l'espai públic i pot condicionar les nostres vides personals o professionals. Aquí en tens un exemple:
+Les xarxes socials faciliten que ens construïm aquesta identitat, però se’ns poden girar en contra. Allò que publiquem, tal com el verb indica, es queda a l'espai públic i pot condicionar les nostres vides personals o professionals. Aquí en tens un exemple:
 
 <small>
 Peu: Quan Facebook pot ser causa d’acomiadament [Font: La Vanguardia](http://www.lavanguardia.com/internet/20111011/54229795473/cuando-facebook-puede-ser-causa-de-despido.html)
@@ -225,7 +225,7 @@ Alto!
 * No apliquis substitucions numèriques sistemàtiques, com ara c0ntr5seny5
 * No utilitzis contrasenyes curtes per molt estranyes que ens puguin semblar
 * No facilitis a ningú una contrasenya teva
-* No deixis sessions obertes en aplicacions a Internet en dispositius que no siguin teus 
+* No deixis sessions obertes d'aplicacions a Internet en dispositius que no siguin teus 
 
 *********************************************************************************************************
 
@@ -251,7 +251,7 @@ Aquest vídeo et pot ajudar:
 Peu: Consells per crear una contrasenya segura - Font [Google](https://www.youtube.com/watch?v=0RCsHJfHL_4)
 </small>
 
-Hi ha, doncs, contresenyes dolentes perquè són previsibles però també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
+Hi ha, doncs, contrasenyes dolentes perquè són previsibles però també maneres de crear-ne de bones. Els articles següents te’n fan cinc cèntims:
 [La llista de les pitjors contrasenyes](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html) i [Com crear-ne de bones](http://www.vilaweb.cat/noticia/4138324/20130813/llista-pitjors-contrasenyes-google.html)
 
 Ara bé, totes aquestes precaucions poden resultar anecdòtiques. Encara pots anar molt més enllà per protegir la teva privacitat. El [Projecte Tor](https://www.torproject.org) t'ho permet. És una xarxa oberta per fer cerques de manera totalment anònima.  
@@ -273,13 +273,13 @@ Peu: Línies bàsiques de la protecció de dades personals. Font [EAPC](http://y
 </small>
 
 
-La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què, per a què i també de demanar-ne la rectificació si són incorrectes i la cancel·lació. 
+La protecció de dades personals (autodeterminació informativa) és el dret que té tota persona de saber **qui sap què** sobre ella, en quin moment, per què, per a què i també de demanar-ne la rectificació, si són incorrectes, i la cancel·lació. 
 
 No s’ha de confondre amb el dret a la intimitat. El dret a l’autodeterminació informativa apareix com a tal en el moment en què la informàtica es desenvolupa i amenaça la vida privada de les persones. Per què? Doncs perquè les seves dades poden ser vigilades, analitzades i tractades tant pels poders públics (estats) com pels privats (empreses).
 
 La Constitució espanyola de 1978 va ser, després de la portuguesa, de les primeres a reconèixer aquest dret. No és estrany: tant Espanya com Portugal acabaven de sortir de dos règims dictatorials i iniciaven un llarg camí cap a la democràcia. En aquest context, pensar que els poders públics podien ser amos i senyors de les dades personals dels ciutadans provocava un recel més que justificat.
 
-Aquest dret està reconegut per la legislació europea com a dret fonamental mentre que als EUA només s’ha legislat des de diferents sectors però no pas en la columna vertebral del sistema legislatiu, la Constitució. Aquest fet explica que la [National Security Agency](http://www.nsa.gov) (NSA) es dediqués a aplegar i explotar dades dels ciutadans accedint als servidors de les principals empreses d’Internet, ja que per al poble americà preval la llibertat d’expressió sobre la intimitat, tal com estableix la cèlebre Primera Esmena de la Declaració de Drets que acompanya la Constitució: “El Congrés no podrà elaborar cap llei quant a l'establiment d'una religió, ni prohibir-ne el lliure acompliment de ritus; ni reduir la llibertat d'expressió o de premsa; ni privar el poble del dret de reunió pacífica, ni del dret de petició a fi de demanar reparacions al Govern.”
+Aquest dret està reconegut per la legislació europea com a dret fonamental mentre que als EUA només s’ha legislat des de diferents sectors però no pas en la columna vertebral del sistema legislatiu: la Constitució. Aquest fet explica que la [National Security Agency](http://www.nsa.gov) (NSA) es dediqués a aplegar i explotar dades dels ciutadans accedint als servidors de les principals empreses d’Internet, ja que per al poble americà preval la llibertat d’expressió sobre la intimitat, tal com estableix la cèlebre Primera esmena de la Declaració de Drets que acompanya la Constitució: “El Congrés no podrà elaborar cap llei quant a l'establiment d'una religió, ni prohibir-ne el lliure acompliment de ritus; ni reduir la llibertat d'expressió o de premsa; ni privar el poble del dret de reunió pacífica, ni del dret de petició a fi de demanar reparacions al Govern.”
 
 *********************************************************************************************************
 **Atura’t i reflexiona**
@@ -287,25 +287,25 @@ Aquest dret està reconegut per la legislació europea com a dret fonamental men
 Mira’t aquest vídeo:
 
 <!--
-[Missatge de Nadal de l’Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI) 
+[Missatge de Nadal d'Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI) 
 -->
 
 <iframe src="http://embedded-video.guardianapps.co.uk/?a=false&amp;u=/world/video/2013/dec/25/edward-snowden-christmas-message-video" frameborder="0" width="460" height="397"></iframe>
 
 <small>
-Peu: Al nadal de 2013 Edward Snowden va difondre un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
+Peu: Al Nadal de 2013 Edward Snowden va difondre un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
 </small>
 
-La denúncia d'Snowden, antic agent de serveis d'intel·ligència dels EUA, ha tingut molta repercussió als mitjans de comunicació d'arreu del món. Tanmateix, a Europa, des de finals del segle XX, juristes d'anomenada, com l'italià Stefano Rodotà, havien centrat les seves reflexions sobre la relació entre tecnologia, respecte als drets fonamentals de les persones i exercici efectiu de la democràcia.
+La denúncia d'Snowden, antic agent dels serveis d'intel·ligència dels EUA, ha tingut molta repercussió als mitjans de comunicació d'arreu del món. Tanmateix, a Europa, des de finals del segle XX, juristes d'anomenada, com l'italià Stefano Rodotà, havien centrat les seves reflexions sobre la relació entre tecnologia, respecte als drets fonamentals de les persones i l'exercici efectiu de la democràcia.
 
 Llegeix el text de Rodotà:
 
->L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies d ela informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.
->Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats seguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.
+>L’home de vidre és una metàfora nazi, que reflecteix la idea d’un Estat que pot apoderar-se completament de la vida de les persones que davant seu no té ciutadans, sinó súbdits. [...] Una tutela efectiva de la privacitat es transforma, aleshores, en element bàsic perquè una societat pugui continuar anomenant-se democràtica. [...] L’experiència d’aquests últims anys posa en evidència que l’esfera de la política es relaciona amb les tecnologies de la informació i de la comunicació sobretot pel que fa a l’e-govern, al desenvolupament del control sobre les persones, a les iniciatives directes dels ciutadans. Està clar que es tracta de dinàmiques que es refereixen a lògiques diferents: eficiència, control, participació.
+>Analitzant més en detall aquestes dinàmiques, ens adonem que sovint als ciutadans se’ls promet un futur ple d’eficiència administrativa i se’ls oculta un present en què els instruments d’un control cada cop més invasiu i capil·lar es multipliquen. Gairebé sembla que s’estiguin construint dos mons que no es comuniquen i que l’e-govern, l’Administració electrònica, pugui desenvolupar-se sense tenir en compte l’esclafament contemporani de drets individuals i col·lectius, amb l’excusa d’exigències d’eficiència o de seguretat. No és casualitat que els administrats siguin anomenats ‘clients’ i que s’utilitzin fórmules del llenguatge de l’empresa, com ara ‘costumer satisfaction’ que converteixen el ciutadà en un mer consumidor de serveis.
 > 
 > [Stefano Rodotà: Democracia y protección de datos](https://www.agpd.es/portalwebAGPD/canaldocumentacion/conferencias/common/pdfs/DemocraciaMadrid_mayo_05.pdf)
 
-A partir de les afirmacions contingudes al vídeo d’Snowden i del text anterior, debateu sobre quina relació hi ha entre el tractament informàtic de dades privades i la llibertat personal enfront dels poders públics. 
+A partir de les afirmacions contingudes al vídeo d’Snowden i del text anterior, debateu sobre quina relació hi ha entre el tractament informàtic de dades privades i la llibertat personal davant dels poders públics. 
 
 * Per què s’afirma que el control de les dades personals converteix els ciutadans en clients? 
 * Quines repercussions té aquest fet?
@@ -324,28 +324,28 @@ Internet no admet mesures de blocatge per la seva pròpia naturalesa que és la 
 
 ![art. 20 Conveni de Budapest](https://dl.dropboxusercontent.com/u/6810751/conveni_budapest_art_20.png)
 
-Com veiem, en aquest fragment s’apunta a un compromís basat en la idea de territori geogràfic. 
+Com podem veure, en aquest fragment s’apunta a un compromís basat en la idea de territori geogràfic. 
 Però... no és possible controlar Internet amb barreres i criteris territorials!
 
 Cal, doncs, un dret de consens. Com el construïm? Amb codis deontològics, acords entre les parts en conflicte i la col·laboració de l'arquitectura tecnològica d’Internet que és molt important que es mantingui en un punt de neutralitat.
 
-Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la Xarxa. Ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
-Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament o no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
+Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la xarxa. Ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
+Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment d'aquesta política, les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament o no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
 
 Vegem-ne dos exemples contraposats:
 
 El cas de Xavi Hernàndez. A qui pertany i per què el domini [Xavi Hernàndez](http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)?
 
-I el cas que [Bruce Springsteen] (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html)  va perdre perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini  estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
+I el cas que [Bruce Springsteen] (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html), que va perdre perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
 
 (PAS 8)
 
 ## Delictes i faltes
 Rumiem una mica. Internet no ha generat gaires nous delictes, és a dir, delictes derivats d’aquest mitjà tecnològic.
 
-Si pensem en assetjament, sigui escolar o laboral, el delicte ja està tipificat com a dany a la integritat moral o física de les persones.
+Si pensem en l'assetjament, sigui escolar o laboral, el delicte ja està tipificat com a dany a la integritat moral o física de les persones.
 
-Si pensem en pornografia infantil, s’està atemptant contra el dret a la pròpia imatge del menor i tant se val el mitjà. Internet en magnifica l’impacte, el fa més gran, però el valor que s’ha desprotegit és el mateix que quan es comet delicte en l’àmbit estrictament espacial.
+Si pensem en pornografia infantil, s’està atemptant contra el dret a la pròpia imatge del menor i tant se val el mitjà. Internet en magnifica l’impacte, el fa més gran, però el valor que s’ha desprotegit és el mateix que quan es comet un delicte en l’àmbit estrictament espacial.
 
 Però si pensem en la invasió de la vida privada, aquí sí que s’ha produït un canvi que afecta l’essència del concepte d'intimitat. Conscient o inconscientment ens exhibim a la mirada de tothom (els xats, el *WhatsApp*, els *selfies*, etc.) i ens exposem al perill. Aquesta allau de dades és llaminera per als models socioeconòmics, que se senten temptats a posseir i a utilitzar la informació que fins ara sabien privada.
 
@@ -359,10 +359,10 @@ Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüènci
 * invasió de la intimitat
 * estafes
 * integritat moral (injúries, calúmnies, ciberassetjament)
-* integritat física (ciberasstejament o ciberassetjament a menors -*grooming*-)
+* integritat física (ciberasstejament o ciberassetjament a menors -*grooming*)
 * apropiació d’obres o propietats d’altres persones
 
-I si trobes algun altre tipus de delicte, comparteix-lo.
+Si trobes algun altre tipus de delicte, comparteix-lo.
 *********************************************************************************************************
 
 (PAS 9)
@@ -371,13 +371,13 @@ I si trobes algun altre tipus de delicte, comparteix-lo.
 
 Què ha fet el dret davant del canvi social, econòmic i cultural que ha comportat la tecnologia?
 
-Ha reaccionat utilitzant barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és la voluntat d'eliminar les fronteres entre països establint acords comuns, com pretén el (WEB: POSAR ENLLAÇ AL PAS 7 ON ES MENCIONA EL CONVENI) Conveni de Budapest. Ara bé, sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple de nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret, com ha passat a Turquia, a la Xina o a Corea del Nord.
+Ha reaccionat utilitzant barreres físiques, sigui per enderrocar-les, sigui per intentar bastir-ne de noves. Un exemple d’enderroc és la voluntat d'eliminar les fronteres entre països establint acords comuns, com pretén el (WEB: POSAR ENLLAÇ AL PAS 7 ON ES MENCIONA EL CONVENI) Conveni de Budapest. Ara bé, sempre hi ha paradisos, països que viuen de no col·laborar. Un exemple d'un nou bastiment de clausura és tancar l’accés a determinats dominis d’Internet des dels servidors situats en països en concret, com ha passat a Turquia, a la Xina o a Corea del Nord.
 
 Però les estratègies de barrera no serveixen quan la informació flueix. Com l’aigua, la informació s’escampa arreu prenent noves formes contínuament.
 
 El dret ha de continuar protegint les línies vermelles que no es poden travessar i que han costat segles de guanyar: el respecte a l’esfera privada, la integritat física o moral de les persones, la llibertat d’expressió, la igualtat d’oportunitats. Aquests són **drets fonamentals** segons el dret constitucional. 
 
-Justament Tim Berners-Lee, l'inventor d'Internet, reflexiona en aquest vídeo sobre la necessitat d'establir un marc de referència per preservar i garantir els drets dels usuaris. Escolta'l amb atènció.
+Justament Tim Berners-Lee, l'inventor d'Internet, reflexiona en aquest vídeo sobre la necessitat d'establir un marc de referència per preservar i garantir els drets dels usuaris. Escolta'l amb atenció.
 
 [World wide web inventor Tim Berners-Lee: 'Establish web's principles of openness and privacy'](http://www.theguardian.com/technology/video/2014/mar/12/world-wide-web-tim-berners-lee-principles-openness-privacy-video)
 
@@ -394,7 +394,7 @@ http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia
 
 Peu: Notícia sobre la sentència del dret a l'oblit. Font - [TV3] (http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia)
 
-Pensa-hi una mica: la informació sobre l'embargament del 1998 era una dada que afectava la vida d'aquest ciutadà? Es pot obligar a esborrar el rastre de fets que han estat producte d’un procés judicial? I si les dades haguessin estat privades, ¿veuries la situació diferent?
+Pensa-hi una mica: la informació sobre l'embargament del 1998 era una dada que afectava la vida d'aquest ciutadà? Es pot obligar a esborrar el rastre de fets que han estat producte d’un procés judicial? I si les dades haguessin estat privades, veuries la situació diferent?
 
 El cert és que el demandant va estar implicat en un procés judicial d'embargament, ja tancat, i que aquesta informació apareixia a dalt de tot del buscador quan es feia una cerca del seu nom al web. També és cert que la sentència no obliga a retirar la informació de l'hemeroteca de la font original, *La Vanguardia*, sinó que demana a Google, com a responsable del tractament de les dades, que en suprimeixi els enllaços del buscador que condueixen al procés judicial esmentat quan es tecleja el nom d'aquest ciutadà. 
 
