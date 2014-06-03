@@ -256,6 +256,12 @@ Hi ha, doncs, contrasenyes dolentes perquè són previsibles però també manere
 
 Ara bé, totes aquestes precaucions poden resultar anecdòtiques. Encara pots anar molt més enllà per protegir la teva privacitat. El [Projecte Tor](https://www.torproject.org) t'ho permet. És una xarxa oberta per fer cerques de manera totalment anònima.  
 
+Mira't aquest vídeo i sabràs qui l'utilitza:
+
+<iframe src="//player.vimeo.com/video/63601152?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/63601152">TOR Project</a> from <a href="http://vimeo.com/davegoodall">Dave Goodall</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Peu: El Projecte Tor, una xarxa oberta. Font: [Tor Project - Dave Godall](https://vimeo.com/63601152) 
+
 **Aprèn en col·laboració**
 
 Si t'has instal·lat [Ghostery](https://www.ghostery.com/en/) o [Disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) o si has gosat anar més enllà i has explorat el  [Projecte Tor](https://www.torproject.org), comparteix els teus dubtes i descobertes amb el companys.
@@ -380,6 +386,9 @@ El dret ha de continuar protegint les línies vermelles que no es poden travessa
 Justament Tim Berners-Lee, l'inventor d'Internet, reflexiona en aquest vídeo sobre la necessitat d'establir un marc de referència per preservar i garantir els drets dels usuaris. Escolta'l amb atenció.
 
 [World wide web inventor Tim Berners-Lee: 'Establish web's principles of openness and privacy'](http://www.theguardian.com/technology/video/2014/mar/12/world-wide-web-tim-berners-lee-principles-openness-privacy-video)
+
+Peu: La finalitat d'Internet segons el seu inventor. Font: [The Guardian](http://www.theguardian.com/technology/video/2014/mar/12/world-wide-web-tim-berners-lee-principles-openness-privacy-video)
+
 
 Així doncs, la consolidació d'un món interconnectat ens fa posar **en peu d'alerta**: cal vetllar per deixar a la xarxa i en obert tot allò que sigui d'interès públic i, alhora, barrar l'accés a la intimitat.
 
