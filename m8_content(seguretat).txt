@@ -365,7 +365,7 @@ Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüènci
 * invasió de la intimitat
 * estafes
 * integritat moral (injúries, calúmnies, ciberassetjament)
-* integritat física (ciberasstejament o ciberassetjament a menors -*grooming*)
+* integritat física (ciberasstejament o ciberassetjament a menors - *grooming*)
 * apropiació d’obres o propietats d’altres persones
 
 Si trobes algun altre tipus de delicte, comparteix-lo.
