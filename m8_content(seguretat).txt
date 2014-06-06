@@ -353,7 +353,7 @@ Si pensem en l'assetjament, sigui escolar o laboral, el delicte ja està tipific
 
 Si pensem en pornografia infantil, s’està atemptant contra el dret a la pròpia imatge del menor i tant se val el mitjà. Internet en magnifica l’impacte, el fa més gran, però el valor que s’ha desprotegit és el mateix que quan es comet un delicte en l’àmbit estrictament espacial.
 
-Però si pensem en la invasió de la vida privada, aquí sí que s’ha produït un canvi que afecta l’essència del concepte d'intimitat. Conscient o inconscientment ens exhibim a la mirada de tothom (els xats, el *WhatsApp*, els *selfies*, l'*oversharing*, etc.). Aquesta allau de dades és llaminera per als models socioeconòmics, que se senten temptats a posseir i a utilitzar la informació que fins ara sabien privada.
+Però si pensem en la invasió de la vida privada, aquí sí que s’ha produït un canvi que afecta l’essència del concepte d'intimitat. Conscient o inconscientment ens exhibim a la mirada de tothom (els xats, el *WhatsApp*, els *selfies*, l' *oversharing*, etc.). Aquesta allau de dades és llaminera per als models socioeconòmics, que se senten temptats a posseir i a utilitzar la informació que fins ara sabien privada.
 
 Què ha fet Internet? Ampliar l’escenari dels delictes que ja existien i elevar exponencialment la probabilitat d’agrupar-se en xarxes, és a dir, de trobar-se persones que persegueixen els mateixos objectius, més enllà dels límits físics i fins i tot dels morals.
 
@@ -365,7 +365,7 @@ Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüènci
 * invasió de la intimitat
 * estafes
 * integritat moral (injúries, calúmnies, ciberassetjament)
-* integritat física (ciberasstejament o ciberassetjament a menors -*grooming*)
+* integritat física (ciberasstejament o ciberassetjament a menors - *grooming*)
 * apropiació d’obres o propietats d’altres persones
 
 Si trobes algun altre tipus de delicte, comparteix-lo.
@@ -413,6 +413,69 @@ Reflexiona en el fòrum sobre aquest tema i sobre aquestes altres qüestions:
 * Quins són els principis que cal preservar en l'ús d'Internet?
 * Qui creus que en pot garantir l'aplicació? els governs, els tecnòlegs, la ciutadania...? 
 * Què cal deixar en obert? 
+
+(PAS 10)
+## Projecte: Mira’t a tu mateix
+ 
+**A partir 2 recursos + l'anàlisi del seu propi rastre**:
+ 
+Projecte: Una representació gràfica (una infografia bàsica) acompayada d’un text personal sobre de la seva activitat a la xarxa. Es tracta de constatar l’activitat individual, saber amb quins serveis treballen a la xarxa, fer-ne l’anàlisi i reflexió sobre el grau al seu grau de “privacitat”, que pensin en quin serveis són més problemàtics i quins no ho són tant.
+ 
+**Enunciat**
+ 
+Punt de partida: 
+ 
+Mira’t aquest vídeo:
+ 
+vídeo de la campanya a KickStarter de [Federico Zannier](<iframe width="480" height="360"  src="https://www.kickstarter.com/projects/1461902402/a-bit-e-of-me/widget/video.html" frameborder="0" scrolling="no"> </iframe>)
+ 
+Escolta aquest podcast i llegeix-ne atentament la transcripció:
+ 
+Podcast de [Shawn Buckles](<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141809133&color=ff5500"></iframe>) 
+ 
+(notes per a nosaltres: La transcripció anirà sota el podcast. Del podcast, hi ha un aspecte molt interessant en un moment de la discussió amb el periodista: la meva privacitat implica també la des altres.)
+ 
+(notes per a nosaltres: Durant uns dies els alumnes han de fer extracció de dades d’ells mateixos per ser conscient d’allò que visiten: chat, gps, les pàgines que visito, les compres que faig, els meus wishlists, whatsapp, facebook, twitter, etc.)
+ 
+ **El Mirall** Fer un representació gràfica d’ells mateixos i la seva activitat a la xarxa. 
+ 
+**Enunciat:** 
+ 
+Crea una infografia de tu mateix i la teva activitat a la xarxa per extreure’n els patrons de la teva vida a Internet. 
+ 
+Es tracta de constatar la teva activitat a Internet i fer-ne una representació gràfica senzilla per tal que comencis a reflexionar sobre els serveis que utilitzes i el grau de privacitat de cadascun. 
+ 
+(nota per a nosaltres: Aquí els donarem un exemple d’infografia i els serveis que poden utilitzar per fer-la.) GENIAL!!!!! (la pensada de la infografia) BRAVO!!!!
+ 
+ 
+NOTES PER A NOSALTRES: 
+ 
+Acabar de decidir el tipus d’infografia que demanarem: l’alumne al centre i al voltant tot el que ha avariguat respecte a la seva activitat a Internet. Pot ser:
+* quantificació en temps a cada servei 
+* mostrar temps de la jornada que passen a Internet i on: gmail, xats, compres, wishlists, les seves dades gps compartides, facebook, hi publico fotos, pensaments al mur, comentaris personals, twitter, google, etc). - EXEMPLE QUE NO TÉ RES A VEURE PERÒ QUE POT SER INSPIRADOR PER A NOSALTRES: [writers daily routines](http://www.fastcocreate.com/3028428/infographic-see-the-daily-routines-of-the-worlds-most-famous-creative-people#17)
+*   Important: no es tracta en cap cas de fer una infografia sofisticada, aquesta ha de ser un inici per pensar en un mateix, ja que l’important és la reflexió que han de fer a partir de la seva activitat a la xarxa.
+ 
+CONTINUACIÓ DE L’ENUNCIAT:
+ 
+Ara, llegeix aquest article del professor [Evgeny Morozov](http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html)
+Reflexiona a partir de les preguntes que et proposem:
+ 
+LAIA: bateria de preguntes.
+1. Quines dades privades no vendries mai de la vida? Per què?
+2. Explica amb paraules pròpies què vol dir convertir-se en una mena de “cartell publicitari interactiu”.
+3. Aporta casos en què t’has trobat que evidenciïn que empreses estan fent servir les teves dades de navegació per Internet per incloure publicitat ajustada a la teva personalitat als serveis que t’ofereixen, p.e. has buscat informació sobre París i t’envien a la teva bústia electrònica ofertes d’hotels en aquesta ciutat.
+4. Per qüestions d’ètica humanitària, ¿seria bo que dades clíniques de persones identificades se cedissin a universitats i hospitals amb finalitats de recerca científica? Veus problemes greus en aquesta cessió? Per què es pot fer amb persones difuntes i no pas amb les vives?
+5. Quins arguments es poden aportar per justificar/no que vendre’s l’ànima / intel·lecte és el mateix que vendre’s el cos?
+6. Quina opinió tens sobre el fet que les lleis puguin impedir aquesta venda? ¿Els estats han de regular aquesta part de la vida privada? ¿Es pot parlar d’un esclavatge de l’ànima que els estats haurien de prohibir?
+ 
+ 
+Publica la teva URL de la teva infografia. Recorda que la infografia ha d’anar acompanyada d’un text reflexiu en què facis fer una anàlisi crítica sobre la teva activitat a Internet: com protegeixes o no les teves dades? Cerca el serveis que utilitzes  i valora’n el nivell de privacitat, n’estàs realment informat?
+ 
+NOTA: AQUEST ENUNCIAT ÉS UN ESBORRANY. EDITEU-LO I MILLOREU-LO.
+ 
+altres notícies: http://elpais.com/elpais/2014/05/03/opinion/1399146252_528484.html
+ 
+
 
 
 
