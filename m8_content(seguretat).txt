@@ -331,14 +331,26 @@ Però... no és possible controlar Internet amb barreres i criteris territorials
 
 Cal, doncs, un dret de consens. Com el construïm? Amb codis deontològics, acords entre les parts en conflicte i la col·laboració de l'arquitectura tecnològica d’Internet que és molt important que es mantingui en un punt de neutralitat.
 
-Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la xarxa. Ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
-Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment d'aquesta política, les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament o no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
+Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la xarxa. Ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp).
+Es tracta d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment d'aquesta política, les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament o no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
 
 Vegem-ne dos exemples contraposats:
 
-El cas de Xavi Hernàndez. A qui pertany i per què el domini [Xavi Hernàndez](http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)?
+El cas del futbolista Xavi Hernández
 
-I el cas que [Bruce Springsteen] (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html), que va perdre perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
+* El jugador reclama el domini <xavihernandez.com>
+* El domini ha estat registrat amb anterioritat per una altra persona
+* Aquesta persona l’usa per fer negoci i de mala fe, aprofitant la fama del jugador
+* La sentència és, doncs, favorable a [Xavi Hernàndez](http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html).
+
+El cas de Bruce Springsteen
+
+* El cantant reclama el domini <brucespringsteen.com>
+* El domini ha estat registrat per un club de fans amb anterioritat.
+* El club de fans no utilitza de mala fe el nom del seu ídol, al contrari!
+* La sentència és desfavorable a  [Bruce Springsteen] (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html)
+
+I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha regsitrat n’està fent un ús de mala fe.
 
 (PAS 8)
 
