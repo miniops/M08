@@ -460,7 +460,7 @@ a) El vídeo d'un noi que decideix vendre la seva privacitat:
 
 Peu: Federico Zannier ven la seva privacitat en un plataforma de *crowdfunding*. Font: [A Bite of Me - Kickstarter](https://www.kickstarter.com/projects/1461902402/a-bit-e-of-me)
 
-b) L'entrevista feta a una altra persona que explica els motius que l'han portat a vendre les seves dades personals. Escolta aquest podcast (en anglès) i llegeix-ne la transcripció (en català):
+b) L'entrevista feta a una altra persona que explica els motius que l'han portat a vendre les seves dades personals. Escolta aquest podcast (en anglès) i [llegeix-ne la transcripció (en català)](https://gist.github.com/miniops/04aedf1f8e97915df9f4):
 
 <iframe width="50%" height="225" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141809133&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
