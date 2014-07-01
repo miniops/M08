@@ -427,21 +427,24 @@ Reflexiona en el fòrum sobre aquest tema i sobre aquestes altres qüestions:
 
 ## Projecte
 
-Com a projecte d'aquest curs, et proposem que facis tres tasques que hauràs d'enviar a través del **formulari que trobaràs a la l'aula del campus IOC d'aquest miniop**:
+Com a projecte d'aquest curs, et proposem que facis dues tasques: omplir un **formulari que trobaràs a la l'aula del campus IOC d'aquest miniop** i **enviar una gravació**.
 
-* Recull i analitza dades sobre de la teva activitat com a usuari d'Internet.
-* Reflexiona i escriu sobre el teu grau de coneixement de les qüestions relacionades amb la  seguretat a la xarxa.
-* Grava un podcast en què expliquis les teves conclusions generals sobre el miniop.
+En el formulari hauràs de:
 
-Tot i que el projecte consisteix a enviar el teu formulari, t'anunciem aquí les tasques que hi trobaràs perquè puguis treballar-hi i reflexionar-hi mentre segueixes els passos del miniop. 
+* Recollir i analitzar dades sobre de la teva activitat com a usuari d'Internet.
+* Reflexionar i escrire sobre el teu grau de coneixement de les qüestions relacionades amb la  seguretat a la xarxa.
 
-**Recorda, però, que si no envies el formulari que trobaràs a l'aula no hauràs lliurat el projecte.** 
+A la gravació hauràs de:
 
-En el formulari hi trobaràs aquests tres blocs: 
+* Explicar les teves conclusions generals sobre el miniop.
+
+Tot i que el projecte consisteix a enviar el teu formulari i la teva gravació, t'anunciem aquí les tasques perquè puguis treballar-hi i reflexionar-hi mentre segueixes els passos del miniop. 
+
+En el formulari hi trobaràs aquests dos blocs: 
 
 ### Bloc 1. Anàlisi de dades
 
-En aquest bloc, en el formulari hi trobaràs la proposta de recollir dades sobre de la teva activitat com a usuari d'Internet. Concretament, et demanarem informació sobre:
+En aquest bloc del formulari hi trobaràs la proposta de recollir dades sobre de la teva activitat com a usuari d'Internet. Concretament, et demanarem informació sobre:
 
 * els llocs que visites
 * els serveis que utilitzes
@@ -479,9 +482,9 @@ En el formulari hauràs de respondre aquestes qüestions:
 * Tim Berners Lee, l'inventor d'Internet, diu que la finalitat d'Internet és democratitzadora, un lloc de trobada i una oportunitat per al coneixement (Pas 9). Creus que aquesta idea pot casar amb la visió de Morozov?
 * Les nostres dades poden ser font de riquesa per a empreses, organitzacions científiques i gubernamentals: és una riquesa mercantil, que ens converteix en consumidors passius i, per tant, en un producte per a les empreses? O bé, és una riquesa per al bé comú, és a dir, que permet millorar el nivell de transparència i fomenta la participació ciutadana? Distingeix-les i reflexiona sobre els seus usos.
 
-### Bloc 3. Gravació de les conclusions:
+### Gravació de les conclusions:
 
-En aquest bloc, hauràs d'enregistrar i publicar la URL d'un arxiu de so gravat per tu mateix en què expliquis les conclusions a les quals has arribat després de cursar aquest miniop seguint els suggeriments següents:
+Hauràs d'enregistrar i publicar la URL d'un arxiu de so gravat per tu mateix en què expliquis les conclusions a les quals has arribat després de cursar aquest miniop seguint els suggeriments següents:
 
 * Què ha suposat per a tu fer aquest miniop?
 * Creus que ha augmentat la teva consciència sobre la importància de la seguretat a la xarxa? Què has millorat i què hauries de millorar en les teves pràctiques habituals (per exemple, la seguretat de les teves contrasenyes, els pagaments online, la selecció dels contingut que comparteixes, etc.)?
@@ -492,11 +495,14 @@ En aquest bloc, hauràs d'enregistrar i publicar la URL d'un arxiu de so gravat 
 ### Com has de gravar i publicar el teu arxiu de so:
 
 * Arxiu de so (durada: entre 1 i 2 minuts): enregistra el teu arxiu de so i publica’l al lloc web [SoundCloud](https://soundcloud.com/) (és gratuït, t’hi pots registrar normalment o també a través de les xarxes socials). 
-* Un cop hagis pujat el teu arxiu de so a SoundCloud, fes-lo públic i copia la URL en el formulari.
+* Un cop hagis pujat el teu arxiu de so a SoundCloud, fes-lo públic i copia la URL a l'espai de l'aula.
 
 ### Com has d'enviar el teu projecte:
 
 Un cop hagis completat el formulari que trobaràs a l'aula del miniop, només l'hauràs d'enviar i nosaltres el rebrem. Recorda d'indicar el teu **nom i cognoms clarament en el formulari**. 
 
-**Recorda que si no envies el formulari que trobaràs a l'aula no hauràs lliurat el projecte.** 
+**Recorda que has d'enviar aquestes dues tasques:**
+
+* si no envies el formulari que trobaràs a l'aula no hauràs lliurat el projecte.
+* si no envies la gravació a l'aula no hauràs lliurat el projecte.
 
