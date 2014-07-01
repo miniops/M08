@@ -43,7 +43,7 @@ Ja no som només el que mostrem físicament sinó el que hem mostrat a través d
 
 En aquest vídeo s’hi fa un experiment. Mira-te’l:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/5P_0s1TYpJU?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/wogKxMAhrkE" frameborder="0" allowfullscreen></iframe>
 
 <small>
 Peu: La informació que mostrem a les xarxes socials té efectes (Font: [Jack Vale Films](https://www.youtube.com/user/jackvalefilms))
@@ -88,7 +88,7 @@ Peu: La informació de navegació és rastrejada per altres - Font [Gary Kovacs.
 
 Així doncs, ja hi ha eines que ens permeten saber **qui està seguint la nostra activitat a la xarxa**. Malgrat que no estan específicament pensades per salvaguardar la nostra intimitat, sí que ens mostren fins a quin punt la nostra informació és utilitzada per diferents empreses d’Internet. Aquí en tens un altre exemple:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/PvqGy9wz_wA?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/td8FaookBmM" frameborder="0" allowfullscreen></iframe>
 
 <small>
 Peu: Lightbeam per a Firefox et mostra gràficament qui t’observa - Font: [Mozilla](http://www.mozilla.org/ca/lightbeam/) 
@@ -138,7 +138,7 @@ Aquesta parcel·la té components personals, però també, socioculturals.
 
 Per entendre aquesta dimensió, mira’t aquest vídeo:
 
-[Sense cortines, Groningen, Holanda](http://blogs.tv3.cat/blogeuropa.php?itemid=49266)
+<iframe width="560" height="315" src="//www.youtube.com/embed/VboVZa2eQvc" frameborder="0" allowfullscreen></iframe>
 
 <small>
 Peu: L’exhibició de la intimitat, costum social i tria personal - Font: [Jordi Brescó, Blog Europa - TV3](http://blogs.tv3.cat/blogeuropa.php?itemid=49266&amp;catid=2226)
@@ -235,7 +235,7 @@ Existeixen extensions instal·lables al teu navegador com  [Disconnect](https://
 
 Mira’t aquest vídeo i et sorprendràs:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/EKzyifAvC_U?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/WHwmlwvGbcw" frameborder="0" allowfullscreen></iframe>
 
 <small>
 Peu: Podem prendre decisions informades sobre la nostra privacitat - Font: [Ghostery](https://www.ghostery.com/en/)
@@ -245,7 +245,7 @@ Malgrat que pot resultar de vegades una feina feixuga recordar-les totes, triar 
 
 Aquest vídeo et pot ajudar:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/0RCsHJfHL_4?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/iOV1sw85L4k" frameborder="0" allowfullscreen></iframe>
 
 <small>
 Peu: Consells per crear una contrasenya segura - Font [Google](https://www.youtube.com/watch?v=0RCsHJfHL_4)
@@ -258,7 +258,7 @@ Ara bé, totes aquestes precaucions poden resultar anecdòtiques. Encara pots an
 
 Mira't aquest vídeo i sabràs qui l'utilitza:
 
-<iframe src="//player.vimeo.com/video/63601152?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/63601152">TOR Project</a> from <a href="http://vimeo.com/davegoodall">Dave Goodall</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="//www.youtube.com/embed/miEVyx0Mtq8" frameborder="0" allowfullscreen></iframe>
 
 Peu: El Projecte Tor, una xarxa oberta. Font: [Tor Project - Dave Godall](https://vimeo.com/63601152) 
 
@@ -292,11 +292,7 @@ Aquest dret està reconegut per la legislació europea com a dret fonamental men
 
 Mira’t aquest vídeo:
 
-<!--
-[Missatge de Nadal d'Snowden](https://www.youtube.com/watch?v=WqkpxMrxWkI) 
--->
-
-<iframe src="http://embedded-video.guardianapps.co.uk/?a=false&amp;u=/world/video/2013/dec/25/edward-snowden-christmas-message-video" frameborder="0" width="460" height="397"></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/jFMIvHqyd44" frameborder="0" allowfullscreen></iframe>
 
 <small>
 Peu: Al Nadal de 2013 Edward Snowden va difondre un discurs advertint de la creixent manca de privacitat. Font: [Channel 4 i The Guardian](http://www.theguardian.com/world/video/2013/dec/25/edward-snowden-christmas-message-video)
@@ -335,14 +331,26 @@ Però... no és possible controlar Internet amb barreres i criteris territorials
 
 Cal, doncs, un dret de consens. Com el construïm? Amb codis deontològics, acords entre les parts en conflicte i la col·laboració de l'arquitectura tecnològica d’Internet que és molt important que es mantingui en un punt de neutralitat.
 
-Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la xarxa. Ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp)
-Es tracta d’una política, és a dir, d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment d'aquesta política, les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament o no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
+Internet té una arquitectura que connecta els ordinadors d’arreu. La Internet Corporation for Assigned Names and Numbers (ICANN) és l’entitat que manté aquesta arquitectura. La ICANN coneix millor que ningú el funcionament de la xarxa. Ja fa anys que ha adoptat el que ha anomenat [Política de Resolució de Disputes de Noms de Domini Uniformes](http://www.icann.org/es/help/dndr/udrp).
+Es tracta d’un conjunt d’acords que afecten tots aquells que registren noms de domini. En cas d’incompliment d'aquesta política, les persones afectades poden plantejar el seu cas davant d’un panell d’experts que deliberen i decideixen l’atorgament o no d’un nom de domini a qui considerin que demostra haver-se’n fet mereixedor.
 
 Vegem-ne dos exemples contraposats:
 
-El cas de Xavi Hernàndez. A qui pertany i per què el domini [Xavi Hernàndez](http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html)?
+El cas del futbolista Xavi Hernández
 
-I el cas que [Bruce Springsteen] (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html), que va perdre perquè no s’estava fent un ús de mala fe del seu nom, ja que el domini estava sent utilitzat per un club de fans seu. I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha inscrit n’està fent un ús de mala fe.
+* El jugador reclama el domini <xavihernandez.com>
+* El domini ha estat registrat amb anterioritat per una altra persona
+* Aquesta persona l’usa per fer negoci i de mala fe, aprofitant la fama del jugador
+* La sentència és, doncs, favorable a [Xavi Hernàndez](http://www.wipo.int/amc/en/domains/decisions/html/2001/d2001-0710.html).
+
+El cas de Bruce Springsteen
+
+* El cantant reclama el domini <brucespringsteen.com>
+* El domini ha estat registrat per un club de fans amb anterioritat
+* El club de fans no utilitza de mala fe el nom del seu ídol, al contrari!
+* La sentència és desfavorable a  [Bruce Springsteen] (http://www.wipo.int/amc/en/domains/decisions/html/2000/d2000-1532.html)
+
+I és que la política general quant a noms de domini és: *First come, first served.* Només s’arriba a retirar un nom de domini si es demostra que qui l’ha regsitrat n’està fent un ús de mala fe.
 
 (PAS 8)
 
@@ -365,7 +373,7 @@ Amplia la cerca realitzada al pas 2 sobre conflictes sorgits com a conseqüènci
 * invasió de la intimitat
 * estafes
 * integritat moral (injúries, calúmnies, ciberassetjament)
-* integritat física (ciberasstejament o ciberassetjament a menors -*grooming*)
+* integritat física (ciberasstejament o ciberassetjament a menors - *grooming*)
 * apropiació d’obres o propietats d’altres persones
 
 Si trobes algun altre tipus de delicte, comparteix-lo.
@@ -385,7 +393,7 @@ El dret ha de continuar protegint les línies vermelles que no es poden travessa
 
 Justament Tim Berners-Lee, l'inventor d'Internet, reflexiona en aquest vídeo sobre la necessitat d'establir un marc de referència per preservar i garantir els drets dels usuaris. Escolta'l amb atenció.
 
-[World wide web inventor Tim Berners-Lee: 'Establish web's principles of openness and privacy'](http://www.theguardian.com/technology/video/2014/mar/12/world-wide-web-tim-berners-lee-principles-openness-privacy-video)
+<iframe width="560" height="315" src="//www.youtube.com/embed/Ze4DNLK7MIs" frameborder="0" allowfullscreen></iframe>
 
 Peu: La finalitat d'Internet segons el seu inventor. Font: [The Guardian](http://www.theguardian.com/technology/video/2014/mar/12/world-wide-web-tim-berners-lee-principles-openness-privacy-video)
 
@@ -399,7 +407,8 @@ Com es pot trobar l'equilibri entre el dret a saber i el dret a la intimitat?
 Et mostrem un cas que t'ajudarà a reflexionar-hi. Es tracta de la sentència favorable al dret a l'oblit emesa, el maig de 2014, pel Tribunal de Justícia de la Unió Europea sobre la demanda d'un ciutadà. 
 
 Mira't la notícia:
-http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/OmEsjib_a-4" frameborder="0" allowfullscreen></iframe>
 
 Peu: Notícia sobre la sentència del dret a l'oblit. Font - [TV3] (http://www.tv3.cat/videos/5076973/El-cas-de-lhome-que-va-posar-la-denuncia)
 
@@ -415,75 +424,79 @@ Reflexiona en el fòrum sobre aquest tema i sobre aquestes altres qüestions:
 * Què cal deixar en obert? 
 
 (PAS 10)
-## Projecte: Mira’t a tu mateix
- 
-**A partir 2 recursos + l'anàlisi del seu propi rastre**:
- 
-Projecte: Una representació gràfica (una infografia bàsica) acompayada d’un text personal sobre de la seva activitat a la xarxa. Es tracta de constatar l’activitat individual, saber amb quins serveis treballen a la xarxa, fer-ne l’anàlisi i reflexió sobre el grau al seu grau de “privacitat”, que pensin en quin serveis són més problemàtics i quins no ho són tant.
- 
-**Enunciat**
- 
-Punt de partida: 
- 
-Mira’t aquest vídeo:
- 
-vídeo de la campanya a KickStarter de [Federico Zannier](<iframe width="480" height="360"  src="https://www.kickstarter.com/projects/1461902402/a-bit-e-of-me/widget/video.html" frameborder="0" scrolling="no"> </iframe>)
- 
-Escolta aquest podcast i llegeix-ne atentament la transcripció:
- 
-Podcast de [Shawn Buckles](<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141809133&color=ff5500"></iframe>) 
- 
-(notes per a nosaltres: La transcripció anirà sota el podcast. Del podcast, hi ha un aspecte molt interessant en un moment de la discussió amb el periodista: la meva privacitat implica també la des altres.)
- 
-(notes per a nosaltres: Durant uns dies els alumnes han de fer extracció de dades d’ells mateixos per ser conscient d’allò que visiten: chat, gps, les pàgines que visito, les compres que faig, els meus wishlists, whatsapp, facebook, twitter, etc.)
- 
- **El Mirall** Fer un representació gràfica d’ells mateixos i la seva activitat a la xarxa. 
- 
-**Enunciat:** 
- 
-Crea una infografia de tu mateix i la teva activitat a la xarxa per extreure’n els patrons de la teva vida a Internet. 
- 
-Es tracta de constatar la teva activitat a Internet i fer-ne una representació gràfica senzilla per tal que comencis a reflexionar sobre els serveis que utilitzes i el grau de privacitat de cadascun. 
- 
-(nota per a nosaltres: Aquí els donarem un exemple d’infografia i els serveis que poden utilitzar per fer-la.) GENIAL!!!!! (la pensada de la infografia) BRAVO!!!!
- 
- 
-NOTES PER A NOSALTRES: 
- 
-Acabar de decidir el tipus d’infografia que demanarem: l’alumne al centre i al voltant tot el que ha avariguat respecte a la seva activitat a Internet. Pot ser:
-* quantificació en temps a cada servei 
-* mostrar temps de la jornada que passen a Internet i on: gmail, xats, compres, wishlists, les seves dades gps compartides, facebook, hi publico fotos, pensaments al mur, comentaris personals, twitter, google, etc). - EXEMPLE QUE NO TÉ RES A VEURE PERÒ QUE POT SER INSPIRADOR PER A NOSALTRES: [writers daily routines](http://www.fastcocreate.com/3028428/infographic-see-the-daily-routines-of-the-worlds-most-famous-creative-people#17)
-*   Important: no es tracta en cap cas de fer una infografia sofisticada, aquesta ha de ser un inici per pensar en un mateix, ja que l’important és la reflexió que han de fer a partir de la seva activitat a la xarxa.
- 
-CONTINUACIÓ DE L’ENUNCIAT:
- 
-Ara, llegeix aquest article del professor [Evgeny Morozov](http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html)
-Reflexiona a partir de les preguntes que et proposem:
- 
-LAIA: bateria de preguntes.
-1. Quines dades privades no vendries mai de la vida? Per què?
-2. Explica amb paraules pròpies què vol dir convertir-se en una mena de “cartell publicitari interactiu”.
-3. Aporta casos en què t’has trobat que evidenciïn que empreses estan fent servir les teves dades de navegació per Internet per incloure publicitat ajustada a la teva personalitat als serveis que t’ofereixen, p.e. has buscat informació sobre París i t’envien a la teva bústia electrònica ofertes d’hotels en aquesta ciutat.
-4. Per qüestions d’ètica humanitària, ¿seria bo que dades clíniques de persones identificades se cedissin a universitats i hospitals amb finalitats de recerca científica? Veus problemes greus en aquesta cessió? Per què es pot fer amb persones difuntes i no pas amb les vives?
-5. Quins arguments es poden aportar per justificar/no que vendre’s l’ànima / intel·lecte és el mateix que vendre’s el cos?
-6. Quina opinió tens sobre el fet que les lleis puguin impedir aquesta venda? ¿Els estats han de regular aquesta part de la vida privada? ¿Es pot parlar d’un esclavatge de l’ànima que els estats haurien de prohibir?
- 
- 
-Publica la teva URL de la teva infografia. Recorda que la infografia ha d’anar acompanyada d’un text reflexiu en què facis fer una anàlisi crítica sobre la teva activitat a Internet: com protegeixes o no les teves dades? Cerca el serveis que utilitzes  i valora’n el nivell de privacitat, n’estàs realment informat?
- 
-NOTA: AQUEST ENUNCIAT ÉS UN ESBORRANY. EDITEU-LO I MILLOREU-LO.
- 
-altres notícies: http://elpais.com/elpais/2014/05/03/opinion/1399146252_528484.html
- 
 
+## Projecte
 
+Com a projecte d'aquest curs, et proposem que facis tres tasques que hauràs d'enviar a través del **formulari que trobaràs a la l'aula del campus IOC d'aquest miniop**:
 
+* Recull i analitza dades sobre de la teva activitat com a usuari d'Internet.
+* Reflexiona i escriu sobre el teu grau de coneixement de les qüestions relacionades amb la  seguretat a la xarxa.
+* Grava un podcast en què expliquis les teves conclusions generals sobre el miniop.
 
+Tot i que el projecte consisteix a enviar el teu formulari, t'anunciem aquí les tasques que hi trobaràs perquè puguis treballar-hi i reflexionar-hi mentre segueixes els passos del miniop. 
 
+**Recorda, però, que si no envies el formulari que trobaràs a l'aula no hauràs lliurat el projecte.** 
 
+En el formulari hi trobaràs aquests tres blocs: 
 
+### Bloc 1. Anàlisi de dades
 
+En aquest bloc, en el formulari hi trobaràs la proposta de recollir dades sobre de la teva activitat com a usuari d'Internet. Concretament, et demanarem informació sobre:
 
+* els llocs que visites
+* els serveis que utilitzes
+* el temps que hi dediques
+* el teu coneixement sobre les condicions d'ús
 
+A continuació, et demanarem que analitzis les teves dades i que expliquis a quines conclusions has arribat.
 
+### Bloc 2. Reflexió sobre privacitat i seguretat 
+
+En aquest bloc del formulari, hauràs d'escriure una reflexió personal sobre la seguretat i els límits de la privacitat a Internet a partir dels recursos següents:
+
+a) El vídeo d'un noi que decideix vendre la seva privacitat: 
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/b8tIiFrefik" frameborder="0" allowfullscreen></iframe>
+
+Peu: Federico Zannier ven la seva privacitat en un plataforma de *crowdfunding*. Font: [A Bite of Me - Kickstarter](https://www.kickstarter.com/projects/1461902402/a-bit-e-of-me)
+
+b) L'entrevista feta a una altra persona que explica els motius que l'han portat a vendre les seves dades personals. Escolta aquest podcast (en anglès) i [llegeix-ne la transcripció (en català)](https://gist.github.com/miniops/04aedf1f8e97915df9f4):
+
+<iframe width="50%" height="225" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141809133&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+Peu: Shawn Buckles explica per què ven les seves dades. Font: [BBC World Service on Soundcloud](https://soundcloud.com/bbc-world-service) 
+
+c) L'article d'Evgeny Morozov, investigador sobre les implicacions socials i polítiques de la tecnologia, en què opina sobre la privacitat a la xarxa.
+
+[*No vendamos nuestra auténtica humanidad*](http://elpais.com/elpais/2014/04/09/opinion/1397051613_416850.html)
+
+En el formulari hauràs de respondre aquestes qüestions:
+
+* Després de veure els casos de Federico Zannier et Shawn Buckles, quines dades privades no vendries mai de la vida? Per què?
+* Explica aquesta reflexió de Morozov: *Nuestros datos constituyen nuestra auténtica humanidad; en cambio, venderlos es aceptar convertirse en una especie de cartel publicitario interactivo.*
+* Aporta casos en què t’has trobat que evidenciïn que empreses estan fent servir les teves dades de navegació per incloure publicitat ajustada a la teva personalitat als serveis que t’ofereixen (per exemple: has buscat informació sobre París i veus que reps ofertes d’hotels en aquesta ciutat a la teva bústia electrònica).
+* Després de llegir l'article, quines sensacions experimentes? Trobes que Morozov adopta una posició apocalíptica? Et sents amenaçat o, per contra, creus que monitoritzar el rastre digital pot tenir efectes positius?
+* Tim Berners Lee, l'inventor d'Internet, diu que la finalitat d'Internet és democratitzadora, un lloc de trobada i una oportunitat per al coneixement (Pas 9). Creus que aquesta idea pot casar amb la visió de Morozov?
+* Les nostres dades poden ser font de riquesa per a empreses, organitzacions científiques i gubernamentals: és una riquesa mercantil, que ens converteix en consumidors passius i, per tant, en un producte per a les empreses? O bé, és una riquesa per al bé comú, és a dir, que permet millorar el nivell de transparència i fomenta la participació ciutadana? Distingeix-les i reflexiona sobre els seus usos.
+
+### Bloc 3. Gravació de les conclusions:
+
+En aquest bloc, hauràs d'enregistrar i publicar la URL d'un arxiu de so gravat per tu mateix en què expliquis les conclusions a les quals has arribat després de cursar aquest miniop seguint els suggeriments següents:
+
+* Què ha suposat per a tu fer aquest miniop?
+* Creus que ha augmentat la teva consciència sobre la importància de la seguretat a la xarxa? Què has millorat i què hauries de millorar en les teves pràctiques habituals (per exemple, la seguretat de les teves contrasenyes, els pagaments online, la selecció dels contingut que comparteixes, etc.)?
+* Quin vídeo, quin text o quin recurs t'ha cridat més l'atenció i per què?
+* Quin impacte creus que tindrà el que has descobert en aquest miniop en el teu posicionament i actuació pel que fa a la publicació a la xarxa? 
+* Com creus que es pot trobar l’equilibri entre deixar la informació al domini públic per fer d'Internet un lloc de relacions i coneixement i alhora preservar algunes qüestions per continuar gaudint d’espais propis, lliures de mirades no desitjades?
+
+### Com has de gravar i publicar el teu arxiu de so:
+
+* Arxiu de so (durada: entre 1 i 2 minuts): enregistra el teu arxiu de so i publica’l al lloc web [SoundCloud](https://soundcloud.com/) (és gratuït, t’hi pots registrar normalment o també a través de les xarxes socials). 
+* Un cop hagis pujat el teu arxiu de so a SoundCloud, fes-lo públic i copia la URL en el formulari.
+
+### Com has d'enviar el teu projecte:
+
+Un cop hagis completat el formulari que trobaràs a l'aula del miniop, només l'hauràs d'enviar i nosaltres el rebrem. Recorda d'indicar el teu **nom i cognoms clarament en el formulari**. 
+
+**Recorda que si no envies el formulari que trobaràs a l'aula no hauràs lliurat el projecte.** 
 
